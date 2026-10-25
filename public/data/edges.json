@@ -1,0 +1,4250 @@
+[
+ {
+  "id": "e001",
+  "from": "eyal",
+  "to": "mizrahi",
+  "kind": "ownership",
+  "share": 21,
+  "label": "21%",
+  "note": "דרך לין אחזקות",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e002",
+  "from": "eyal",
+  "to": "ofergl",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "מונקו",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e003",
+  "from": "ofergl",
+  "to": "zodiac",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-14"
+  ]
+ },
+ {
+  "id": "e004",
+  "from": "eyal",
+  "to": "globalh",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "יו\"ר",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-14"
+  ]
+ },
+ {
+  "id": "e005",
+  "from": "eyal",
+  "to": "miller",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e006",
+  "from": "eyal",
+  "to": "rccl",
+  "kind": "ownership",
+  "share": null,
+  "label": "החזקה מהותית",
+  "note": "דירקטור מאז 1995",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e007",
+  "from": "eyal",
+  "to": "ogenergy",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e008",
+  "from": "ogenergy",
+  "to": "nzog",
+  "kind": "ownership",
+  "share": 70,
+  "label": "70%",
+  "note": "מאז 2017",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e009",
+  "from": "eyal",
+  "to": "omni",
+  "kind": "ownership",
+  "share": null,
+  "label": "מייסד",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e010",
+  "from": "eyal",
+  "to": "ogvp",
+  "kind": "ownership",
+  "share": null,
+  "label": "קרן פרטית",
+  "note": "גייסה 550 מיליון $",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e011",
+  "from": "mizrahi",
+  "to": "yahav",
+  "kind": "ownership",
+  "share": 50,
+  "label": "50%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e012",
+  "from": "idan",
+  "to": "israelcorp",
+  "kind": "ownership",
+  "share": 44.4,
+  "label": "44.4%",
+  "note": "דרך מילניום",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-07"
+  ]
+ },
+ {
+  "id": "e013",
+  "from": "idan",
+  "to": "kenon",
+  "kind": "ownership",
+  "share": 62.4,
+  "label": "62.4%",
+  "note": "דרך Ansonia",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-06"
+  ]
+ },
+ {
+  "id": "e014",
+  "from": "idan",
+  "to": "eps",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "פרטית",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e015",
+  "from": "israelcorp",
+  "to": "icl",
+  "kind": "ownership",
+  "share": 44,
+  "label": "~44%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e016",
+  "from": "icl",
+  "to": "dsw",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e017",
+  "from": "icl",
+  "to": "rotem",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e018",
+  "from": "icl",
+  "to": "iberia",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e019",
+  "from": "icl",
+  "to": "boulby",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e020",
+  "from": "icl",
+  "to": "yph",
+  "kind": "ownership",
+  "share": null,
+  "label": "מיזם משותף",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e021",
+  "from": "kenon",
+  "to": "opc",
+  "kind": "ownership",
+  "share": 50,
+  "label": "~50%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-06"
+  ]
+ },
+ {
+  "id": "e022",
+  "from": "opc",
+  "to": "opcil",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e023",
+  "from": "opc",
+  "to": "cpv",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "כולל Shore ו-Basin Ranch בבעלות מלאה",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-06"
+  ]
+ },
+ {
+  "id": "e024",
+  "from": "adelson",
+  "to": "israelhayom",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-01",
+   "v1-07",
+   "v1-11"
+  ]
+ },
+ {
+  "id": "e025",
+  "from": "adelson",
+  "to": "lvs",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלת המניות הגדולה",
+  "note": "משפחת אדלסון",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e026",
+  "from": "adelson",
+  "to": "mavs",
+  "kind": "ownership",
+  "share": null,
+  "label": "רוב",
+  "note": "מ-2023, עם משפחת דומון",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e027",
+  "from": "federmann",
+  "to": "elbit",
+  "kind": "ownership",
+  "share": 41.2,
+  "label": "41.2%",
+  "note": "מפעלי פדרמן",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02",
+   "v1-17"
+  ]
+ },
+ {
+  "id": "e028",
+  "from": "federmann",
+  "to": "danhotels",
+  "kind": "ownership",
+  "share": 71,
+  "label": "~71%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e029",
+  "from": "danhotels",
+  "to": "den",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02",
+   "v1-19"
+  ]
+ },
+ {
+  "id": "e030",
+  "from": "elbit",
+  "to": "imi",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e031",
+  "from": "elbit",
+  "to": "elbitus",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e032",
+  "from": "elbit",
+  "to": "elbituk",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e033",
+  "from": "elbit",
+  "to": "elbitde",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e034",
+  "from": "elbit",
+  "to": "elbitse",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברות בנות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e035",
+  "from": "elbit",
+  "to": "ael",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e036",
+  "from": "tshuva",
+  "to": "tashluz",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-site"
+  ]
+ },
+ {
+  "id": "e037",
+  "from": "tashluz",
+  "to": "delek",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "דרך תשלוז השקעות ואחזקות",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-site",
+   "ice-2026-03-19-tshuva"
+  ]
+ },
+ {
+  "id": "e038",
+  "from": "delek",
+  "to": "inplay",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלת מניות גדולה",
+  "note": "רכישת מניות Obsidian, אוגוסט 2025",
+  "former": false,
+  "asOf": "2025-08-07",
+  "confidence": "official",
+  "sources": [
+   "inplay-2025-08-07"
+  ]
+ },
+ {
+  "id": "e039",
+  "from": "tshuva",
+  "to": "elad",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "פרטית",
+  "former": false,
+  "asOf": "2026-03-19",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-03-19-tshuva"
+  ]
+ },
+ {
+  "id": "e040",
+  "from": "elad",
+  "to": "eladca",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "אחרי מכירת אלעד קנדה ל-Rester ב-2020",
+  "former": false,
+  "asOf": "2020-08-05",
+  "confidence": "press",
+  "sources": [
+   "globes-2020-08-05-elad-canada"
+  ]
+ },
+ {
+  "id": "e041",
+  "from": "brightfood",
+  "to": "tnuva",
+  "kind": "ownership",
+  "share": 76.3,
+  "label": "76.3%",
+  "note": "מאז 2015 (56% מאייפקס ב-2014, ואחר כך חלקה של מבטח שמיר)",
+  "former": false,
+  "asOf": "2021-08-26",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2021-08-26-tnuva"
+  ]
+ },
+ {
+  "id": "e042",
+  "from": "kibbutzorg",
+  "to": "tnuva",
+  "kind": "ownership",
+  "share": 23.7,
+  "label": "23.7%",
+  "note": "גרנות לבדה 7.5%",
+  "former": false,
+  "asOf": "2021-08-26",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2021-08-26-tnuva",
+   "calcalist-2019-09-16-tnuva"
+  ]
+ },
+ {
+  "id": "e043",
+  "from": "tnuva",
+  "to": "maadanot",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": "2026-05-21",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-05-21-tnuva"
+  ]
+ },
+ {
+  "id": "e044",
+  "from": "tnuva",
+  "to": "tiratzvi",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": "2026-05-21",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-05-21-tnuva"
+  ]
+ },
+ {
+  "id": "e045",
+  "from": "tnuva",
+  "to": "sanfrost",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": "2026-05-21",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-05-21-tnuva"
+  ]
+ },
+ {
+  "id": "e046",
+  "from": "arison",
+  "to": "hapoalim",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה לשעבר",
+  "note": "כ-20.2% ב-2015; היתר השליטה בוטל ב-2018",
+  "former": true,
+  "asOf": "2018-09-04",
+  "confidence": "official",
+  "sources": [
+   "boi-2018-09-04-hapoalim",
+   "walla-2015-07-19-arison"
+  ]
+ },
+ {
+  "id": "e047",
+  "from": "delek",
+  "to": "newmed",
+  "kind": "ownership",
+  "share": 54.7,
+  "label": "54.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-08",
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e048",
+  "from": "newmed",
+  "to": "leviathan",
+  "kind": "ownership",
+  "share": 45.34,
+  "label": "45.34%",
+  "note": "שותפות: שברון 39.7%, רציו 15%",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e049",
+  "from": "newmed",
+  "to": "aphrodite",
+  "kind": "ownership",
+  "share": 30,
+  "label": "30%",
+  "note": "שותפות: שברון ושל",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e050",
+  "from": "delek",
+  "to": "ithaca",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלת מניות מרכזית",
+  "note": "איבדה את השליטה ב-2025 (דוח שנתי 2025)",
+  "former": false,
+  "asOf": "2026-03-25",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-03-25-delek-fy25"
+  ]
+ },
+ {
+  "id": "e051",
+  "from": "delek",
+  "to": "isracard",
+  "kind": "ownership",
+  "share": 40.1,
+  "label": "40.1%",
+  "note": "",
+  "former": false,
+  "asOf": "2026-03-25",
+  "confidence": "press",
+  "sources": [
+   "ice-2026-03-25-delek-fy25"
+  ]
+ },
+ {
+  "id": "e052",
+  "from": "isracard",
+  "to": "esh",
+  "kind": "ownership",
+  "share": null,
+  "label": "רכישה",
+  "note": "הסכם ממרץ 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e053",
+  "from": "delek",
+  "to": "mehadrin",
+  "kind": "ownership",
+  "share": 61.4,
+  "label": "61.4%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-08"
+  ]
+ },
+ {
+  "id": "e054",
+  "from": "wertheim",
+  "to": "central",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "דודי כ-63%, דרורית היתר",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e055",
+  "from": "central",
+  "to": "coke",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e056",
+  "from": "central",
+  "to": "tara",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e057",
+  "from": "central",
+  "to": "prigat",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e058",
+  "from": "central",
+  "to": "neviot",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e059",
+  "from": "central",
+  "to": "carlsberg",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e060",
+  "from": "central",
+  "to": "clover",
+  "kind": "ownership",
+  "share": 59.5,
+  "label": "59.5%",
+  "note": "דרך קונסורציום מילקו, 2019",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e061",
+  "from": "central",
+  "to": "cbcintl",
+  "kind": "ownership",
+  "share": null,
+  "label": "פעילות",
+  "note": "מאז שנות ה-90",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e062",
+  "from": "wertheim",
+  "to": "mizrahi",
+  "kind": "ownership",
+  "share": 20.5,
+  "label": "20.5%",
+  "note": "דרך F&W ו-M.W.Z, גרעין שליטה עם אייל עופר",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e063",
+  "from": "wertheim",
+  "to": "keshet",
+  "kind": "ownership",
+  "share": 74,
+  "label": "~74%",
+  "note": "ישירות ודרך CBC, נכון ל-2021",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-26"
+  ]
+ },
+ {
+  "id": "e064",
+  "from": "keshet",
+  "to": "keshetintl",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e065",
+  "from": "azrieli",
+  "to": "azrieligroup",
+  "kind": "ownership",
+  "share": 55.6,
+  "label": "55.6%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-05"
+  ]
+ },
+ {
+  "id": "e066",
+  "from": "azrieligroup",
+  "to": "palace",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e067",
+  "from": "azrieligroup",
+  "to": "greenmtn",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "מבקשת שותף, 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-05"
+  ]
+ },
+ {
+  "id": "e068",
+  "from": "strauss",
+  "to": "straussgroup",
+  "kind": "ownership",
+  "share": 47.9,
+  "label": "47.9%",
+  "note": "דרך שטראוס אחזקות",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e069",
+  "from": "straussgroup",
+  "to": "straussil",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e070",
+  "from": "straussgroup",
+  "to": "fritolay",
+  "kind": "ownership",
+  "share": 50,
+  "label": "50%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e071",
+  "from": "straussgroup",
+  "to": "coffeeint",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e072",
+  "from": "straussgroup",
+  "to": "3cor",
+  "kind": "ownership",
+  "share": 50,
+  "label": "50%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e073",
+  "from": "straussgroup",
+  "to": "swater",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e074",
+  "from": "straussgroup",
+  "to": "hsw",
+  "kind": "ownership",
+  "share": 49,
+  "label": "49%",
+  "note": "היתר בידי Haier",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e075",
+  "from": "eliahu",
+  "to": "migdal",
+  "kind": "ownership",
+  "share": 45.5,
+  "label": "45.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e076",
+  "from": "migdal",
+  "to": "migdalcm",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e077",
+  "from": "hamburger",
+  "to": "harel",
+  "kind": "ownership",
+  "share": 42.5,
+  "label": "42.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-04",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e078",
+  "from": "harel",
+  "to": "harelfin",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-04",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e079",
+  "from": "gurovich",
+  "to": "menora",
+  "kind": "ownership",
+  "share": 62.4,
+  "label": "62.4%",
+  "note": "שתי חברות פרטיות, 31.2% כל אחת",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e080",
+  "from": "menora",
+  "to": "menoraern",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e081",
+  "from": "menora",
+  "to": "ampa",
+  "kind": "ownership",
+  "share": 47.5,
+  "label": "47.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e082",
+  "from": "bino",
+  "to": "fibi",
+  "kind": "ownership",
+  "share": 48.4,
+  "label": "48.4%",
+  "note": "דרך פיבי",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-18"
+  ]
+ },
+ {
+  "id": "e083",
+  "from": "fibi",
+  "to": "massad",
+  "kind": "ownership",
+  "share": 51,
+  "label": "51%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e084",
+  "from": "fattal",
+  "to": "fattalh",
+  "kind": "ownership",
+  "share": 50.8,
+  "label": "50.8%",
+  "note": "ועוד 5.2% בידי הדסה פתאל",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e085",
+  "from": "fattalh",
+  "to": "leonardo",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e086",
+  "from": "fattalh",
+  "to": "fattalil",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e087",
+  "from": "zelkind",
+  "to": "elco",
+  "kind": "ownership",
+  "share": 63.5,
+  "label": "63.5%",
+  "note": "31.75% לכל אח",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e088",
+  "from": "elco",
+  "to": "electra",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e089",
+  "from": "elco",
+  "to": "electrare",
+  "kind": "ownership",
+  "share": 51.4,
+  "label": "51.4%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e090",
+  "from": "elco",
+  "to": "electracons",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e091",
+  "from": "electracons",
+  "to": "carrefour",
+  "kind": "ownership",
+  "share": 35,
+  "label": "35%",
+  "note": "בעלת השליטה, נכון ל-2023",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25"
+  ]
+ },
+ {
+  "id": "e092",
+  "from": "elco",
+  "to": "electrapower",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e093",
+  "from": "ramilevy",
+  "to": "shikma",
+  "kind": "ownership",
+  "share": 40,
+  "label": "~40%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e094",
+  "from": "shikma",
+  "to": "goodpharm",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e095",
+  "from": "shikma",
+  "to": "cofix",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e096",
+  "from": "yohananof",
+  "to": "yohananofc",
+  "kind": "ownership",
+  "share": 67.9,
+  "label": "67.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e097",
+  "from": "maimon",
+  "to": "isramco",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "דרך יואל ונפטא",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e098",
+  "from": "isramco",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 28.75,
+  "label": "28.75%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e099",
+  "from": "rappaport",
+  "to": "reshet13",
+  "kind": "ownership",
+  "share": 74,
+  "label": "~74%",
+  "note": "דרך קרן מריט",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e100",
+  "from": "rappaport",
+  "to": "israelbidur",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-01",
+   "v1-07",
+   "v1-11"
+  ]
+ },
+ {
+  "id": "e101",
+  "from": "lewis",
+  "to": "isrotel",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e102",
+  "from": "shwed",
+  "to": "checkpoint",
+  "kind": "ownership",
+  "share": null,
+  "label": "מייסד ויו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-15"
+  ]
+ },
+ {
+  "id": "e103",
+  "from": "checkpoint",
+  "to": "cpus",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e104",
+  "from": "checkpoint",
+  "to": "zonealarm",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e105",
+  "from": "checkpoint",
+  "to": "dome9",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e106",
+  "from": "checkpoint",
+  "to": "avanan",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e107",
+  "from": "checkpoint",
+  "to": "perimeter81",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e108",
+  "from": "checkpoint",
+  "to": "atmosec",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e109",
+  "from": "checkpoint",
+  "to": "cyberint",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e110",
+  "from": "checkpoint",
+  "to": "veriti",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e111",
+  "from": "checkpoint",
+  "to": "lakera",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e112",
+  "from": "akirov",
+  "to": "alrov",
+  "kind": "ownership",
+  "share": 82,
+  "label": "~82%",
+  "note": "ועוד ~6% לשרון אקירוב",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-19"
+  ]
+ },
+ {
+  "id": "e113",
+  "from": "alrov",
+  "to": "clal",
+  "kind": "ownership",
+  "share": 14.5,
+  "label": "14.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02",
+   "v1-19",
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e114",
+  "from": "alrov",
+  "to": "mamilla",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e115",
+  "from": "alrov",
+  "to": "alrovtower",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e116",
+  "from": "alrov",
+  "to": "caferoyal",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "The Set",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e117",
+  "from": "alrov",
+  "to": "conserv",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "בניהול מנדרין אוריינטל",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e118",
+  "from": "alrov",
+  "to": "lutetia",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "בניהול מנדרין אוריינטל",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e119",
+  "from": "liora",
+  "to": "oferinvest",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "מאז 2022",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-06",
+   "v1-13",
+   "v1-14"
+  ]
+ },
+ {
+  "id": "e120",
+  "from": "oferinvest",
+  "to": "melisron",
+  "kind": "ownership",
+  "share": 51,
+  "label": "51%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-13"
+  ]
+ },
+ {
+  "id": "e121",
+  "from": "melisron",
+  "to": "ofermalls",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e122",
+  "from": "melisron",
+  "to": "oferoffices",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e123",
+  "from": "melisron",
+  "to": "landmark",
+  "kind": "ownership",
+  "share": null,
+  "label": "משותף",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e124",
+  "from": "melisron",
+  "to": "aviv",
+  "kind": "ownership",
+  "share": 100,
+  "label": "100%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e125",
+  "from": "melisron",
+  "to": "ofernew",
+  "kind": "ownership",
+  "share": 70,
+  "label": "70%–90.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e126",
+  "from": "central",
+  "to": "gatfoods",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-26"
+  ]
+ },
+ {
+  "id": "e127",
+  "from": "kalman",
+  "to": "altshuler",
+  "kind": "ownership",
+  "share": 44.8,
+  "label": "44.8%",
+  "note": "דרך קלמן שחם החזקות",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e128",
+  "from": "chevron",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 25,
+  "label": "25%",
+  "note": "מפעילה",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e129",
+  "from": "tamarpet",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 16.75,
+  "label": "16.75%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e130",
+  "from": "mubadala",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 11,
+  "label": "11%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e131",
+  "from": "tamarinv2",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 11,
+  "label": "11%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e132",
+  "from": "dorgas",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 4,
+  "label": "4%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e133",
+  "from": "unionenergy",
+  "to": "tamar",
+  "kind": "ownership",
+  "share": 3.5,
+  "label": "3.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e134",
+  "from": "azur",
+  "to": "tamarpet",
+  "kind": "ownership",
+  "share": 25,
+  "label": "~25%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-24"
+  ]
+ },
+ {
+  "id": "e135",
+  "from": "frenkel",
+  "to": "tamarpet",
+  "kind": "ownership",
+  "share": 21,
+  "label": "~21%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-24"
+  ]
+ },
+ {
+  "id": "e136",
+  "from": "socar",
+  "to": "tamarpet",
+  "kind": "ownership",
+  "share": null,
+  "label": "אופציה",
+  "note": "עד ~24.9% אם תמומש",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-24"
+  ]
+ },
+ {
+  "id": "e137",
+  "from": "chevron",
+  "to": "leviathan",
+  "kind": "ownership",
+  "share": 39.66,
+  "label": "39.66%",
+  "note": "מפעילה",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e138",
+  "from": "ratio",
+  "to": "leviathan",
+  "kind": "ownership",
+  "share": 15,
+  "label": "15%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e139",
+  "from": "chevron",
+  "to": "aphrodite",
+  "kind": "ownership",
+  "share": 35,
+  "label": "35%",
+  "note": "מפעילה",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e140",
+  "from": "shell",
+  "to": "aphrodite",
+  "kind": "ownership",
+  "share": 35,
+  "label": "35%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-12"
+  ]
+ },
+ {
+  "id": "e141",
+  "from": "energean",
+  "to": "karish",
+  "kind": "ownership",
+  "share": null,
+  "label": "מפעילה ובעלים",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e142",
+  "from": "bitan",
+  "to": "carrefour",
+  "kind": "ownership",
+  "share": 41,
+  "label": "~41%",
+  "note": "נכון ל-2023",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25"
+  ]
+ },
+ {
+  "id": "e143",
+  "from": "nacht",
+  "to": "keshet",
+  "kind": "ownership",
+  "share": 8,
+  "label": "~8%",
+  "note": "נכון ל-2021",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-26"
+  ]
+ },
+ {
+  "id": "e144",
+  "from": "amir",
+  "to": "shufersal",
+  "kind": "ownership",
+  "share": 25,
+  "label": "25%",
+  "note": "12.5% לכל אח",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e145",
+  "from": "mirilashvili",
+  "to": "ch14",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21",
+   "v1-26"
+  ]
+ },
+ {
+  "id": "e146",
+  "from": "mirilashvili",
+  "to": "kolchai",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e147",
+  "from": "mirilashvili",
+  "to": "rotstein",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e148",
+  "from": "mirilashvili",
+  "to": "ipm",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e149",
+  "from": "mirilashvili",
+  "to": "spar",
+  "kind": "ownership",
+  "share": 19.9,
+  "label": "19.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e150",
+  "from": "phoenix",
+  "to": "carrefour",
+  "kind": "institutional",
+  "share": 15,
+  "label": "15%",
+  "note": "הסכם בעלי מניות עם אלקטרה צריכה, 2023",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-25"
+  ]
+ },
+ {
+  "id": "e151",
+  "from": "phoenix",
+  "to": "straussgroup",
+  "kind": "institutional",
+  "share": 5.7,
+  "label": "5.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e152",
+  "from": "migdal",
+  "to": "straussgroup",
+  "kind": "institutional",
+  "share": 7.5,
+  "label": "7.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e153",
+  "from": "clal",
+  "to": "straussgroup",
+  "kind": "institutional",
+  "share": 5.9,
+  "label": "5.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e154",
+  "from": "harel",
+  "to": "straussgroup",
+  "kind": "institutional",
+  "share": 5.8,
+  "label": "5.8%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-03",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e155",
+  "from": "migdal",
+  "to": "menora",
+  "kind": "institutional",
+  "share": 5,
+  "label": "5.0%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e156",
+  "from": "harel",
+  "to": "menora",
+  "kind": "institutional",
+  "share": 5.3,
+  "label": "5.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e157",
+  "from": "phoenix",
+  "to": "menora",
+  "kind": "institutional",
+  "share": 4.8,
+  "label": "4.8%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e158",
+  "from": "clal",
+  "to": "elco",
+  "kind": "institutional",
+  "share": 12.3,
+  "label": "12.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e159",
+  "from": "yelin",
+  "to": "elco",
+  "kind": "institutional",
+  "share": 5.7,
+  "label": "5.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e160",
+  "from": "altshuler",
+  "to": "elco",
+  "kind": "institutional",
+  "share": 4.9,
+  "label": "4.9%",
+  "note": "נכון ל-2023",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e161",
+  "from": "phoenix",
+  "to": "harel",
+  "kind": "institutional",
+  "share": 5.5,
+  "label": "5.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-04",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e162",
+  "from": "harel",
+  "to": "mizrahi",
+  "kind": "institutional",
+  "share": 5.2,
+  "label": "5.2%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e163",
+  "from": "meitav",
+  "to": "mizrahi",
+  "kind": "institutional",
+  "share": 5,
+  "label": "5.0%",
+  "note": "נכון ל-2024",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e164",
+  "from": "migdal",
+  "to": "icl",
+  "kind": "institutional",
+  "share": 6.9,
+  "label": "6.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e165",
+  "from": "harel",
+  "to": "icl",
+  "kind": "institutional",
+  "share": 6.6,
+  "label": "6.6%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e166",
+  "from": "phoenix",
+  "to": "migdal",
+  "kind": "institutional",
+  "share": 6.8,
+  "label": "6.8%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e167",
+  "from": "harel",
+  "to": "migdal",
+  "kind": "institutional",
+  "share": 5.3,
+  "label": "5.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-02"
+  ]
+ },
+ {
+  "id": "e168",
+  "from": "altshuler",
+  "to": "shufersal",
+  "kind": "institutional",
+  "share": 10.3,
+  "label": "10.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e169",
+  "from": "noked",
+  "to": "shufersal",
+  "kind": "institutional",
+  "share": 7.7,
+  "label": "7.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e170",
+  "from": "harel",
+  "to": "shufersal",
+  "kind": "institutional",
+  "share": 6,
+  "label": "6.0%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e171",
+  "from": "phoenix",
+  "to": "shufersal",
+  "kind": "institutional",
+  "share": 5.5,
+  "label": "5.5%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e172",
+  "from": "phoenix",
+  "to": "hapoalim",
+  "kind": "institutional",
+  "share": 7.1,
+  "label": "7.1%",
+  "note": "31.3.2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-11",
+   "v1-23"
+  ]
+ },
+ {
+  "id": "e173",
+  "from": "harel",
+  "to": "hapoalim",
+  "kind": "institutional",
+  "share": 6.9,
+  "label": "6.9%",
+  "note": "31.3.2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-11",
+   "v1-23"
+  ]
+ },
+ {
+  "id": "e174",
+  "from": "phoenix",
+  "to": "leumi",
+  "kind": "institutional",
+  "share": 7.2,
+  "label": "7.2%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e175",
+  "from": "harel",
+  "to": "leumi",
+  "kind": "institutional",
+  "share": 6.7,
+  "label": "6.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e176",
+  "from": "menora",
+  "to": "leumi",
+  "kind": "institutional",
+  "share": 6,
+  "label": "6.0%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e177",
+  "from": "meitav",
+  "to": "leumi",
+  "kind": "institutional",
+  "share": 5.3,
+  "label": "5.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-18",
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e178",
+  "from": "phoenix",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 7,
+  "label": "7.0%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e179",
+  "from": "harel",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 6.7,
+  "label": "6.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e180",
+  "from": "meitav",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 6.3,
+  "label": "6.3%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e181",
+  "from": "clal",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 6,
+  "label": "6.0%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e182",
+  "from": "menora",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 5.9,
+  "label": "5.9%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e183",
+  "from": "mor",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 5.7,
+  "label": "5.7%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e184",
+  "from": "altshuler",
+  "to": "discount",
+  "kind": "institutional",
+  "share": 4.8,
+  "label": "4.8%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-22"
+  ]
+ },
+ {
+  "id": "e185",
+  "from": "adelson",
+  "to": "bibi",
+  "kind": "political",
+  "share": null,
+  "label": "תומכים ותיקים",
+  "note": "בני הזוג אדלסון היו מהתורמים הראשונים לקמפיין של נתניהו ב-1996. בערך ב-2019 ניתקו את הקשר איתו ועם רעייתו. ב-2024 העידה מרים אדלסון במשפט נתניהו שרעייתו לחצה עליה לקבל מתנות וסיקור אוהד.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e186",
+  "from": "adelson",
+  "to": "gop",
+  "kind": "donation",
+  "share": null,
+  "label": "106 מיליון $",
+  "note": "התורמת השלישית בגודלה לקמפיין של טראמפ ב-2024. בני הזוג אדלסון היו התורמים הגדולים בקמפיינים של 2016 ו-2020. באפריל 2026 דווח על 40 מיליון $ לבחירות האמצע.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21"
+  ],
+  "amount": 106000000,
+  "currency": "USD"
+ },
+ {
+  "id": "e187",
+  "from": "israelhayom",
+  "to": "bibi",
+  "kind": "political",
+  "share": null,
+  "label": "תיק 2000",
+  "note": "לפי כתב האישום, נתניהו ונוני מוזס דנו בקידום חוק שיחליש את ישראל היום בתמורה לסיקור אוהד בידיעות אחרונות. שלדון אדלסון מסר עדות במשטרה. נתניהו מכחיש. הפרקליטות ויתרה על סעיף השוחד בתיק.",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "v1-01",
+   "v1-07",
+   "v1-11"
+  ]
+ },
+ {
+  "id": "e188",
+  "from": "mirilashvili",
+  "to": "elkin",
+  "kind": "donation",
+  "share": null,
+  "label": "11,000 ₪",
+  "note": "תרומה לפריימריז בליכוד ב-2014, כשאלקין התמודד בליכוד. גם בנו של מירילשווילי תרם 11,000 ₪. לפי כלכליסט, למשפחה קשרים עם אדלשטיין, ליברמן ודרעי.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ],
+  "amount": 11000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e189",
+  "from": "ch14",
+  "to": "likud",
+  "kind": "political",
+  "share": null,
+  "label": "במה מרכזית",
+  "note": "לפי כלכליסט (2024), ערוץ 14 הפך לבמה מרכזית לשרים ולחברי כנסת מהליכוד, ושר התקשורת שלמה קרעי מקדם חקיקה שתפטור אותו מחלק מהחובות. ב-2022 דרשה יש עתיד לרשום את הערוץ כגוף בחירות; לא מצאנו הכרעה בעניין.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21",
+   "v1-26"
+  ]
+ },
+ {
+  "id": "e190",
+  "from": "maimon",
+  "to": "kahlon",
+  "kind": "affiliation",
+  "share": null,
+  "label": "חבר וקשרים עסקיים",
+  "note": "ב-2015 נקבע לכחלון הסדר ניגוד עניינים בגלל קשריו עם מימון: נאסר עליו לטפל בענייני גז טבעי ובחברות הנדל\"ן הקשורות למימון.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e191",
+  "from": "ramilevy",
+  "to": "jlm",
+  "kind": "affiliation",
+  "share": null,
+  "label": "חבר מועצה",
+  "note": "חבר מועצת עיריית ירושלים בסיעתו של מאיר תורג'מן.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21",
+   "v1-27"
+  ]
+ },
+ {
+  "id": "e192",
+  "from": "eliahu",
+  "to": "dash",
+  "kind": "affiliation",
+  "share": null,
+  "label": "ח\"כ 1977–1981",
+  "note": "כיהן כחבר כנסת מטעם ד\"ש.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e193",
+  "from": "wertheim",
+  "to": "sharon",
+  "kind": "political",
+  "share": null,
+  "label": "מקורב",
+  "note": "מוזי ורטהיים ז\"ל, אבי המשפחה, תואר כאיש ליכוד ומקורב לאריאל שרון.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-18",
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e194",
+  "from": "eisenkot",
+  "to": "yashar",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ]
+ },
+ {
+  "id": "e195",
+  "from": "bennett",
+  "to": "beyachad",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ]
+ },
+ {
+  "id": "e196",
+  "from": "lapid",
+  "to": "yeshatid",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e197",
+  "from": "gantz",
+  "to": "bluewhite",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ]
+ },
+ {
+  "id": "e198",
+  "from": "bennett2026",
+  "to": "beyachad",
+  "kind": "affiliation",
+  "share": null,
+  "label": "רכיב",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ]
+ },
+ {
+  "id": "e199",
+  "from": "yeshatid",
+  "to": "beyachad",
+  "kind": "affiliation",
+  "share": null,
+  "label": "רכיב",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20",
+   "v1-21"
+  ]
+ },
+ {
+  "id": "e200",
+  "from": "bennett",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "ערבות אישית לאשראי",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e201",
+  "from": "knessetfund",
+  "to": "yeshatid",
+  "kind": "public-funding",
+  "share": null,
+  "label": "מקדמה 35.2M ₪",
+  "note": "מקדמת מימון בחירות, אוגוסט 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20",
+   "v1-21"
+  ],
+  "amount": 35200000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e202",
+  "from": "knessetfund",
+  "to": "bluewhite",
+  "kind": "public-funding",
+  "share": null,
+  "label": "מקדמה 9.7M ₪",
+  "note": "בלי ערבות בנקאית; חוב לכנסת כ-11.7M ₪",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 9700000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e203",
+  "from": "knessetfund",
+  "to": "yashar",
+  "kind": "public-funding",
+  "share": null,
+  "label": "זכאות עד 18.3M ₪",
+  "note": "מקדמה כנגד ערבות בנקאית; לא הוחלט אם תילקח",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 18300000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e204",
+  "from": "akirov",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "דווח באפריל 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-19",
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e205",
+  "from": "akirov",
+  "to": "bluewhite",
+  "kind": "donation",
+  "share": null,
+  "label": "2M ₪ (2019)",
+  "note": "לחוסן לישראל של גנץ, שהתאחדה לכחול לבן. ב-2021 נתן גם 2.5M ₪ לתקווה חדשה.",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-19",
+   "v1-20"
+  ],
+  "amount": 2000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e206",
+  "from": "nacht",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 500K ₪",
+  "note": "אוגוסט 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 500000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e207",
+  "from": "kalman",
+  "to": "yashar",
+  "kind": "donation",
+  "share": null,
+  "label": "תרומה 14K ₪",
+  "note": "יוני 2026",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 14000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e208",
+  "from": "kolber",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e209",
+  "from": "lowy",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20",
+   "v1-24"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e210",
+  "from": "harlap",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 986K ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 986000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e211",
+  "from": "adest",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e212",
+  "from": "levin",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "וגם תרומה 14K ₪",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e213",
+  "from": "argov",
+  "to": "yashar",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e214",
+  "from": "waldman",
+  "to": "yashar",
+  "kind": "donation",
+  "share": null,
+  "label": "תרומה 14K ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-14",
+   "v1-18",
+   "v1-20"
+  ],
+  "amount": 14000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e215",
+  "from": "wand",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 2M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 2000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e216",
+  "from": "novak",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e217",
+  "from": "shvili",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e218",
+  "from": "razlevy",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 1M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 1000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e219",
+  "from": "bnt4",
+  "to": "bennett2026",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבויות 4M ₪",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-20"
+  ],
+  "amount": 4000000,
+  "currency": "ILS"
+ },
+ {
+  "id": "e220",
+  "from": "bibi",
+  "to": "likud",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e221",
+  "from": "elkin",
+  "to": "likud",
+  "kind": "affiliation",
+  "share": null,
+  "label": "אז בליכוד",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e222",
+  "from": "kahlon",
+  "to": "kulanu",
+  "kind": "affiliation",
+  "share": null,
+  "label": "יו\"ר",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "e223",
+  "from": "sharon",
+  "to": "likud",
+  "kind": "affiliation",
+  "share": null,
+  "label": "לשעבר",
+  "note": "",
+  "former": true,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "v1-general"
+  ]
+ },
+ {
+  "id": "w1-001",
+  "from": "harlapfam",
+  "to": "colmobil",
+  "kind": "ownership",
+  "share": 100,
+  "label": "בעלות מלאה",
+  "note": "חברה פרטית בבעלות משפחת חרל\"פ מאז 2003; תמרה חרל\"פ שותפה לבעלות",
+  "former": false,
+  "asOf": "2026-10-19",
+  "confidence": "press",
+  "sources": [
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-002",
+  "from": "harlap",
+  "to": "harlapfam",
+  "kind": "ownership",
+  "share": null,
+  "label": "בן המשפחה",
+  "note": "יו\"ר כלמוביל עד פטירתו באוגוסט 2026, לפי ויקיפדיה",
+  "former": false,
+  "asOf": "2026-10-19",
+  "confidence": "press",
+  "sources": [
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-003",
+  "from": "colmobil",
+  "to": "colmobilfin",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "wiki-colmobil",
+   "colmobil-about"
+  ]
+ },
+ {
+  "id": "w1-004",
+  "from": "colmobil",
+  "to": "enerpoint",
+  "kind": "ownership",
+  "share": null,
+  "label": "רכישה (2022)",
+  "note": "",
+  "former": false,
+  "asOf": "2022-04-01",
+  "confidence": "official",
+  "sources": [
+   "wiki-colmobil",
+   "colmobil-about"
+  ]
+ },
+ {
+  "id": "w1-005",
+  "from": "colmobil",
+  "to": "apco",
+  "kind": "ownership",
+  "share": 70,
+  "label": "70%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "colmobil-about"
+  ]
+ },
+ {
+  "id": "w1-006",
+  "from": "colmobil",
+  "to": "b-mercedes",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-007",
+  "from": "colmobil",
+  "to": "b-hyundai",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-008",
+  "from": "colmobil",
+  "to": "b-mitsubishi",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-009",
+  "from": "colmobil",
+  "to": "b-chinese-colmobil",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "w1-010",
+  "from": "horesh",
+  "to": "unionmotors",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh",
+   "toyota-il-about"
+  ]
+ },
+ {
+  "id": "w1-011",
+  "from": "horesh",
+  "to": "lexmotors",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-012",
+  "from": "horesh",
+  "to": "orionmotors",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-013",
+  "from": "horesh",
+  "to": "superpharm",
+  "kind": "ownership",
+  "share": 33,
+  "label": "33%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-014",
+  "from": "horesh",
+  "to": "matchretail",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-015",
+  "from": "unionmotors",
+  "to": "b-toyota",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "toyota-il-about"
+  ]
+ },
+ {
+  "id": "w1-016",
+  "from": "lexmotors",
+  "to": "b-lexus",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-017",
+  "from": "orionmotors",
+  "to": "b-gac",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "w1-018",
+  "from": "carassofam",
+  "to": "carasso",
+  "kind": "ownership",
+  "share": 52,
+  "label": "52%",
+  "note": "בדצמבר 2023 הגישה המשפחה הצעת רכש ל-5% נוספים; אם תיענה במלואה, האחזקה תגיע ל-72%",
+  "former": false,
+  "asOf": "2023-12-05",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "w1-019",
+  "from": "carasso",
+  "to": "b-renault",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": "2023-12-05",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "w1-020",
+  "from": "carasso",
+  "to": "b-nissan",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": "2023-12-05",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "w1-021",
+  "from": "carasso",
+  "to": "b-chery",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": "2023-12-05",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-12-05-carasso",
+   "bizportal-carasso-chery"
+  ]
+ },
+ {
+  "id": "w1-022",
+  "from": "agmon",
+  "to": "delekauto",
+  "kind": "ownership",
+  "share": 50.1,
+  "label": "50.1%",
+  "note": "",
+  "former": false,
+  "asOf": "2024-03-03",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2024-03-03-delek-auto",
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "w1-023",
+  "from": "delekauto",
+  "to": "b-mazda",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא (דלק מוטורס)",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "w1-024",
+  "from": "delekauto",
+  "to": "b-ford",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא (דלק מוטורס)",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "w1-025",
+  "from": "delekauto",
+  "to": "b-bmw",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא (דלק מוטורס)",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "w1-026",
+  "from": "delekauto",
+  "to": "b-nio",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא (דלק מוטורס)",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "w1-027",
+  "from": "allied",
+  "to": "champion",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "champion-site",
+   "allied-site"
+  ]
+ },
+ {
+  "id": "w1-028",
+  "from": "allied",
+  "to": "ashtrom",
+  "kind": "ownership",
+  "share": null,
+  "label": "אחזקה",
+  "note": "שיעור ההחזקה לא מצוין באתר",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "allied-site"
+  ]
+ },
+ {
+  "id": "w1-029",
+  "from": "allied",
+  "to": "carmeltunnels",
+  "kind": "ownership",
+  "share": null,
+  "label": "אחזקה",
+  "note": "שיעור ההחזקה לא מצוין באתר",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "allied-site"
+  ]
+ },
+ {
+  "id": "w1-030",
+  "from": "champion",
+  "to": "b-vw",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "champion-site"
+  ]
+ },
+ {
+  "id": "w1-031",
+  "from": "ungerfam",
+  "to": "telcar",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "kia-il-about"
+  ]
+ },
+ {
+  "id": "w1-032",
+  "from": "telcar",
+  "to": "b-kia",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון יבוא",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "kia-il-about"
+  ]
+ },
+ {
+  "id": "w1-033",
+  "from": "weiman",
+  "to": "diplomat",
+  "kind": "ownership",
+  "share": 14.19,
+  "label": "14.19%",
+  "note": "בגרעין השליטה גם חברת עין מור (7.41%) ובני משפחה",
+  "former": false,
+  "asOf": "2025-07-08",
+  "confidence": "official",
+  "sources": [
+   "bizportal-diplomat-holders"
+  ]
+ },
+ {
+  "id": "w1-034",
+  "from": "mandelfam",
+  "to": "diplomat",
+  "kind": "ownership",
+  "share": 25.17,
+  "label": "כ-25.2%",
+  "note": "ג'פרי מנדל 9.18%; לור, אנדרו וקלודין מנדל 5.33% כל אחד",
+  "former": false,
+  "asOf": "2025-05-05",
+  "confidence": "official",
+  "sources": [
+   "bizportal-diplomat-holders"
+  ]
+ },
+ {
+  "id": "w1-035",
+  "from": "diplomat",
+  "to": "b-pg",
+  "kind": "franchise",
+  "share": null,
+  "label": "הפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-09",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "w1-036",
+  "from": "diplomat",
+  "to": "b-heinz",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-037",
+  "from": "diplomat",
+  "to": "b-starkist",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-038",
+  "from": "diplomat",
+  "to": "b-kelloggs",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-039",
+  "from": "diplomat",
+  "to": "b-kikkoman",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-02",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers"
+  ]
+ },
+ {
+  "id": "w1-040",
+  "from": "yonischestowitz",
+  "to": "schestowitz",
+  "kind": "ownership",
+  "share": 100,
+  "label": "בעלות יחיד",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-041",
+  "from": "schestowitz",
+  "to": "b-colgate",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-042",
+  "from": "schestowitz",
+  "to": "b-jnj",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-043",
+  "from": "schestowitz",
+  "to": "b-barilla",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון בלעדי",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-09",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "w1-044",
+  "from": "liemanfam",
+  "to": "liemanschlissel",
+  "kind": "ownership",
+  "share": 100,
+  "label": "בעלות משפחתית",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-045",
+  "from": "liemanschlissel",
+  "to": "b-loacker",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון בלעדי",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-09",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "w1-046",
+  "from": "liemanschlissel",
+  "to": "b-mentos",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא בלעדי",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-047",
+  "from": "liemanschlissel",
+  "to": "b-hersheys",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא בלעדי",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-02",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers"
+  ]
+ },
+ {
+  "id": "w1-048",
+  "from": "liemanschlissel",
+  "to": "b-toffifee",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא בלעדי",
+  "note": "",
+  "former": false,
+  "asOf": "2022-02-02",
+  "confidence": "press",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "ls-site"
+  ]
+ },
+ {
+  "id": "w1-049",
+  "from": "liemanschlissel",
+  "to": "b-lipton",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "ls-site"
+  ]
+ },
+ {
+  "id": "w1-050",
+  "from": "liemanschlissel",
+  "to": "b-pillsbury",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא והפצה",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "ls-site"
+  ]
+ },
+ {
+  "id": "w1-051",
+  "from": "kimberlyglobal",
+  "to": "kimberly",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה בת",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w1-052",
+  "from": "kimberly",
+  "to": "b-huggies",
+  "kind": "franchise",
+  "share": null,
+  "label": "מותגי הקבוצה",
+  "note": "",
+  "former": false,
+  "asOf": "2022-08-03",
+  "confidence": "press",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ }
+]

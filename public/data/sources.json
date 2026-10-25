@@ -1,0 +1,602 @@
+[
+ {
+  "id": "v1-01",
+  "type": "press",
+  "title": "דירוג עשירי ישראל, ice, יולי 2026",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-02",
+  "type": "official",
+  "title": "מצבת בעלי עניין: מגדל, פתאל, כלל, אלביט (ביזפורטל / TheMarker, 2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-03",
+  "type": "official",
+  "title": "שטראוס: מצגת משקיעים FY2025 (מרץ 2026); שטראוס אחזקות 47.86%",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-04",
+  "type": "press",
+  "title": "הראל: משפחת המבורגר 42.5% (אפריל 2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-05",
+  "type": "press",
+  "title": "עזריאלי 55.6% (כלכליסט); Green Mountain בנורווגיה ובלונדון (גלובס)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-06",
+  "type": "official",
+  "title": "קנון 20-F: Ansonia (עידן עופר) 62.4% (מרץ 2026); או.פי.סי ו-CPV: דוח שנתי 2025",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-07",
+  "type": "press",
+  "title": "החברה לישראל: מילניום 44.41% (ספטמבר 2023)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-08",
+  "type": "official",
+  "title": "דלק: ניו-מד 54.7%, ישראכרט 40.1%, מהדרין 61.4% (לידר, 2026); איבוד השליטה באיתקה ורכישת ישראכרט (ice, 25.3.2026); InPlay Oil (הודעת החברה, 7.8.2025); תשלוז (אתר קבוצת דלק)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-09",
+  "type": "press",
+  "title": "קבוצת אלעד: מכירת אלעד קנדה ל-Rester (גלובס, 5.8.2020); מכירת יתרת אלעד מגורים ל-JTLV (גלובס, 1.11.2021); פרופיל תשובה (ice, 19.3.2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-10",
+  "type": "press",
+  "title": "תנובה: ברייט פוד כ-76.3%, ארגוני הקיבוצים כ-23.7% (כלכליסט, 26.8.2021); גרנות 7.5% (כלכליסט, 2019); מעדנות, טירת צבי וסנפרוסט (ice, 21.5.2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-11",
+  "type": "official",
+  "title": "אריסון ובנק הפועלים: הודעת בנק ישראל על שינוי מבנה השליטה (4.9.2018); אחזקה של 20.2% (גלובס/וואלה, 19.7.2015)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-12",
+  "type": "official",
+  "title": "ניו-מד: לוויתן 45.34%, אפרודיטה 30% (מצגת יוני 2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-13",
+  "type": "press",
+  "title": "מליסרון: עופר השקעות 51%; נכסים (Zacks, ספטמבר 2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-14",
+  "type": "press",
+  "title": "אייל עופר: ויקיפדיה (Zodiac, Global Holdings, NZOG 70% ועוד)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-15",
+  "type": "official",
+  "title": "צ'ק פוינט: רכישות לפי ויקיפדיה ו-20-F 2025",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-16",
+  "type": "press",
+  "title": "CBC: גלובס (קלובר 2019; רומניה, טורקיה, אוזבקיסטן)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-17",
+  "type": "official",
+  "title": "אלביט: חברות בנות עיקריות (אתר החברה)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-18",
+  "type": "press",
+  "title": "מזרחי טפחות: ורטהיים 20.3%, אייל עופר כ-23%; הבינלאומי: פיבי 48.35%",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-19",
+  "type": "press",
+  "title": "אלרוב: אקירוב אחזקות כ-82%, כלל 14.51%; מלונות The Set",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-20",
+  "type": "press",
+  "title": "מימון מפלגות 2026: כלכליסט (ישר! ובנט, ינואר–אוגוסט 2026; מקדמות, 29.8.2026; כחול לבן, 6.8 ו-19.10.2026); ice (ערבי ישר!, 21.8.2026; בנט, 2025–2026); ביזפורטל (16.8.2026); גלובס (13.7.2026); כאן (ביחד, 26.4.2026; פרישת גנץ, 19.10.2026)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-21",
+  "type": "press",
+  "title": "קשרים פוליטיים: מעריב (תיק 2000, ינואר 2021; תרומות אדלסון, דצמבר 2025); ויקיפדיה (מרים אדלסון); כלכליסט (מירילשווילי ואלקין, דצמבר 2014; ערוץ 14, יולי 2024; הסדר כחלון, אוקטובר 2015; שלמה אליהו); וואלה (רמי לוי); מעריב (יש עתיד נגד ערוץ 14, 2022); ice (מוזי ורטהיים); המכון הישראלי לדמוקרטיה (כללי התרומות, 2019)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-22",
+  "type": "official",
+  "title": "בעלי עניין 2026 (ביזפורטל): שטראוס, מנורה, אלקו, הראל, מזרחי, ICL, שופרסל, לאומי, דיסקונט",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-23",
+  "type": "official",
+  "title": "בנק הפועלים: מחזיקים מהותיים ל-31.3.2026",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-24",
+  "type": "press",
+  "title": "שותפי תמר (ביזפורטל 2026); תמר פטרוליום: אלי עזור ואהרון פרנקל (ice)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-25",
+  "type": "press",
+  "title": "קרפור ישראל: אלקטרה צריכה 35.05%, נחום ביתן כ-41%, הפניקס 15% (כלכליסט, 2023)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-26",
+  "type": "press",
+  "title": "ערוץ 14 ואחזקות מירילשווילי (ice, כיפה); קשת (ice, 2021); גת פודס (כלכליסט)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-27",
+  "type": "press",
+  "title": "יוחננוף 67.9%; אלקו 63.5%, אלקטרה נדל\"ן 51.42%; רמי לוי כ-39.9%; רשת 13 כ-74%",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "v1-general",
+  "type": "press",
+  "title": "רשימת המקורות של גרסה 1 (הקשר לא שויך למקור מסוים)",
+  "publisher": null,
+  "url": null,
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": true
+ },
+ {
+  "id": "ice-2026-03-19-tshuva",
+  "type": "press",
+  "title": "יצחק תשובה: ממעברת עולים לאימפריית הנדל\"ן והגז של ישראל",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/business-dictionary/news/article/1106685",
+  "published": "2026-03-19",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2026-03-25-delek-fy25",
+  "type": "press",
+  "title": "קבוצת דלק: תוצאות 2025, איבוד השליטה באיתקה והשלמת רכישת ישראכרט",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/finance/news/article/1107399",
+  "published": "2026-03-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "delek-site",
+  "type": "official",
+  "title": "אודות קבוצת דלק",
+  "publisher": "קבוצת דלק",
+  "url": "https://delek-group.com/אודות-קבוצת-דלק/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "inplay-2025-08-07",
+  "type": "official",
+  "title": "InPlay Oil Corp. Announces Closing of Delek Group Ltd.'s Acquisition of InPlay Common Shares",
+  "publisher": "InPlay Oil",
+  "url": "https://dashboard.channelchek.com/release-inplay-oil-corp-announces-closing-of-delek-group-ltd-s-acquisition-of-inplay-common-shares/",
+  "published": "2025-08-07",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "globes-2020-08-05-elad-canada",
+  "type": "press",
+  "title": "Yitzhak Tshuva agrees partial sale of Elad Canada Realty",
+  "publisher": "Globes",
+  "url": "https://en.globes.co.il/en/article-yitzhak-tshuva-sells-elad-canada-assets-1001338317",
+  "published": "2020-08-05",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "globes-2021-11-01-elad-residence",
+  "type": "press",
+  "title": "Yitzhak Tshuva sells remaining Elad Residence stake",
+  "publisher": "Globes",
+  "url": "https://en.globes.co.il/en/article-yitzhak-tshuva-sells-remaining-elad-residence-stake-1001389290",
+  "published": "2021-11-01",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2021-08-26-tnuva",
+  "type": "press",
+  "title": "בעלי המניות בתנובה: ברייט פוד והקיבוצים",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/market/article/hjhh11ze11y",
+  "published": "2021-08-26",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2019-09-16-tnuva",
+  "type": "press",
+  "title": "גרנות והקיבוצים בתנובה",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/articles/0,7340,L-3770424,00.html",
+  "published": "2019-09-16",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2026-05-21-tnuva",
+  "type": "press",
+  "title": "תנובה: חברות הבת והמותגים, לקראת הנפקה",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/finance/news/article/1113711",
+  "published": "2026-05-21",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "boi-2018-09-04-hapoalim",
+  "type": "official",
+  "title": "שינוי מבנה השליטה בבנק הפועלים",
+  "publisher": "בנק ישראל",
+  "url": "https://boi.org.il/publications/pressreleases/שינוי-מבנה-השליטה-בבנק-הפועלים/",
+  "published": "2018-09-04",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "walla-2015-07-19-arison",
+  "type": "press",
+  "title": "אריסון שוקלת להכניס שותף לגרעין השליטה בפועלים (20.2%)",
+  "publisher": "גלובס / וואלה",
+  "url": "https://finance.walla.co.il/item/2874129",
+  "published": "2015-07-19",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "cartube-2025-importers",
+  "type": "press",
+  "title": "הרכבים הנמכרים ביותר בישראל, ינואר–ספטמבר 2025: מסירות ונתח שוק לפי יבואן",
+  "publisher": "cartube",
+  "url": "https://www.cartube.co.il/%D7%94%D7%9E%D7%92%D7%96%D7%99%D7%9F/%D7%94%D7%A8%D7%9B%D7%91%D7%99%D7%9D-%D7%94%D7%A0%D7%9E%D7%9B%D7%A8%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A0%D7%95%D7%90%D7%A8-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-2025",
+  "published": "2025-10-01",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "wiki-colmobil",
+  "type": "press",
+  "title": "קבוצת כלמוביל",
+  "publisher": "ויקיפדיה",
+  "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%95%D7%A6%D7%AA_%D7%9B%D7%9C%D7%9E%D7%95%D7%91%D7%99%D7%9C",
+  "published": "2026-10-19",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "colmobil-about",
+  "type": "official",
+  "title": "הסיפור שלנו: כלמוביל (כולל רכישת 70% מאפקו ואנרפוינט)",
+  "publisher": "כלמוביל",
+  "url": "https://www.colmobil.co.il/about-us/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "colmobil-org",
+  "type": "official",
+  "title": "מבנה ארגוני: המותגים שכלמוביל מייצגת",
+  "publisher": "כלמוביל",
+  "url": "https://www.colmobil.co.il/organization/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "wiki-horesh",
+  "type": "press",
+  "title": "ג'ורג' חורש",
+  "publisher": "ויקיפדיה",
+  "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%A8%D7%92%27_%D7%97%D7%95%D7%A8%D7%A9",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "toyota-il-about",
+  "type": "official",
+  "title": "אודות טויוטה בישראל: יוניון מוטורס",
+  "publisher": "טויוטה ישראל",
+  "url": "https://www.toyota.co.il/discover-toyota/toyota-in-israel/about-toyota",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2023-12-05-carasso",
+  "type": "press",
+  "title": "בני משפחת קרסו הגישו הצעת רכש ל-5% ממניות קרסו מוטורס",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/market/article/sj9eaihha",
+  "published": "2023-12-05",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-carasso-chery",
+  "type": "press",
+  "title": "קרסו מוטורס: צ'רי תומכת בתוצאות",
+  "publisher": "ביזפורטל",
+  "url": "https://www.bizportal.co.il/capitalmarket/news/article/20024229",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2024-03-03-delek-auto",
+  "type": "press",
+  "title": "הצעת הרכש נענתה: גיל אגמון יחזיק יותר מ-50% מדלק רכב",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/market/article/sy5d5nzpp",
+  "published": "2024-03-03",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "delek-motors-site",
+  "type": "official",
+  "title": "דלק מוטורס: הזיכיונות והשליטה",
+  "publisher": "דלק מוטורס",
+  "url": "https://www.delek-motors.co.il/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "champion-site",
+  "type": "official",
+  "title": "צ'מפיון מוטורס: חלק מקבוצת אלייד, מייצגת את מותגי קבוצת פולקסווגן",
+  "publisher": "צ'מפיון מוטורס",
+  "url": "https://www.championmotors.co.il/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "allied-site",
+  "type": "official",
+  "title": "קבוצת אלייד: מבנה הבעלות והאחזקות",
+  "publisher": "צ'מפיון מוטורס",
+  "url": "https://www.championmotors.co.il/about/allied-group/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "champion-about",
+  "type": "official",
+  "title": "קבוצת צ'מפיון מוטורס: הקבוצה מנוהלת על ידי חבר נאמנים דרך קרן אהרון גוטווירט",
+  "publisher": "צ'מפיון מוטורס",
+  "url": "https://www.championmotors.co.il/about/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "kia-il-about",
+  "type": "official",
+  "title": "אודות היבואן: טלקאר, בבעלות משפחת אונגר",
+  "publisher": "קיה ישראל",
+  "url": "https://kia-israel.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA-%D7%94%D7%99%D7%91%D7%95%D7%90%D7%9F",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "savey-2023-importers",
+  "type": "press",
+  "title": "יבואני רכב בישראל: סקירה 2023",
+  "publisher": "Savey (אתר השוואה)",
+  "url": "https://savey.co.il/%D7%A8%D7%9B%D7%91/%D7%99%D7%91%D7%95%D7%90%D7%A0%D7%99-%D7%A8%D7%9B%D7%91/",
+  "published": "2023-01-01",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-diplomat-holders",
+  "type": "official",
+  "title": "דיפלומט אחזקות: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי החברה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1173491",
+  "published": "2026-09-30",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "ynet-2022-02-02-importers",
+  "type": "press",
+  "title": "רחוקים מאור הזרקורים: מיהם היבואנים שמשפיעים על הכיס של כולנו?",
+  "publisher": "ynet",
+  "url": "https://www.ynet.co.il/economy/article/rjcmlxdat",
+  "published": "2022-02-02",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "davar-2022-08-03-importers",
+  "type": "press",
+  "title": "ארבע החברות שקובעות את המחירים בסופר, ורוב הישראלים לא מכירים",
+  "publisher": "דבר",
+  "url": "https://www.davar1.co.il/393058/",
+  "published": "2022-08-03",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2022-02-09-suppliers",
+  "type": "press",
+  "title": "שבויים של הספקים: כשל שוק מתמשך בשוק המזון (נתוני נתח שוק לפי קטגוריה)",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/shopping/article/r1u5gqgy9",
+  "published": "2022-02-09",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "ls-site",
+  "type": "official",
+  "title": "ליימן שליסל: המותגים שהחברה מייבאת ומפיצה",
+  "publisher": "ליימן שליסל",
+  "url": "https://www.l-s.co.il/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "globes-importers-plan",
+  "type": "press",
+  "title": "האוצר מחייה תוכנית להגבלת יבואני המזון הבלעדיים",
+  "publisher": "גלובס",
+  "url": "https://www.globes.co.il/news/article.aspx?did=1001436157",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ }
+]

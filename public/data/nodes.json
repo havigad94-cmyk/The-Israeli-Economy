@@ -1,0 +1,3260 @@
+[
+ {
+  "id": "eyal",
+  "type": "person",
+  "name": "אייל עופר",
+  "sector": null,
+  "geo": null,
+  "wealth": "הון מוערך: 34.7 מיליארד $",
+  "summary": "העשיר בישראל. האימפריה שלו גלובלית: ספנות (Zodiac, לונדון), נדל\"ן בניו יורק (Global Holdings), אנרגיה (O.G. Energy) והון סיכון. בישראל הוא שותף בגרעין השליטה במזרחי טפחות.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "adelson",
+  "type": "person",
+  "name": "מרים אדלסון",
+  "sector": null,
+  "geo": null,
+  "wealth": "הון מוערך: 33.4 מיליארד $",
+  "summary": "הבעלים והמו\"לית של ישראל היום. עיקר הונה מלאס וגאס סנדס (קזינו ונופש במקאו ובסינגפור).",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "idan",
+  "type": "person",
+  "name": "עידן עופר",
+  "sector": null,
+  "geo": null,
+  "wealth": "הון מוערך: 32.5 מיליארד $",
+  "summary": "שולט בחברה לישראל (ICL) ובקנון (או.פי.סי ו-CPV בארה\"ב). מחוץ לישראל מחזיק בחברת הספנות Eastern Pacific Shipping.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "federmann",
+  "type": "family",
+  "name": "משפחת פדרמן",
+  "sector": null,
+  "geo": null,
+  "wealth": "הון מוערך: 10.4 מיליארד $",
+  "summary": "בעלת השליטה באלביט מערכות, שפועלת דרך חברות בנות בארה\"ב, בריטניה, גרמניה, שוודיה, שווייץ וברזיל, וברשת מלונות דן.",
+  "minor": false,
+  "political_note": "אלביט היא מהספקיות הגדולות של משרד הביטחון. זה קשר עסקי עם המדינה, לא קשר מפלגתי.",
+  "sources": []
+ },
+ {
+  "id": "tshuva",
+  "type": "person",
+  "name": "יצחק תשובה",
+  "sector": null,
+  "geo": null,
+  "wealth": "הון מוערך: כ-8.5 מיליארד $",
+  "summary": "שולט בקבוצת דלק דרך תשלוז השקעות ואחזקות: ניו-מד (לוויתן ואפרודיטה בקפריסין), איתקה בים הצפוני, InPlay Oil בקנדה, ישראכרט (מקיץ 2025) ומהדרין. באופן פרטי מחזיק בקבוצת אלעד. בעבר החזיק במלון פלאזה בניו יורק, בהפניקס, בתמר, באלעד קנדה, באלעד מגורים ו-20% בקשת דרך בתו גל.",
+  "minor": false,
+  "political_note": "מתווה הגז, שקבע את התנאים לפיתוח לוויתן, אושר ב-2015 כשנתניהו חתם על סעיף 52 לחוק ההגבלים. זו החלטת מדיניות שהשפיעה על אחזקותיו, לא קשר מפלגתי מתועד.",
+  "sources": [
+   "ice-2026-03-19-tshuva",
+   "globes-2021-11-01-elad-residence"
+  ]
+ },
+ {
+  "id": "wertheim",
+  "type": "family",
+  "name": "משפחת ורטהיים",
+  "sector": null,
+  "geo": null,
+  "wealth": "דודי ודרורית ורטהיים",
+  "summary": "בעלת החברה המרכזית (CBC): קוקה-קולה ישראל, טרה, פריגת, נביעות וקרלסברג ישראל, ופעילות בדרום אפריקה ובמזרח אירופה. שותפה במזרחי טפחות ושולטת בקשת 12.",
+  "minor": false,
+  "political_note": "בקשת 12, שבשליטת המשפחה, פועלת חברת חדשות נפרדת.",
+  "sources": []
+ },
+ {
+  "id": "azrieli",
+  "type": "person",
+  "name": "האחיות עזריאלי",
+  "sector": null,
+  "geo": null,
+  "wealth": "דנה, שרון ונעמי עזריאלי",
+  "summary": "שולטות בקבוצת עזריאלי: קניונים, מגדלים, דיור מוגן ודאטה סנטרים של Green Mountain בנורווגיה ובלונדון.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "strauss",
+  "type": "family",
+  "name": "משפחת שטראוס",
+  "sector": null,
+  "geo": null,
+  "wealth": "בראשות עופרה שטראוס",
+  "summary": "שולטת בשטראוס גרופ, שפועלת בישראל, ברזיל (3corações), מזרח אירופה, סין ובריטניה.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "eliahu",
+  "type": "person",
+  "name": "שלמה אליהו",
+  "sector": null,
+  "geo": null,
+  "wealth": "משפחת אליהו",
+  "summary": "בעל השליטה במגדל, מקבוצות הביטוח והחיסכון הגדולות בישראל.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "hamburger",
+  "type": "family",
+  "name": "משפחת המבורגר",
+  "sector": null,
+  "geo": null,
+  "wealth": "יאיר, גדעון המבורגר ונורית מנור",
+  "summary": "שולטת בהראל, קבוצת הביטוח והפנסיה הגדולה בישראל.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "gurovich",
+  "type": "family",
+  "name": "משפחת גורוביץ'",
+  "sector": null,
+  "geo": null,
+  "wealth": "בנותיו של מנחם גורוביץ'",
+  "summary": "בעלת השליטה במנורה מבטחים, הבעלים של קרן הפנסיה הגדולה בישראל.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "bino",
+  "type": "family",
+  "name": "משפחת בינו",
+  "sector": null,
+  "geo": null,
+  "wealth": "צדיק בינו וילדיו",
+  "summary": "שולטת בבנק הבינלאומי דרך פיבי אחזקות, יחד עם משפחות ליברמן ואבלס.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "fattal",
+  "type": "person",
+  "name": "דוד פתאל",
+  "sector": null,
+  "geo": null,
+  "wealth": "משפחת פתאל",
+  "summary": "בעל השליטה בפתאל החזקות: כ-300 מלונות ב-21 מדינות, רובם תחת המותג Leonardo באירופה ובבריטניה.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "zelkind",
+  "type": "person",
+  "name": "האחים זלקינד",
+  "sector": null,
+  "geo": null,
+  "wealth": "דני ומייקי זלקינד",
+  "summary": "שולטים באלקו: קבלנות ותשתיות (אלקטרה), מוצרי צריכה (כולל זיכיון קרפור), ונדל\"ן מניב בארה\"ב (אלקטרה נדל\"ן).",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ramilevy",
+  "type": "person",
+  "name": "רמי לוי",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "מייסד ובעל השליטה ברמי לוי שיווק השקמה, ודרכה בגוד פארם ובקופיקס.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "yohananof",
+  "type": "family",
+  "name": "משפחת יוחננוף",
+  "sector": null,
+  "geo": null,
+  "wealth": "מרדכי יוחננוף וילדיו",
+  "summary": "בעלת השליטה ברשת יוחננוף.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "maimon",
+  "type": "person",
+  "name": "קובי מימון",
+  "sector": null,
+  "geo": null,
+  "wealth": "עם חיים צוף",
+  "summary": "שולט דרך יואל ונפטא בשותפות ישראמקו, השותפה הגדולה במאגר הגז תמר.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "rappaport",
+  "type": "person",
+  "name": "אסף רפפורט",
+  "sector": null,
+  "geo": null,
+  "wealth": "מייסד Wiz",
+  "summary": "עומד בראש קבוצת המשקיעים שרכשה את השליטה ברשת 13 ב-2026, ורכש גם את ישראל בידור.",
+  "minor": false,
+  "political_note": "לא נמצאו תרומות מתועדות למפלגות. אישור עסקת רשת 13 עבר מחלוקת עם שר התקשורת, וארגון העיתונאים טען שההחלטה נועדה לסכל אותה. השליטה מוחזקת דרך קרן לתועלת הציבור.",
+  "sources": []
+ },
+ {
+  "id": "lewis",
+  "type": "family",
+  "name": "משפחת לואיס",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "הקבוצה השולטת ברשת ישרוטל.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "shwed",
+  "type": "person",
+  "name": "גיל שויד",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "מייסד צ'ק פוינט ויו\"ר החברה. צ'ק פוינט פועלת ביותר מ-60 מדינות ובנתה את עצמה בין היתר מרכישות של חברות סייבר.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mirilashvili",
+  "type": "person",
+  "name": "יצחק מירילשווילי",
+  "sector": null,
+  "geo": null,
+  "wealth": "משפחת מירילשווילי",
+  "summary": "בעל השליטה בערוץ 14, ברדיו קול חי ובאתר 0404. שולט גם ברוטשטיין נדל\"ן וב-IPM, ומחזיק 19.9% מספאר ישראל. ממייסדי VKontakte.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "amir",
+  "type": "person",
+  "name": "האחים אמיר",
+  "sector": null,
+  "geo": null,
+  "wealth": "יוסף ושלמה אמיר",
+  "summary": "בעלי המניות הגדולים בשופרסל, כ-12.5% כל אחד. שופרסל היא רשת המזון הגדולה בישראל, בלי גרעין שליטה.",
+  "minor": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "bitan",
+  "type": "person",
+  "name": "נחום ביתן",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "מייסד יינות ביתן ובעל המניות הגדול בקרפור ישראל (כ-41% ב-2023). השליטה הניהולית בידי אלקטרה צריכה.",
+  "minor": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "nacht",
+  "type": "person",
+  "name": "מריוס נכט",
+  "sector": null,
+  "geo": null,
+  "wealth": "ממייסדי צ'ק פוינט",
+  "summary": "מחזיק כ-8% מקשת לפי דיווח מ-2021.",
+  "minor": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "azur",
+  "type": "person",
+  "name": "אלי עזור",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "בעל המניות הגדול בתמר פטרוליום, כ-25%.",
+  "minor": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "frenkel",
+  "type": "person",
+  "name": "אהרון פרנקל",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "בעל המניות השני בגודלו בתמר פטרוליום, כ-21%. ל-SOCAR האזרית אופציה לקנות חלק מהמניות שרכש.",
+  "minor": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "akirov",
+  "type": "family",
+  "name": "משפחת אקירוב",
+  "sector": null,
+  "geo": null,
+  "wealth": "אלפרד אקירוב",
+  "summary": "בעל השליטה באלרוב: מלונות The Set בלונדון, באמסטרדם ובפריז, ממילא ומצודת דוד בירושלים, ומגדל אלרוב. מחזיק כ-14.5% מכלל ביטוח.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "arison",
+  "type": "person",
+  "name": "שרי אריסון",
+  "sector": null,
+  "geo": null,
+  "wealth": "אריסון השקעות",
+  "summary": "משפחת אריסון שלטה בבנק הפועלים מ-1997 (טד אריסון), ושרי אריסון הייתה בעלת השליטה היחידה מאמצע שנות ה-2000. ב-2015 החזיקה כ-20.2%. בספטמבר 2018 אישר בנק ישראל את פיזור גרעין השליטה: היתר השליטה בוטל, זכויות ההצבעה שלה הוגבלו ל-5% ונקבעו לה עד חמש שנים לרדת ל-5% לכל היותר. מאז הפועלים הוא בנק ללא גרעין שליטה.",
+  "minor": false,
+  "political_note": null,
+  "sources": [
+   "boi-2018-09-04-hapoalim"
+  ]
+ },
+ {
+  "id": "liora",
+  "type": "person",
+  "name": "ליאורה עופר",
+  "sector": null,
+  "geo": null,
+  "wealth": null,
+  "summary": "הבעלים היחידה של עופר השקעות מ-2022, השולטת במליסרון: 18 קניוני עופר, פארקי משרדים והייטק ואביב מליסרון למגורים. כל נכסי מליסרון בישראל.",
+  "minor": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mizrahi",
+  "type": "company",
+  "name": "בנק מזרחי טפחות",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "yahav",
+  "type": "company",
+  "name": "בנק יהב",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ofergl",
+  "type": "company",
+  "name": "Ofer Global",
+  "sector": "hold",
+  "geo": "מונקו",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "zodiac",
+  "type": "company",
+  "name": "Zodiac Maritime",
+  "sector": "ind",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "ספנות, 180+ אוניות",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "globalh",
+  "type": "company",
+  "name": "Global Holdings",
+  "sector": "re",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "120+ נכסים בניו יורק ובעולם",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "miller",
+  "type": "company",
+  "name": "Miller Global Properties",
+  "sector": "re",
+  "geo": "ארה\"ב ואירופה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "rccl",
+  "type": "company",
+  "name": "Royal Caribbean",
+  "sector": "tour",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "קווי שייט",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ogenergy",
+  "type": "company",
+  "name": "O.G. Energy",
+  "sector": "energy",
+  "geo": "בינלאומי",
+  "abroad": true,
+  "summary": "נפט, גז ומימן ירוק",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "nzog",
+  "type": "company",
+  "name": "New Zealand Oil & Gas",
+  "sector": "energy",
+  "geo": "ניו זילנד",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "omni",
+  "type": "company",
+  "name": "OMNI Offshore Terminals",
+  "sector": "energy",
+  "geo": "סינגפור",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ogvp",
+  "type": "company",
+  "name": "O.G. Venture Partners",
+  "sector": "tech",
+  "geo": "בינלאומי",
+  "abroad": true,
+  "summary": "קרן הון סיכון",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "israelcorp",
+  "type": "company",
+  "name": "החברה לישראל",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "icl",
+  "type": "company",
+  "name": "ICL (כי\"ל)",
+  "sector": "ind",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "דשנים ומינרלים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "dsw",
+  "type": "company",
+  "name": "מפעלי ים המלח",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "rotem",
+  "type": "company",
+  "name": "רותם אמפרט",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "iberia",
+  "type": "company",
+  "name": "ICL Iberia",
+  "sector": "ind",
+  "geo": "ספרד",
+  "abroad": true,
+  "summary": "אשלג",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "boulby",
+  "type": "company",
+  "name": "ICL Boulby",
+  "sector": "ind",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "פוליהליט",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "yph",
+  "type": "company",
+  "name": "YPH",
+  "sector": "ind",
+  "geo": "סין",
+  "abroad": true,
+  "summary": "מיזם משותף",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "kenon",
+  "type": "company",
+  "name": "קנון",
+  "sector": "hold",
+  "geo": "סינגפור",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "opc",
+  "type": "company",
+  "name": "או.פי.סי אנרגיה",
+  "sector": "energy",
+  "geo": "ישראל וארה\"ב",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "opcil",
+  "type": "company",
+  "name": "תחנות כוח בישראל",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "רותם, חדרה, צומת, גת",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "cpv",
+  "type": "company",
+  "name": "CPV Group",
+  "sector": "energy",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "תחנות כוח בגז ובאנרגיה מתחדשת",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "eps",
+  "type": "company",
+  "name": "Eastern Pacific Shipping",
+  "sector": "ind",
+  "geo": "סינגפור",
+  "abroad": true,
+  "summary": "ספנות",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "israelhayom",
+  "type": "company",
+  "name": "ישראל היום",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "lvs",
+  "type": "company",
+  "name": "Las Vegas Sands",
+  "sector": "tour",
+  "geo": "ארה\"ב, מקאו, סינגפור",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mavs",
+  "type": "company",
+  "name": "Dallas Mavericks",
+  "sector": "media",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "קבוצת NBA",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elbit",
+  "type": "company",
+  "name": "אלביט מערכות",
+  "sector": "ind",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "imi",
+  "type": "company",
+  "name": "IMI (תע\"ש)",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elbitus",
+  "type": "company",
+  "name": "Elbit Systems of America",
+  "sector": "ind",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elbituk",
+  "type": "company",
+  "name": "Elbit Systems UK",
+  "sector": "ind",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elbitde",
+  "type": "company",
+  "name": "Elbit Deutschland",
+  "sector": "ind",
+  "geo": "גרמניה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elbitse",
+  "type": "company",
+  "name": "Elbit Sweden / Switzerland",
+  "sector": "ind",
+  "geo": "שוודיה, שווייץ",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ael",
+  "type": "company",
+  "name": "AEL Sistemas",
+  "sector": "ind",
+  "geo": "ברזיל",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "danhotels",
+  "type": "company",
+  "name": "מלונות דן",
+  "sector": "tour",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "den",
+  "type": "company",
+  "name": "The Den Bengaluru",
+  "sector": "tour",
+  "geo": "הודו",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "delek",
+  "type": "company",
+  "name": "קבוצת דלק",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "newmed",
+  "type": "company",
+  "name": "ניו-מד אנרג'י",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "leviathan",
+  "type": "company",
+  "name": "מאגר לוויתן",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "aphrodite",
+  "type": "company",
+  "name": "מאגר אפרודיטה",
+  "sector": "energy",
+  "geo": "קפריסין",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ithaca",
+  "type": "company",
+  "name": "Ithaca Energy",
+  "sector": "energy",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "נפט וגז בים הצפוני",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "isracard",
+  "type": "company",
+  "name": "ישראכרט",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "esh",
+  "type": "company",
+  "name": "בנק אש",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בנק דיגיטלי, הסכם רכישה 2026",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mehadrin",
+  "type": "company",
+  "name": "מהדרין",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tashluz",
+  "type": "company",
+  "name": "תשלוז השקעות ואחזקות",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת האחזקות הפרטית של תשובה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "inplay",
+  "type": "company",
+  "name": "InPlay Oil",
+  "sector": "energy",
+  "geo": "קנדה",
+  "abroad": true,
+  "summary": "נפט וגז באלברטה, נרכשה ב-2025",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elad",
+  "type": "company",
+  "name": "קבוצת אלעד",
+  "sector": "re",
+  "geo": "ישראל, ארה\"ב",
+  "abroad": true,
+  "summary": "חברת הנדל\"ן הפרטית של תשובה, נוסדה ב-1992",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "eladca",
+  "type": "company",
+  "name": "נכסי אלעד בקנדה",
+  "sector": "re",
+  "geo": "קנדה",
+  "abroad": true,
+  "summary": "נכסים בשווי כ-275 מיליון דולר קנדי שנשארו אחרי מכירת אלעד קנדה ב-2020",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tnuva",
+  "type": "company",
+  "name": "תנובה",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "המחלבה ויצרנית המזון הגדולה בישראל",
+  "key": false,
+  "political_note": null,
+  "sources": [
+   "ice-2026-05-21-tnuva"
+  ]
+ },
+ {
+  "id": "brightfood",
+  "type": "company",
+  "name": "Bright Food",
+  "sector": "hold",
+  "geo": "סין",
+  "abroad": true,
+  "summary": "תאגיד מזון בבעלות עיריית שנגחאי",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "kibbutzorg",
+  "type": "company",
+  "name": "ארגוני הקיבוצים והמושבים",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "הגדול שבהם: גרנות, 7.5%",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "maadanot",
+  "type": "company",
+  "name": "מעדנות",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מזון מוכן וקפוא",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tiratzvi",
+  "type": "company",
+  "name": "טירת צבי",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מוצרי בשר",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "sanfrost",
+  "type": "company",
+  "name": "סנפרוסט",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ירקות קפואים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "central",
+  "type": "company",
+  "name": "החברה המרכזית (CBC)",
+  "sector": "food",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "זכיינית קוקה-קולה בישראל",
+  "key": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "coke",
+  "type": "company",
+  "name": "קוקה-קולה ישראל",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tara",
+  "type": "company",
+  "name": "טרה",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מחלבה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "prigat",
+  "type": "company",
+  "name": "פריגת",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מיצים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "neviot",
+  "type": "company",
+  "name": "נביעות",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מים מינרליים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "carlsberg",
+  "type": "company",
+  "name": "מבשלות בירה ישראל (קרלסברג)",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "clover",
+  "type": "company",
+  "name": "Clover Industries",
+  "sector": "food",
+  "geo": "דרום אפריקה",
+  "abroad": true,
+  "summary": "מוצרי חלב ומיצים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "cbcintl",
+  "type": "company",
+  "name": "פעילות CBC במזרח",
+  "sector": "food",
+  "geo": "רומניה, טורקיה, אוזבקיסטן",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "keshet",
+  "type": "company",
+  "name": "קשת 12",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "keshetintl",
+  "type": "company",
+  "name": "Keshet International",
+  "sector": "media",
+  "geo": "בריטניה ועולם",
+  "abroad": true,
+  "summary": "הפצת פורמטים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "azrieligroup",
+  "type": "company",
+  "name": "קבוצת עזריאלי",
+  "sector": "re",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "palace",
+  "type": "company",
+  "name": "פאלאס דיור מוגן",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "greenmtn",
+  "type": "company",
+  "name": "Green Mountain",
+  "sector": "tech",
+  "geo": "נורווגיה, בריטניה",
+  "abroad": true,
+  "summary": "דאטה סנטרים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "straussgroup",
+  "type": "company",
+  "name": "שטראוס גרופ",
+  "sector": "food",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "straussil",
+  "type": "company",
+  "name": "שטראוס ישראל",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "עלית, יטבתה, אחלה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "fritolay",
+  "type": "company",
+  "name": "שטראוס פריטו-ליי",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "עם פפסיקו",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "coffeeint",
+  "type": "company",
+  "name": "שטראוס קפה",
+  "sector": "food",
+  "geo": "פולין, רומניה, אוקראינה, רוסיה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "3cor",
+  "type": "company",
+  "name": "3corações",
+  "sector": "food",
+  "geo": "ברזיל",
+  "abroad": true,
+  "summary": "קפה, עם São Miguel",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "swater",
+  "type": "company",
+  "name": "שטראוס מים",
+  "sector": "food",
+  "geo": "ישראל ובריטניה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "hsw",
+  "type": "company",
+  "name": "Haier Strauss Water",
+  "sector": "food",
+  "geo": "סין",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "migdal",
+  "type": "company",
+  "name": "מגדל ביטוח",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "migdalcm",
+  "type": "company",
+  "name": "מגדל שוקי הון",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "harel",
+  "type": "company",
+  "name": "הראל השקעות",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "harelfin",
+  "type": "company",
+  "name": "הראל פיננסים",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "menora",
+  "type": "company",
+  "name": "מנורה מבטחים",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "menoraern",
+  "type": "company",
+  "name": "מנורה ERN",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "אשראי",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ampa",
+  "type": "company",
+  "name": "אמפא קפיטל",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "fibi",
+  "type": "company",
+  "name": "הבנק הבינלאומי",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "massad",
+  "type": "company",
+  "name": "בנק מסד",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "fattalh",
+  "type": "company",
+  "name": "פתאל החזקות",
+  "sector": "tour",
+  "geo": "ישראל ואירופה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "leonardo",
+  "type": "company",
+  "name": "Leonardo Hotels",
+  "sector": "tour",
+  "geo": "גרמניה, בריטניה, אירלנד ועוד",
+  "abroad": true,
+  "summary": "כולל רשת Jurys Inn לשעבר",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "fattalil",
+  "type": "company",
+  "name": "מלונות פתאל בישראל",
+  "sector": "tour",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "לאונרדו, הרודס, U",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "elco",
+  "type": "company",
+  "name": "אלקו",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "electra",
+  "type": "company",
+  "name": "אלקטרה",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קבלנות ותשתיות",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "electrare",
+  "type": "company",
+  "name": "אלקטרה נדל\"ן",
+  "sector": "re",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "דיור להשכרה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "electracons",
+  "type": "company",
+  "name": "אלקטרה צריכה",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "carrefour",
+  "type": "company",
+  "name": "קרפור ישראל",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "זיכיון",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "electrapower",
+  "type": "company",
+  "name": "אלקטרה פאוור",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "לשעבר סופרגז",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "shikma",
+  "type": "company",
+  "name": "רמי לוי שיווק השקמה",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "goodpharm",
+  "type": "company",
+  "name": "גוד פארם",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "cofix",
+  "type": "company",
+  "name": "קופיקס",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "yohananofc",
+  "type": "company",
+  "name": "רשת יוחננוף",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "isramco",
+  "type": "company",
+  "name": "ישראמקו נגב 2",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tamar",
+  "type": "company",
+  "name": "מאגר הגז תמר",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "reshet13",
+  "type": "company",
+  "name": "רשת 13",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "israelbidur",
+  "type": "company",
+  "name": "ישראל בידור",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "isrotel",
+  "type": "company",
+  "name": "ישרוטל",
+  "sector": "tour",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "checkpoint",
+  "type": "company",
+  "name": "צ'ק פוינט",
+  "sector": "tech",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "פעילות ב-60+ מדינות",
+  "key": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "cpus",
+  "type": "company",
+  "name": "Check Point Inc.",
+  "sector": "tech",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "רדווד סיטי, קליפורניה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "zonealarm",
+  "type": "company",
+  "name": "ZoneAlarm",
+  "sector": "tech",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "נרכשה 2004",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "dome9",
+  "type": "company",
+  "name": "Dome9",
+  "sector": "tech",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "נרכשה 2018",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "avanan",
+  "type": "company",
+  "name": "Avanan",
+  "sector": "tech",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "נרכשה 2021",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "perimeter81",
+  "type": "company",
+  "name": "Perimeter 81",
+  "sector": "tech",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "נרכשה 2023",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "atmosec",
+  "type": "company",
+  "name": "Atmosec",
+  "sector": "tech",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "נרכשה 2023",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "cyberint",
+  "type": "company",
+  "name": "Cyberint",
+  "sector": "tech",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "נרכשה 2024",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "veriti",
+  "type": "company",
+  "name": "Veriti",
+  "sector": "tech",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "נרכשה 2025",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "lakera",
+  "type": "company",
+  "name": "Lakera",
+  "sector": "tech",
+  "geo": "שווייץ",
+  "abroad": true,
+  "summary": "נרכשה 2025, אבטחת AI",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "alrov",
+  "type": "company",
+  "name": "אלרוב נדל\"ן ומלונאות",
+  "sector": "re",
+  "geo": "ישראל ואירופה",
+  "abroad": true,
+  "summary": "",
+  "key": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "clal",
+  "type": "company",
+  "name": "כלל ביטוח",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mamilla",
+  "type": "company",
+  "name": "ממילא ומצודת דוד",
+  "sector": "tour",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ירושלים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "alrovtower",
+  "type": "company",
+  "name": "מגדל אלרוב",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "תל אביב",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "caferoyal",
+  "type": "company",
+  "name": "Hotel Café Royal",
+  "sector": "tour",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "לונדון",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "conserv",
+  "type": "company",
+  "name": "Conservatorium",
+  "sector": "tour",
+  "geo": "הולנד",
+  "abroad": true,
+  "summary": "אמסטרדם",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "lutetia",
+  "type": "company",
+  "name": "Hotel Lutetia",
+  "sector": "tour",
+  "geo": "צרפת",
+  "abroad": true,
+  "summary": "פריז",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "oferinvest",
+  "type": "company",
+  "name": "עופר השקעות",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "melisron",
+  "type": "company",
+  "name": "מליסרון",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": true,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ofermalls",
+  "type": "company",
+  "name": "קניוני עופר",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "18 קניונים: רמת אביב, גרנד קניון חיפה, באר שבע ופ\"ת, קריון, רחובות",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "oferoffices",
+  "type": "company",
+  "name": "פארקי משרדים והייטק",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "עופר מזרח ומערב פ\"ת, כרמל, יקנעם, מילניום",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "landmark",
+  "type": "company",
+  "name": "לנדמרק שרונה",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "משותף עם אפי נכסים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "aviv",
+  "type": "company",
+  "name": "אביב מליסרון",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מגורים והתחדשות עירונית, 27 פרויקטים",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "gatfoods",
+  "type": "company",
+  "name": "גת פודס",
+  "sector": "food",
+  "geo": "ישראל ועולם",
+  "abroad": true,
+  "summary": "בסיסים ותרכיזים לתעשיית המשקאות, 90% יצוא",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "chevron",
+  "type": "company",
+  "name": "Chevron",
+  "sector": "energy",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "מפעילת תמר ולוויתן",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mubadala",
+  "type": "company",
+  "name": "Mubadala Energy",
+  "sector": "energy",
+  "geo": "איחוד האמירויות",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tamarpet",
+  "type": "company",
+  "name": "תמר פטרוליום",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "tamarinv2",
+  "type": "company",
+  "name": "תמר השקעות 2",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "dorgas",
+  "type": "company",
+  "name": "דור גז חיפושים",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "unionenergy",
+  "type": "company",
+  "name": "יוניון אנרגיה ומערכות",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "socar",
+  "type": "company",
+  "name": "SOCAR",
+  "sector": "energy",
+  "geo": "אזרבייג'ן",
+  "abroad": true,
+  "summary": "חברת האנרגיה הלאומית",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ratio",
+  "type": "company",
+  "name": "רציו",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "shell",
+  "type": "company",
+  "name": "Shell",
+  "sector": "energy",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "energean",
+  "type": "company",
+  "name": "Energean",
+  "sector": "energy",
+  "geo": "בריטניה",
+  "abroad": true,
+  "summary": "בורסת לונדון",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "karish",
+  "type": "company",
+  "name": "מאגרי כריש ותנין",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "hapoalim",
+  "type": "company",
+  "name": "בנק הפועלים",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ללא גרעין שליטה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "leumi",
+  "type": "company",
+  "name": "בנק לאומי",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ללא גרעין שליטה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "discount",
+  "type": "company",
+  "name": "בנק דיסקונט",
+  "sector": "bank",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ללא גרעין שליטה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "shufersal",
+  "type": "company",
+  "name": "שופרסל",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ללא גרעין שליטה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ch14",
+  "type": "company",
+  "name": "ערוץ 14",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "kolchai",
+  "type": "company",
+  "name": "רדיו קול חי ו-0404",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "rotstein",
+  "type": "company",
+  "name": "רוטשטיין נדל\"ן",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ipm",
+  "type": "company",
+  "name": "IPM",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "תשתיות",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "spar",
+  "type": "company",
+  "name": "ספאר ישראל",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "phoenix",
+  "type": "institution",
+  "name": "הפניקס",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "ללא גרעין שליטה",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "altshuler",
+  "type": "institution",
+  "name": "אלטשולר שחם",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בשליטת גלעד אלטשולר וקלמן שחם",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "meitav",
+  "type": "institution",
+  "name": "מיטב",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בשליטת האחים אלי וניר ברקת",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "mor",
+  "type": "institution",
+  "name": "מור השקעות",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בשליטת משפחת מאירוב",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "yelin",
+  "type": "institution",
+  "name": "ילין לפידות",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "noked",
+  "type": "institution",
+  "name": "נוקד קפיטל",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קרן גידור",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "ofernew",
+  "type": "company",
+  "name": "קניונים בהקמה",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "עופר יבנה 70%, הרחבת נוף הגליל 90.9%",
+  "key": false,
+  "political_note": null,
+  "sources": []
+ },
+ {
+  "id": "likud",
+  "type": "party",
+  "name": "הליכוד",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה",
+  "summary": "מפלגת השלטון בראשות בנימין נתניהו.",
+  "sources": []
+ },
+ {
+  "id": "kulanu",
+  "type": "party",
+  "name": "כולנו",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה (2014–2021)",
+  "summary": "מפלגה בראשות משה כחלון, שהתמזגה לליכוד ב-2021.",
+  "sources": []
+ },
+ {
+  "id": "dash",
+  "type": "party",
+  "name": "ד\"ש",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה (נוסדה 1976)",
+  "summary": "התנועה הדמוקרטית לשינוי בראשות יגאל ידין.",
+  "sources": []
+ },
+ {
+  "id": "jlm",
+  "type": "party",
+  "name": "מועצת עיריית ירושלים",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "שלטון מקומי",
+  "summary": "פוליטיקה מקומית, לא מפלגה ארצית.",
+  "sources": []
+ },
+ {
+  "id": "gop",
+  "type": "party",
+  "name": "טראמפ והרפובליקנים",
+  "sector": null,
+  "geo": "ארה\"ב",
+  "role": "ארה\"ב",
+  "summary": "מערכות הבחירות של דונלד טראמפ וועדות פעולה פוליטיות (Super PAC) רפובליקניות.",
+  "sources": []
+ },
+ {
+  "id": "bibi",
+  "type": "politician",
+  "name": "בנימין נתניהו",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ראש הממשלה, יו\"ר הליכוד",
+  "summary": "עומד לדין בתיקים 1000, 2000 ו-4000, ומכחיש את המיוחס לו.",
+  "sources": []
+ },
+ {
+  "id": "elkin",
+  "type": "politician",
+  "name": "זאב אלקין",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "פוליטיקאי",
+  "summary": "התמודד בפריימריז של הליכוד ב-2014.",
+  "sources": []
+ },
+ {
+  "id": "kahlon",
+  "type": "politician",
+  "name": "משה כחלון",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "שר האוצר 2015–2020",
+  "summary": "יו\"ר כולנו, לשעבר בליכוד.",
+  "sources": []
+ },
+ {
+  "id": "sharon",
+  "type": "politician",
+  "name": "אריאל שרון",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ראש הממשלה 2001–2006",
+  "summary": "ראש הממשלה מטעם הליכוד ואחר כך קדימה.",
+  "sources": []
+ },
+ {
+  "id": "yashar",
+  "type": "party",
+  "name": "ישר!",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה בראשות גדי איזנקוט",
+  "summary": "נכון לאוגוסט 2026: 27 ערבויות בסך כ-16.6 מיליון ₪ ו-242 תרומות בסך כ-1.7 מיליון ₪. לא דווחו הלוואות. כמפלגה חדשה היא זכאית למקדמה ממלכתית של עד כ-18.3 מיליון ₪ כנגד ערבות בנקאית.",
+  "sources": []
+ },
+ {
+  "id": "beyachad",
+  "type": "party",
+  "name": "ביחד",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "רשימה משותפת, הוקמה 26.4.2026",
+  "summary": "איחוד של בנט 2026 ויש עתיד בראשות נפתלי בנט. לפי כלכליסט (אוגוסט 2026), בנט 2026 גייסה לפני האיחוד ערבויות לאשראי בסך 33 מיליון ₪ וניצלה מהן 10 מיליון. יש עתיד, כסיעה מכהנת, זכאית למקדמה של כ-35.2 מיליון ₪.",
+  "sources": []
+ },
+ {
+  "id": "bennett2026",
+  "type": "party",
+  "name": "בנט 2026",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה (נרשמה 2025)",
+  "summary": "מפלגתו של נפתלי בנט, רכיב ברשימת ביחד.",
+  "sources": []
+ },
+ {
+  "id": "yeshatid",
+  "type": "party",
+  "name": "יש עתיד",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה בראשות יאיר לפיד",
+  "summary": "רכיב ברשימת ביחד. זכאית למקדמת מימון בחירות של כ-35.2 מיליון ₪. אם תקטן בבחירות, תצטרך הלוואה מהכנסת שתוחזר ממחצית המימון השוטף בקדנציה הבאה.",
+  "sources": []
+ },
+ {
+  "id": "bluewhite",
+  "type": "party",
+  "name": "כחול לבן",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מפלגה בראשות בני גנץ",
+  "summary": "גנץ הודיע ב-19.10.2026 שהמפלגה פורשת מהמרוץ. לפי כלכליסט, המפלגה לקחה מקדמת מימון בחירות של 9.7 מיליון ₪ בלי ערבות בנקאית, וחובה לכנסת עומד על כ-11.7 מיליון ₪. לא ברור איך יוחזר. תלויה נגדה תביעת שכר של עובדת לשעבר בסך 1.12 מיליון ₪.",
+  "sources": []
+ },
+ {
+  "id": "knessetfund",
+  "type": "state",
+  "name": "מימון ממלכתי (הכנסת)",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "מקור מימון",
+  "summary": "לפי חוק מימון מפלגות, הכנסת מעבירה מקדמות למימון בחירות ומימון שוטף לפי מספר המנדטים. מפלגה חדשה מקבלת מקדמה רק כנגד ערבות בנקאית.",
+  "sources": []
+ },
+ {
+  "id": "eisenkot",
+  "type": "politician",
+  "name": "גדי איזנקוט",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "יו\"ר ישר!",
+  "summary": "הרמטכ\"ל לשעבר.",
+  "sources": []
+ },
+ {
+  "id": "bennett",
+  "type": "politician",
+  "name": "נפתלי בנט",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "יו\"ר ביחד",
+  "summary": "ראש הממשלה לשעבר.",
+  "sources": []
+ },
+ {
+  "id": "lapid",
+  "type": "politician",
+  "name": "יאיר לפיד",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "יו\"ר יש עתיד",
+  "summary": "ראש הממשלה לשעבר.",
+  "sources": []
+ },
+ {
+  "id": "gantz",
+  "type": "politician",
+  "name": "בני גנץ",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "יו\"ר כחול לבן",
+  "summary": "הרמטכ\"ל לשעבר.",
+  "sources": []
+ },
+ {
+  "id": "kolber",
+  "type": "donor",
+  "name": "יונתן קולבר",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "איש עסקים. נתן ב-2021 גם 4 מיליון ₪ לתקווה חדשה.",
+  "sources": []
+ },
+ {
+  "id": "lowy",
+  "type": "donor",
+  "name": "פרנק לואי",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "איש עסקים ופילנתרופ אוסטרלי.",
+  "sources": []
+ },
+ {
+  "id": "harlap",
+  "type": "donor",
+  "name": "שמואל הרלפ",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב; ממשפחת חרל\"פ, בעלי כלמוביל",
+  "summary": "יו\"ר כלמוביל. לפי ויקיפדיה כיהן עד פטירתו באוגוסט 2026. נתן ערבות של 986 אלף ₪ לישר!.",
+  "sources": []
+ },
+ {
+  "id": "adest",
+  "type": "donor",
+  "name": "מאיר אדסט",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "ממייסדי SolarEdge.",
+  "sources": []
+ },
+ {
+  "id": "levin",
+  "type": "donor",
+  "name": "עמירם לוין",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב ותורם",
+  "summary": "אלוף במילואים.",
+  "sources": []
+ },
+ {
+  "id": "argov",
+  "type": "donor",
+  "name": "גדעון ארגוב",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "איש עסקים.",
+  "sources": []
+ },
+ {
+  "id": "waldman",
+  "type": "donor",
+  "name": "אייל וולדמן",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "תורם",
+  "summary": "מייסד מלאנוקס.",
+  "sources": []
+ },
+ {
+  "id": "kalman",
+  "type": "donor",
+  "name": "קלמן שחם",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "תורם",
+  "summary": "ממייסדי אלטשולר שחם ומבעלי השליטה בה.",
+  "sources": []
+ },
+ {
+  "id": "wand",
+  "type": "donor",
+  "name": "אסף וונד",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "מייסד Hibob.",
+  "sources": []
+ },
+ {
+  "id": "novak",
+  "type": "donor",
+  "name": "ניר נובק",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "מבעלי אלקטרה טארגט, ראש המטה של בנט.",
+  "sources": []
+ },
+ {
+  "id": "shvili",
+  "type": "donor",
+  "name": "עומר שווילי",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערב",
+  "summary": "מנכ\"ל Investing.com.",
+  "sources": []
+ },
+ {
+  "id": "razlevy",
+  "type": "donor",
+  "name": "דונה רז לוי",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "ערבה",
+  "summary": "לשעבר בגוגל.",
+  "sources": []
+ },
+ {
+  "id": "bnt4",
+  "type": "donor",
+  "name": "ערבים נוספים לבנט",
+  "sector": null,
+  "geo": "ישראל",
+  "role": "עומר קפלן, מרקו טלמון, יואב שוהם, גיל רובינשטיין",
+  "summary": "ארבעה ערבים, מיליון ₪ כל אחד, לפי גלובס (יולי 2026).",
+  "sources": []
+ },
+ {
+  "id": "colmobil",
+  "type": "company",
+  "name": "כלמוביל",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית הרכב הגדולה בישראל: 20.3% מהמסירות בינואר–ספטמבר 2025. חברה פרטית בבעלות משפחת חרל\"פ מאז 2003.",
+  "sources": [
+   "wiki-colmobil",
+   "cartube-2025-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "harlapfam",
+  "type": "family",
+  "name": "משפחת חרל\"פ",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת כלמוביל. לפי ויקיפדיה, שמואל חרל\"פ כיהן כיו\"ר הקבוצה עד פטירתו באוגוסט 2026, ובנו אסף חרל\"פ מונה ליו\"ר.",
+  "sources": [
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "colmobilfin",
+  "type": "company",
+  "name": "כלמוביל פתרונות מימון",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "לשעבר דביס ישראל, שותפות עם דיימלר. כלמוביל רכשה את חלקה של דיימלר ב-2011.",
+  "sources": [
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "enerpoint",
+  "type": "company",
+  "name": "אנרפוינט",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מערכות סולאריות. נרכשה בידי כלמוביל באפריל 2022.",
+  "sources": [
+   "wiki-colmobil",
+   "colmobil-about"
+  ]
+ },
+ {
+  "id": "apco",
+  "type": "company",
+  "name": "אפקו",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית ציוד מכני הנדסי (צמ\"ה).",
+  "sources": [
+   "colmobil-about"
+  ]
+ },
+ {
+  "id": "unionmotors",
+  "type": "company",
+  "name": "יוניון מוטורס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית טויוטה בישראל מאז 1991: 14.4% מהמסירות בינואר–ספטמבר 2025.",
+  "sources": [
+   "toyota-il-about",
+   "cartube-2025-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "horesh",
+  "type": "person",
+  "name": "ג'ורג' חורש",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל השליטה בקבוצת יוניון: יבוא טויוטה, לקסוס ומשאיות הינו, נדל\"ן בישראל, באירופה ובצפון אמריקה, ואחזקות בסופר-פארם ובחברות נוספות.",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "lexmotors",
+  "type": "company",
+  "name": "לקס מוטורס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית לקסוס בישראל.",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "orionmotors",
+  "type": "company",
+  "name": "אוריון מוטורס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבוא ושיווק כלי רכב חשמליים של GAC הסינית.",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "superpharm",
+  "type": "company",
+  "name": "סופר-פארם",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "רשת הפארם הגדולה בישראל.",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "matchretail",
+  "type": "company",
+  "name": "מאצ' ריטייל (H&M ו-COS)",
+  "sector": "food",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "זיכיון לייבוא מוצרי האופנה של H&M ו-COS מאז 2010.",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "carasso",
+  "type": "company",
+  "name": "קרסו מוטורס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית רנו, ניסאן, דאצ'יה וצ'רי. חברה ציבורית: 15.1% מהמסירות בינואר–ספטמבר 2025.",
+  "sources": [
+   "calcalist-2023-12-05-carasso",
+   "cartube-2025-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "carassofam",
+  "type": "family",
+  "name": "משפחת קרסו",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בקרסו מוטורס.",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "delekauto",
+  "type": "company",
+  "name": "דלק רכב (דלק מערכות רכב)",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ציבורית, בעלת דלק מוטורס: יבואנית מאזדה, פורד, BMW, MINI, NIO ודונגפנג. 5.9% מהמסירות בינואר–ספטמבר 2025.",
+  "sources": [
+   "delek-motors-site",
+   "cartube-2025-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "agmon",
+  "type": "person",
+  "name": "גיל אגמון",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יו\"ר ובעל השליטה בדלק רכב.",
+  "sources": [
+   "delek-motors-site",
+   "calcalist-2024-03-03-delek-auto"
+  ]
+ },
+ {
+  "id": "allied",
+  "type": "company",
+  "name": "קבוצת אלייד",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת אחזקות שהקים אהרון גוטווירט ב-1965, המנוהלת היום בידי חבר נאמנים דרך קרן אהרון גוטווירט. פועלת בנדל\"ן, אלקטרוניקה, תשתיות ורכב.",
+  "sources": [
+   "allied-site",
+   "champion-about"
+  ]
+ },
+ {
+  "id": "champion",
+  "type": "company",
+  "name": "צ'מפיון מוטורס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית מותגי קבוצת פולקסווגן: 11.9% מהמסירות בינואר–ספטמבר 2025.",
+  "sources": [
+   "champion-site",
+   "cartube-2025-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "ashtrom",
+  "type": "company",
+  "name": "אשטרום",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קבוצת בנייה ונדל\"ן. מופיעה ברשימת האחזקות של קבוצת אלייד (שיעור ההחזקה לא צוין).",
+  "sources": [
+   "allied-site"
+  ]
+ },
+ {
+  "id": "carmeltunnels",
+  "type": "company",
+  "name": "מנהרות הכרמל",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "כביש אגרה בחיפה. מופיע ברשימת האחזקות של קבוצת אלייד.",
+  "sources": [
+   "allied-site"
+  ]
+ },
+ {
+  "id": "telcar",
+  "type": "company",
+  "name": "טלקאר",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "היבואנית הרשמית של קיה, בבעלות משפחת אונגר מאז 1973: 9.7% מהמסירות בינואר–ספטמבר 2025.",
+  "sources": [
+   "kia-il-about",
+   "cartube-2025-importers"
+  ]
+ },
+ {
+  "id": "ungerfam",
+  "type": "family",
+  "name": "משפחת אונגר",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת טלקאר.",
+  "sources": [
+   "kia-il-about"
+  ]
+ },
+ {
+  "id": "diplomat",
+  "type": "company",
+  "name": "דיפלומט אחזקות",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית ומפיצה ציבורית: כל מוצרי פרוקטר אנד גמבל בישראל, לצד היינץ, סטארקיסט, קלוגס וקיקומן. לפי כלכליסט (2022): 90.8% מסכיני הגילוח, 55.4% ממוצרי ההיגיינה הנשית, 42.2% משוק הטונה ו-35.3% ממוצרי הכביסה.",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ],
+  "key": true
+ },
+ {
+  "id": "weiman",
+  "type": "person",
+  "name": "נעם וימן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יו\"ר ומבעלי השליטה בדיפלומט, יחד עם משפחת מנדל.",
+  "sources": [
+   "bizportal-diplomat-holders",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "mandelfam",
+  "type": "family",
+  "name": "משפחת מנדל",
+  "sector": null,
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "מייסדי דיפלומט (רוברט מנדל, 1963) ושותפים בגרעין השליטה. מחזיקים יחד כ-25% (ג'פרי מנדל 9.18%, ולור, אנדרו וקלודין מנדל 5.33% כל אחד).",
+  "sources": [
+   "bizportal-diplomat-holders",
+   "ynet-2022-02-02-importers"
+  ]
+ },
+ {
+  "id": "schestowitz",
+  "type": "company",
+  "name": "שסטוביץ",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית פרטית של קולגייט, ג'ונסון אנד ג'ונסון ופסטה ברילה. לפי כלכליסט (2022): 54.4% ממשחות השיניים וכ-26% מהפסטה (ברילה).",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ],
+  "key": true
+ },
+ {
+  "id": "yonischestowitz",
+  "type": "person",
+  "name": "יוני שסטוביץ",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "הבעלים היחיד של שסטוביץ.",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "liemanschlissel",
+  "type": "company",
+  "name": "ליימן שליסל",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית פרטית של לואקר, מנטוס, הרשי'ס, טופיפי, מרסי, ליפטון ופילסברי. לפי כלכליסט (2022): כ-37% מקטגוריית הוופלים (לואקר).",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers",
+   "ls-site"
+  ],
+  "key": true
+ },
+ {
+  "id": "liemanfam",
+  "type": "family",
+  "name": "ליימן ושליסל",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בני הדודים מוני ליימן וראובן שליסל, בעלי ליימן שליסל.",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "kimberly",
+  "type": "company",
+  "name": "קימברלי-קלארק ישראל",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "החברה הישראלית של קימברלי-קלארק העולמית: האגיס, קלינקס וקוטקס.",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "kimberlyglobal",
+  "type": "company",
+  "name": "Kimberly-Clark",
+  "sector": "import",
+  "geo": "ארה\"ב",
+  "abroad": true,
+  "summary": "תאגיד מוצרי צריכה אמריקאי.",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-mercedes",
+  "type": "brand",
+  "name": "מרצדס-בנץ ו-smart",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "b-hyundai",
+  "type": "brand",
+  "name": "יונדאי וג'נסיס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "b-mitsubishi",
+  "type": "brand",
+  "name": "מיצובישי",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "b-chinese-colmobil",
+  "type": "brand",
+  "name": "ORA, ג'אקו ואומודה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "colmobil-org",
+   "wiki-colmobil"
+  ]
+ },
+ {
+  "id": "b-toyota",
+  "type": "brand",
+  "name": "טויוטה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "toyota-il-about"
+  ]
+ },
+ {
+  "id": "b-lexus",
+  "type": "brand",
+  "name": "לקסוס",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "b-gac",
+  "type": "brand",
+  "name": "GAC",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "wiki-horesh"
+  ]
+ },
+ {
+  "id": "b-renault",
+  "type": "brand",
+  "name": "רנו ודאצ'יה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "b-nissan",
+  "type": "brand",
+  "name": "ניסאן",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2023-12-05-carasso"
+  ]
+ },
+ {
+  "id": "b-chery",
+  "type": "brand",
+  "name": "צ'רי",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2023-12-05-carasso",
+   "bizportal-carasso-chery"
+  ]
+ },
+ {
+  "id": "b-mazda",
+  "type": "brand",
+  "name": "מאזדה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "b-ford",
+  "type": "brand",
+  "name": "פורד",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "b-bmw",
+  "type": "brand",
+  "name": "BMW ו-MINI",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "b-nio",
+  "type": "brand",
+  "name": "NIO ודונגפנג",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "delek-motors-site"
+  ]
+ },
+ {
+  "id": "b-vw",
+  "type": "brand",
+  "name": "פולקסווגן, אאודי, סקודה, סיאט וקופרה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "champion-site"
+  ]
+ },
+ {
+  "id": "b-kia",
+  "type": "brand",
+  "name": "קיה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "kia-il-about"
+  ]
+ },
+ {
+  "id": "b-pg",
+  "type": "brand",
+  "name": "פרוקטר אנד גמבל (פמפרס, אריאל, ג'ילט, טמפקס)",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "b-heinz",
+  "type": "brand",
+  "name": "היינץ",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-starkist",
+  "type": "brand",
+  "name": "סטארקיסט",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-kelloggs",
+  "type": "brand",
+  "name": "קלוגס",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-kikkoman",
+  "type": "brand",
+  "name": "קיקומן",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers"
+  ]
+ },
+ {
+  "id": "b-colgate",
+  "type": "brand",
+  "name": "קולגייט",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "calcalist-2022-02-09-suppliers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-jnj",
+  "type": "brand",
+  "name": "ג'ונסון אנד ג'ונסון",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-barilla",
+  "type": "brand",
+  "name": "ברילה",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "b-loacker",
+  "type": "brand",
+  "name": "לואקר",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "calcalist-2022-02-09-suppliers"
+  ]
+ },
+ {
+  "id": "b-mentos",
+  "type": "brand",
+  "name": "מנטוס",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "b-hersheys",
+  "type": "brand",
+  "name": "הרשי'ס",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers"
+  ]
+ },
+ {
+  "id": "b-toffifee",
+  "type": "brand",
+  "name": "טופיפי ומרסי",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ynet-2022-02-02-importers",
+   "ls-site"
+  ]
+ },
+ {
+  "id": "b-lipton",
+  "type": "brand",
+  "name": "ליפטון",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ls-site"
+  ]
+ },
+ {
+  "id": "b-pillsbury",
+  "type": "brand",
+  "name": "פילסברי",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ls-site"
+  ]
+ },
+ {
+  "id": "b-huggies",
+  "type": "brand",
+  "name": "האגיס, קלינקס וקוטקס",
+  "sector": "import",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "davar-2022-08-03-importers"
+  ]
+ }
+]
