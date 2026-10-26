@@ -23,6 +23,7 @@ function worldChain(db: DB) {
 }
 
 export function nodePasses(db: DB, s: State, n: DNode): boolean {
+  if (s.only && !s.only.has(n.id)) return false;
   if (s.typesOff.has(typeGroup(n))) return false;
   if ((n.type === "company" || n.type === "brand") && n.sector && s.sectorsOff.has(n.sector)) return false;
   if (s.geo !== "all" && ["company", "brand", "institution", "person", "family"].includes(n.type)) {

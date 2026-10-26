@@ -13,7 +13,7 @@ export interface DEdge {
 }
 export interface DSource { id: string; type: string; title: string; publisher?: string | null; url?: string | null; published?: string | null; accessed?: string; needsLink?: boolean }
 export interface Story { id: string; title: string; summary: string; steps: StoryStep[] }
-export interface StoryStep { title: string; text: string; view?: string; focus?: string; expand?: string[]; sectors?: string[]; types?: string[]; pol?: boolean }
+export interface StoryStep { title: string; text: string; view?: string; focus?: string; expand?: string[]; sectors?: string[]; types?: string[]; pol?: boolean; only?: string[] }
 
 export const OWNER_TYPES: NodeType[] = ["person", "family"];
 export const POL_TYPES: NodeType[] = ["party", "politician", "donor", "state", "lobbyist", "ministry", "committee", "regulator"];
@@ -37,19 +37,22 @@ export interface DB {
   out: Record<string, DEdge[]>; inn: Record<string, DEdge[]>;
   parent: Record<string, string | undefined>; children: Record<string, string[]>; desc: Record<string, number>;
   meta: { generated: string };
+  fins: Record<string, any>;
+  facts: Fact[];
 }
+export interface Fact { id: string; text: string; sources: string[]; focus?: string }
 
 const weight = (e: DEdge) => (e.kind === "franchise" ? 60 : e.share != null ? e.share : /שליטה|בעלות|חברה בת|חברות בנות|זיכיון|רכישה/.test(e.label) ? 60 : 30);
 
 export async function loadDB(base = "data/"): Promise<DB> {
   const get = (f: string) => fetch(base + f, { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error(f + " " + r.status); return r.json(); });
-  const [nodes, edges, sources, sectors, stories, meta] = await Promise.all([
-    get("nodes.json"), get("edges.json"), get("sources.json"), get("sectors.json"), get("stories.json"), get("meta.json").catch(() => ({ generated: "" })),
+  const [nodes, edges, sources, sectors, stories, meta, fins, facts] = await Promise.all([
+    get("nodes.json"), get("edges.json"), get("sources.json"), get("sectors.json"), get("stories.json"), get("meta.json").catch(() => ({ generated: "" })), get("financials.json").catch(() => ({})), get("facts.json").catch(() => []),
   ]);
-  return index({ nodes, edges, sources, sectors, stories, meta } as any);
+  return index({ nodes, edges, sources, sectors, stories, meta, fins, facts } as any);
 }
 
-export function index(raw: { nodes: DNode[]; edges: DEdge[]; sources: DSource[]; sectors: Record<string, string>; stories: Story[]; meta: any }): DB {
+export function index(raw: { nodes: DNode[]; edges: DEdge[]; sources: DSource[]; sectors: Record<string, string>; stories: Story[]; meta: any; fins?: any; facts?: Fact[] }): DB {
   const byId: Record<string, DNode> = Object.fromEntries(raw.nodes.map((n) => [n.id, n]));
   const srcById: Record<string, DSource> = Object.fromEntries(raw.sources.map((s) => [s.id, s]));
   const out: Record<string, DEdge[]> = {}, inn: Record<string, DEdge[]> = {};
@@ -78,7 +81,7 @@ export function index(raw: { nodes: DNode[]; edges: DEdge[]; sources: DSource[];
   const countDesc = (id: string): number => (desc[id] ??= (children[id] || []).reduce((s, c) => s + 1 + countDesc(c), 0));
   raw.nodes.forEach((n) => countDesc(n.id));
 
-  return { ...raw, byId, srcById, out, inn, parent, children, desc, meta: raw.meta || { generated: "" } };
+  return { ...raw, fins: raw.fins || {}, facts: (raw.facts || []).filter((f) => !f.focus || byId[f.focus]), byId, srcById, out, inn, parent, children, desc, meta: raw.meta || { generated: "" } };
 }
 
 // Every ownership path from the entity up to a root owner, with the effective share when all steps are numeric.

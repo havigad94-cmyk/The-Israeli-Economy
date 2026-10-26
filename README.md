@@ -59,3 +59,22 @@ Add New → Project → ייבוא המאגר. ההגדרות כבר ב-`vercel.
 הכפתור בפאנל פותח Issue ב-GitHub. כתובת המאגר מוגדרת ב-`src/config.ts`.
 
 קשר במפה אינו טענה לעבירה. המפה אינה ייעוץ השקעות.
+
+## Partnerships
+
+The "שותפויות" view and the "שותפים עסקיים" section in the panel are computed in `src/partners.ts` from the ownership links. Two holders (a person, family, institutional investor, or top-level company) are partners when:
+- they hold the same company, directly or through a chain; or
+- each holds separate companies in at least two shared sectors.
+
+Nothing is entered by hand, so every partnership rests on links that already have sources.
+
+## Reader feedback (questions, corrections, missing information)
+
+The "לא מצאתם? כתבו לנו" button opens a form. Messages are saved to the `public.feedback` table in the Supabase project `israeli-economy-map`.
+- The publishable key in `src/config.ts` can only add rows. Row-level security blocks reading, editing and deleting.
+- To read messages, open the Supabase dashboard, then Table Editor, then feedback: https://supabase.com/dashboard/project/nnfoxlxaijlhsjdtpvdi/editor
+- You can update each message's `status` column (new / in_progress / done / rejected) and `admin_note` column.
+
+## Opening (hero)
+
+`src/hero.ts` contains the "Converging Currents" generative canvas (rationale in `docs/hero-art-philosophy.md`) and the GSAP ScrollTrigger animations.

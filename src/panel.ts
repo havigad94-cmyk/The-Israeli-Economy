@@ -2,7 +2,12 @@
 // and every source behind what is shown, with its confidence level and link.
 import { DB, DEdge, DNode, KIND_LABEL, TYPE_LABEL, CONF_LABEL, STRUCT_KINDS, POL_KINDS, chains, fmtAmount } from "./data";
 import { state } from "./state";
-import { REPORT_URL } from "./config";
+import { financeTab } from "./finance";
+import { factsBlock } from "./facts";
+import { partnersOf, findPair, Pair, pairId } from "./partners";
+
+let panelTab: "links" | "money" = "links";
+export const setPanelTab = (t: "links" | "money") => (panelTab = t);
 
 const esc = (s: unknown) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]!));
 let db: DB;
@@ -37,13 +42,12 @@ function sourcesBlock() {
 function actions(n: DNode) {
   const g = db.desc[n.id] || 0;
   const open = state.expanded.has(n.id);
-  const report = `${REPORT_URL}?title=${encodeURIComponent("טעות במפה: " + n.name)}&body=${encodeURIComponent("מה לא נכון, ומה המקור לתיקון:\n\n" + location.href)}`;
   return `<div class="actions">
     <button type="button" data-act="radial">מעגלי השפעה</button>
     <button type="button" data-act="tree">עץ שליטה</button>
     ${g ? `<button type="button" data-act="toggle" class="${open ? "" : "primary"}">${open ? "קיבוץ הקבוצה" : `פתיחת הקבוצה (${g})`}</button>` : ""}
     <button type="button" data-act="copy">העתקת קישור</button>
-    <a class="ghost" style="font-size:.8rem;padding:4px 10px" href="${report}" target="_blank" rel="noopener">דיווח על טעות</a>
+    <button type="button" data-act="report">דיווח על טעות או מידע חסר</button>
   </div>`;
 }
 
@@ -51,6 +55,33 @@ function chainBlock(n: DNode) {
   const cs = chains(db, n.id);
   if (!cs.length) return "";
   return `<h3>שרשרת השליטה</h3>${cs.map((c) => `<div class="chain">${c.path.map((id) => `<a href="#" data-go="${id}">${esc(db.byId[id].name)}</a>`).join('<span class="arr">←</span>')}${c.eff != null && c.path.length > 2 ? `<span class="eff">החזקה עקיפה: ${c.eff.toFixed(1)}%</span>` : ""}</div>`).join("")}`;
+}
+
+const names = (ids: string[], max = 4) => ids.slice(0, max).map((c) => `<a href="#" data-go="${c}">${esc(db.byId[c].name)}</a>`).join("، ") + (ids.length > max ? ` ועוד ${ids.length - max}` : "");
+function partnersBlock(id: string) {
+  const ps = partnersOf(db, state, id).slice(0, 12);
+  if (!ps.length) return "";
+  return `<h3>שותפים עסקיים (${partnersOf(db, state, id).length})</h3><div class="rows">${ps.map((p) => {
+    const o = p.a === id ? p.b : p.a;
+    const secs = Object.keys(p.sectors).map((k) => esc(db.sectors[k])).join(", ");
+    return `<div class="r" data-go="e:${pairId(p.a, p.b)}" role="button" tabindex="0"><span class="n">${esc(db.byId[o].name)}</span><span class="v">${p.shared.length ? `${p.shared.length} חברות משותפות` : "באותם ענפים"}</span><span class="m">${p.shared.length ? `ביחד: ${p.shared.slice(0, 3).map((c) => esc(db.byId[c].name)).join(", ")}${p.shared.length > 3 ? "…" : ""}` : ""}${secs ? `<span>בנפרד באותו ענף: ${secs}</span>` : ""}</span></div>`;
+  }).join("")}</div>`;
+}
+
+export function renderPair(id: string) {
+  refs = [];
+  const p: Pair | null = findPair(db, state, id);
+  if (!p) return renderIntro();
+  const A = db.byId[p.a], B = db.byId[p.b];
+  const own = (who: string, c: string) => { const e = (db.inn[c] || []).find((x) => x.from === who); return e ? `${esc(e.share != null ? e.share + "%" : e.label)} ${conf(e.confidence)} ${ref(e.sources)}` : `<span class="empty">דרך חברה בשרשרת</span>`; };
+  const sec = Object.entries(p.sectors);
+  el.innerHTML = `<div class="eyebrow">שותפות עסקית · מחושבת מקשרי הבעלות</div>
+    <h2><a href="#" data-go="${A.id}" style="color:inherit">${esc(A.name)}</a> ו<a href="#" data-go="${B.id}" style="color:inherit">${esc(B.name)}</a></h2>
+    <div class="stats"><div class="stat"><b>${p.shared.length}</b><span>חברות שמחזיקים ביחד</span></div><div class="stat"><b>${sec.length}</b><span>ענפים שבהם מחזיקים בנפרד</span></div><div class="stat"><b>${p.score}</b><span>ציון קרבה</span></div></div>
+    ${p.shared.length ? `<h3>מחזיקים ביחד</h3><div class="tablewrap"><table class="dt fin"><thead><tr><th scope="col">חברה</th><th scope="col">${esc(A.name)}</th><th scope="col">${esc(B.name)}</th></tr></thead><tbody>${p.shared.map((c) => `<tr><td><a data-go="${c}" tabindex="0">${esc(db.byId[c].name)}</a></td><td>${own(A.id, c)}</td><td>${own(B.id, c)}</td></tr>`).join("")}</tbody></table></div>` : ""}
+    ${sec.length ? `<h3>מחזיקים בנפרד באותו ענף</h3><div class="rows">${sec.map(([k, [a, b]]) => `<div class="r"><span class="n"><span class="badge sec" style="background:var(--s-${k})">${esc(db.sectors[k])}</span></span><span class="v"></span><span class="m"><span>${esc(A.name)}: ${names(a)}</span><span>${esc(B.name)}: ${names(b)}</span></span></div>`).join("")}</div>` : ""}
+    <p class="note">השותפות מחושבת אוטומטית מקשרי הבעלות שבמפה, ולכל קשר יש מקור. החזקה משותפת אינה בהכרח הסכם בין הצדדים: גופים מוסדיים, למשל, מחזיקים בחברות בנפרד בשביל החוסכים.</p>
+    ${sourcesBlock()}`;
 }
 
 export function renderNode(id: string) {
@@ -70,11 +101,15 @@ export function renderNode(id: string) {
     ${n.summary ? `<p>${esc(n.summary)}</p>` : ""}${n.sources?.length ? `<p class="empty">מקור לתיאור: ${ref(n.sources)}</p>` : ""}`;
   const stats = `<div class="stats"><div class="stat"><b>${g}</b><span>גופים בקבוצה</span></div><div class="stat"><b>${owners.length}</b><span>בעלים ומחזיקים</span></div><div class="stat"><b>${pol.length}</b><span>קשרים פוליטיים</span></div></div>`;
   const other = (e: DEdge) => db.byId[e.from === id ? e.to : e.from];
-  el.innerHTML = `${head}${actions(n)}${chainBlock(n)}${stats}
+  const hasMoney = !!db.fins[id] || !!n.wealth || ["person", "family", "company", "party"].includes(n.type);
+  const tabs = hasMoney ? `<div class="ptabs" role="tablist" aria-label="תצוגת הפאנל"><button type="button" role="tab" data-ptab="links" aria-selected="${panelTab === "links"}">קשרים ובעלות</button><button type="button" role="tab" data-ptab="money" aria-selected="${panelTab === "money"}">כספים${db.fins[id] ? " ●" : ""}</button></div>` : "";
+  if (hasMoney && panelTab === "money") { el.innerHTML = `${head}${tabs}<div role="tabpanel">${financeTab(db, db.fins, n, ref)}</div>${sourcesBlock()}`; return; }
+  el.innerHTML = `${head}${tabs}${actions(n)}${chainBlock(n)}${stats}
     ${members.length ? `<h3>בתוך הקבוצה</h3><div class="rows">${members.map((c) => { const e = (db.inn[c] || []).find((x) => x.from === id)!; return row(e, db.byId[c]); }).join("")}</div>` : ""}
     ${owners.length ? `<h3>מי מחזיק בו</h3><div class="rows">${owners.sort((a, b) => (b.share ?? 0) - (a.share ?? 0)).map((e) => row(e, db.byId[e.from])).join("")}</div>` : ""}
     ${holds.length && !members.length ? `<h3>אחזקות וחברות בנות</h3><div class="rows">${holds.sort((a, b) => (b.share ?? 0) - (a.share ?? 0)).map((e) => row(e, db.byId[e.to])).join("")}</div>` : ""}
     ${instHolds.length ? `<h3>אחזקות דרך קופות גמל וקרנות</h3><div class="rows">${instHolds.map((e) => row(e, db.byId[e.to])).join("")}</div>` : ""}
+    ${partnersBlock(id)}
     ${pol.length ? `<h3>קשרים פוליטיים מתועדים</h3><div class="rows">${pol.map((e) => row(e, other(e))).join("")}</div>` : ""}
     ${n.political_note ? `<p class="note">${esc(n.political_note)}</p>` : ""}
     ${sourcesBlock()}`;
@@ -100,6 +135,7 @@ export function renderIntro() {
     <p>המפה נפתחת במצב מקובץ: כל קבוצה מוצגת כצומת אחד עם מספר הגופים שבתוכה. לחיצה כפולה על קבוצה פותחת אותה, ולחיצה רגילה מציגה כאן את כל הפרטים והמקורות.</p>
     <div class="stats"><div class="stat"><b>${db.edges.length}</b><span>קשרים</span></div><div class="stat"><b>${db.sources.length}</b><span>מקורות</span></div><div class="stat"><b>${Math.round((direct / db.edges.length) * 100)}%</b><span>קשרים עם קישור ישיר</span></div></div>
     <h3>הקבוצות הגדולות</h3><div class="rows">${groups.map((id) => `<div class="r" data-go="${id}" role="button" tabindex="0"><span class="n">${esc(db.byId[id].name)}</span><span class="v">${db.desc[id]} גופים</span></div>`).join("")}</div>
+    ${factsBlock(db)}
     <h3>איך משתמשים</h3>
     <ul class="srclist"><li>בחרו סיפור מוכן בשורת הסיפורים, או חפשו אדם, חברה או מפלגה.</li><li>החליפו תצוגה: לפי תחומים, מרחב חופשי, מעגלי השפעה סביב גוף אחד, עץ שליטה, מטריצה או רשימה נגישה.</li><li>הסרגלים מסננים אחזקות קטנות וסכומי מימון נמוכים.</li></ul>`;
 }
@@ -109,6 +145,8 @@ export function bindPanel(go: (id: string) => void, act: (a: string) => void) {
     const t = ev.target as HTMLElement;
     const r = t.closest("[data-go]") as HTMLElement | null;
     const b = t.closest("[data-act]") as HTMLElement | null;
+    const pt = t.closest("[data-ptab]") as HTMLElement | null;
+    if (pt) { ev.preventDefault(); act("ptab:" + pt.dataset.ptab); return; }
     const rf = t.closest(".refn") as HTMLElement | null;
     if (rf) { ev.preventDefault(); el.querySelector("#src-" + rf.dataset.ref)?.scrollIntoView({ behavior: "smooth", block: "center" }); return; }
     if (b) { ev.preventDefault(); act(b.dataset.act!); return; }

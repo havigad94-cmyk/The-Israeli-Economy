@@ -1,0 +1,11 @@
+# Converging Currents: the algorithmic philosophy behind the hero
+
+**Converging Currents** treats an economy as a weather system of capital. There are no buildings, logos or borders, only flows. Thirty cities sit at their true latitude and longitude, each with a weight. The outline of the country is never drawn. It emerges from where the light gathers: the coastal plain thickens, the Negev thins into a long line south, and the north splits into the valley and the Galilee. People who know the land recognize it at a glance. Everyone else sees a constellation slowly breathing.
+
+The underlying process is concentration. Every city is joined by a curved current to its regional core: Haifa, Jerusalem, Be'er Sheva or the Tel Aviv core. Every core is in turn joined to the Tel Aviv core. The curves bow outward by seeded, perpendicular offsets, so the network looks like a fan of filaments rather than a road map. Light particles ride the currents toward the core, faster near it and slower at the edges. The algorithm is built so that the eye is pulled, frame after frame, toward the same point. The theme is the subject of the map itself: who holds what, and how much of it ends up in a few hands.
+
+The number of particles is fixed at exactly 120 and never changes, a quiet reference to the 120 seats of the Knesset. The seed is 2026, the election year. A few currents run in the opposite direction in a colder blue: money returning as public funding, subsidies and taxes. They are deliberately fewer.
+
+Around the core, concentric rings turn slowly at different speeds, with tick marks like an instrument dial. They echo the "circles of influence" view inside the map. A field of dim dust, driven by smooth value noise, drifts across the whole canvas so the stillness is never dead. Scrolling feeds the system: the rings open, the currents speed up, and the whole field recedes as the reader moves from the opening into the map.
+
+The craft lies in restraint. Additive blending is used only for the particles. Trails fade through a translucent wash rather than being cleared. The pixel ratio is capped, and the animation pauses off screen. With reduced motion, a single resolved frame is drawn. Every constant (bow, falloff, ring cadence, trail decay) was tuned by eye until the motion read as inevitable rather than random.

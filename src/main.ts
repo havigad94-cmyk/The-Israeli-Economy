@@ -3,9 +3,14 @@ import Fuse from "fuse.js";
 import { loadDB, DB, TYPE_LABEL, ancestors } from "./data";
 import { state, set, onChange, readHash, writeHash, TYPE_GROUPS, AMOUNT_LABELS, View } from "./state";
 import { initGraph, render, highlight, fitHome, focusView, cy, currentModel, styles } from "./graph";
-import { initPanel, renderNode, renderEdge, renderIntro, bindPanel } from "./panel";
+import { initPanel, renderNode, renderEdge, renderIntro, bindPanel, renderPair } from "./panel";
 import { renderMatrix, renderList } from "./tables";
+import { renderFinanceView } from "./finance";
+import { setPanelTab } from "./panel";
 import { typeGroup } from "./model";
+import { initHero } from "./hero";
+import { initFeedback, openFeedback } from "./feedback";
+import { initFacts } from "./facts";
 
 const $ = <T extends HTMLElement = HTMLElement>(s: string) => document.querySelector(s) as T;
 let db: DB;
@@ -25,18 +30,40 @@ async function boot() {
   buildControls();
   buildStories();
   buildLegend();
+  initFeedback(db);
+  initHero(db, { story: (id) => { startStory(id); scrollToApp(); } });
+  initChrome();
+  initFacts(db, $("#canvasWrap"), (id) => { set({ story: null, only: null }, "story"); $("#storyCard").hidden = true; go(id); });
+  $("#dataStampTop").textContent = `${db.nodes.length} גופים · ${db.edges.length} קשרים · ${db.sources.length} מקורות · עודכן ${db.meta.generated || "26.10.2026"}`;
   $("#dataStamp").textContent = `${db.nodes.length} גופים · ${db.edges.length} קשרים · ${db.sources.length} מקורות${db.meta.generated ? " · עודכן " + db.meta.generated : ""}`;
   onChange(update);
   if (state.selected && !db.byId[state.selected] && !state.selected.startsWith("e:")) state.selected = null;
   if (state.selected && db.byId[state.selected]) revealAncestors(state.selected);
   update("init");
   if (state.story) applyStep(false);
+  if (location.hash.length > 1 && location.hash !== "#app" && location.hash !== "#top") requestAnimationFrame(() => $("#app").scrollIntoView({ behavior: "instant" as ScrollBehavior }));
 }
+
+// ---------- page chrome: theme, nav, mobile sheet ----------
+const mobile = () => matchMedia("(max-width: 900px)").matches;
+function scrollToApp() { $("#app").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); }
+function initChrome() {
+  $("#themeBtn").addEventListener("click", () => {
+    const t = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+    document.documentElement.dataset.theme = t;
+    try { localStorage.setItem("iem-theme", t); } catch { /* storage blocked */ }
+    cy.style(styles());
+    if (["matrix", "list", "finance"].includes(state.view)) update("theme");
+  });
+  document.querySelectorAll<HTMLElement>("[data-nav-view]").forEach((b) => b.addEventListener("click", () => { set({ view: b.dataset.navView as View, story: null, only: null }, "view"); $("#storyCard").hidden = true; scrollToApp(); }));
+  $("#panel").addEventListener("click", (e) => { if ((e.target as HTMLElement).closest(".grab")) { const p = $("#panel"); p.classList.toggle("open"); document.body.classList.toggle("sheet-open", p.classList.contains("open")); } });
+}
+function startStory(id: string) { state.story = id; state.step = 0; applyStep(true); }
 
 // ---------- state → screen ----------
 function update(why: string) {
   syncControls();
-  const table = state.view === "matrix" || state.view === "list";
+  const table = state.view === "matrix" || state.view === "list" || state.view === "finance";
   $("#cy").style.visibility = table ? "hidden" : "visible";
   $("#tableView").hidden = !table;
   $("#zoomCtl").hidden = table;
@@ -45,11 +72,11 @@ function update(why: string) {
   if (table) $("#storyCard").hidden = true; else if (state.story) $("#storyCard").hidden = false;
   $("#hint").textContent = hintText();
   if (table) {
-    if (why !== "select") (state.view === "matrix" ? renderMatrix : renderList)(db, state, $("#tableView"));
+    if (why !== "select") state.view === "finance" ? renderFinanceView(db, db.fins, state, $("#tableView")) : (state.view === "matrix" ? renderMatrix : renderList)(db, state, $("#tableView"));
   } else if (why === "select") {
     if (state.view === "radial" || state.view === "tree") render(state, "select-layout"); else highlight(state.selected);
   } else render(state, why);
-  renderPanel();
+  renderPanel(why);
 }
 
 function hintText() {
@@ -57,14 +84,23 @@ function hintText() {
     case "cols": return "גררו להזזה · גלגלת להגדלה · לחיצה כפולה פותחת קבוצה";
     case "free": return "הסרגלים משנים את הדחייה ואת אורך הקשרים";
     case "radial": return state.selected ? "הגוף הנבחר במרכז; כל מעגל הוא דרגת קרבה נוספת (עד 3)" : "בחרו גוף כדי לשים אותו במרכז";
+    case "partners": return "קו רציף: מחזיקים ביחד באותה חברה · קו מקווקו: מחזיקים בנפרד באותם ענפים · המספר ליד השם: מספר החברות שבידיו";
     case "tree": return state.selected ? "שרשרת השליטה של הגוף הנבחר, מלמעלה למטה" : "בחרו גוף כדי לראות רק את העץ שלו";
     default: return "";
   }
 }
 
-function renderPanel() {
+function renderPanel(why = "") {
+  renderPanelBody();
+  const p = $("#panel");
+  const s = state.selected, name = s && !s.startsWith("e:") ? db.byId[s]?.name : s ? "פרטי הקשר" : "מבט על המפה";
+  p.insertAdjacentHTML("afterbegin", `<button type="button" class="grab" aria-label="פתיחה או סגירה של חלון הפרטים">${name || ""}</button>`);
+  if (mobile() && ["select", "reveal", "expand", "init"].includes(why)) { const open = !!s && why !== "init"; p.classList.toggle("open", open); document.body.classList.toggle("sheet-open", open); }
+}
+function renderPanelBody() {
   const s = state.selected;
   if (!s) return renderIntro();
+  if (s.startsWith("e:pp:")) return renderPair(s.slice(2));
   if (s.startsWith("e:")) {
     const ve = currentModel()?.edges.find((e) => e.id === s.slice(2));
     return ve ? renderEdge(ve.id, ve.edges) : renderIntro();
@@ -87,9 +123,10 @@ function select(id: string | null) {
   set({ selected: id, story: id ? state.story : state.story }, "select");
 }
 function go(id: string) {
+  if (id.startsWith("e:")) { set({ selected: id }, "select"); return; }
   revealAncestors(id);
   set({ selected: id }, "reveal");
-  if (state.view !== "matrix" && state.view !== "list") setTimeout(() => focusView(id), 60);
+  if (!["matrix", "list", "finance"].includes(state.view)) setTimeout(() => focusView(id), 60);
   $("#panel").focus({ preventScroll: true });
 }
 function toggleGroup(id: string) {
@@ -98,10 +135,12 @@ function toggleGroup(id: string) {
   set({ expanded: x, selected: id }, "expand");
 }
 function panelAction(a: string) {
+  if (a.startsWith("ptab:")) { setPanelTab(a.slice(5) as any); renderPanel(); return; }
   const id = state.selected;
   if (!id || id.startsWith("e:")) return;
   if (a === "radial" || a === "tree") set({ view: a as View }, "view");
   if (a === "toggle") toggleGroup(id);
+  if (a === "report") { openFeedback("correction", id); return; }
   if (a === "copy") navigator.clipboard?.writeText(location.href).then(() => { const b = $("#panel [data-act='copy']"); if (b) b.textContent = "הקישור הועתק"; });
 }
 
@@ -144,6 +183,8 @@ function syncControls() {
   const press = (sel: string, attr: string, val: string) => document.querySelectorAll(`${sel} button`).forEach((b) => b.setAttribute("aria-pressed", String((b as HTMLElement).dataset[attr] === val)));
   press("#viewSeg", "v", state.view);
   press("#geoSeg", "g", state.geo);
+  const on = document.querySelector<HTMLElement>("#viewSeg button[aria-pressed='true']"), seg = $("#viewSeg");
+  if (on && seg.scrollWidth > seg.clientWidth) seg.scrollTo({ left: on.offsetLeft - (seg.clientWidth - on.offsetWidth) / 2, behavior: "smooth" });
   document.querySelectorAll("#typeTags .tag").forEach((b) => b.setAttribute("aria-pressed", String(!state.typesOff.has((b as HTMLElement).dataset.t!))));
   document.querySelectorAll("#sectorTags .tag").forEach((b) => b.setAttribute("aria-pressed", String(!state.sectorsOff.has((b as HTMLElement).dataset.s!))));
   $<HTMLInputElement>("#minShare").value = String(state.minShare);
@@ -167,7 +208,7 @@ function buildSearch() {
     res.innerHTML = list.length ? list.map((n, i) => `<li role="option" id="qo${i}" data-id="${n.id}" aria-selected="${i === idx}">${n.name}<span>${label(n)}</span></li>`).join("") : `<li class="empty" role="option" aria-disabled="true">לא נמצא. נסו שם אחר או חלק ממנו.</li>`;
     q.setAttribute("aria-activedescendant", list.length ? "qo" + idx : "");
   };
-  const pick = (id: string) => { q.value = ""; res.hidden = true; q.setAttribute("aria-expanded", "false"); set({ story: null }, "story"); go(id); };
+  const pick = (id: string) => { q.value = ""; res.hidden = true; q.setAttribute("aria-expanded", "false"); set({ story: null, only: null }, "story"); go(id); };
   q.addEventListener("input", () => { list = fuse.search(q.value.trim()).slice(0, 10).map((r) => r.item); idx = 0; draw(); });
   q.addEventListener("keydown", (e) => {
     if (res.hidden) return;
@@ -185,13 +226,13 @@ function buildStories() {
   $("#storyChips").innerHTML = db.stories.map((s) => `<button type="button" data-s="${s.id}" title="${s.summary}">${s.title}</button>`).join("");
   $("#storyChips").addEventListener("click", (e) => {
     const b = (e.target as HTMLElement).closest("button"); if (!b) return;
-    if (state.story === b.dataset.s) { set({ story: null }, "story"); $("#storyCard").hidden = true; return; }
-    state.story = b.dataset.s!; state.step = 0; applyStep(true);
+    if (state.story === b.dataset.s) { set({ story: null, only: null }, "story"); $("#storyCard").hidden = true; return; }
+    startStory(b.dataset.s!);
   });
   $("#storyCard").addEventListener("click", (e) => {
     const b = (e.target as HTMLElement).closest("button"); if (!b) return;
     const st = db.stories.find((s) => s.id === state.story); if (!st) return;
-    if (b.dataset.nav === "close") { set({ story: null }, "story"); $("#storyCard").hidden = true; return; }
+    if (b.dataset.nav === "close") { set({ story: null, only: null }, "story"); $("#storyCard").hidden = true; return; }
     state.step = Math.max(0, Math.min(st.steps.length - 1, state.step + (b.dataset.nav === "next" ? 1 : -1)));
     applyStep(true);
   });
@@ -206,6 +247,7 @@ function applyStep(animate: boolean) {
     if (!step.pol) patch.typesOff = new Set(["political", "donor", "gov", ...(step.sectors.some((k) => k === "bank" || k === "fin") ? [] : ["institution"])]);
   }
   if (step.types) patch.typesOff = new Set(step.types);
+  patch.only = step.only ? new Set(step.only) : null;
   Object.assign(state, patch);
   if (step.focus) revealAncestors(step.focus);
   set({}, "story");

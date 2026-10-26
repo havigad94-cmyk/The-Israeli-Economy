@@ -1,37 +1,79 @@
 <!doctype html>
-<html lang="he" dir="rtl">
+<html lang="he" dir="rtl" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>מפת המשק הישראלי</title>
-<meta name="description" content="מפה אינטראקטיבית של בעלי ההון, החברות, הגופים המוסדיים והמפלגות בישראל, עם מקור לכל קשר.">
+<meta name="description" content="מפה אינטראקטיבית של בעלי ההון, החברות, הבנקים, הגופים המוסדיים והמפלגות בישראל: מי שולט במה, מי שותף של מי, ומי מממן את מי. לכל קשר יש מקור.">
 <meta property="og:title" content="מפת המשק הישראלי">
-<meta property="og:description" content="מי מחזיק במה, מי קשור למי, ומאיפה כל נתון: מפת בעלות, הון ושלטון עם מקורות.">
-<meta name="color-scheme" content="light dark">
+<meta property="og:description" content="מי באמת מחזיק במשק הישראלי? בעלות, שותפויות, כספים ומימון פוליטי, עם מקור לכל קשר.">
+<meta name="theme-color" content="#050A13">
+<meta name="color-scheme" content="dark light">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800;900&display=swap">
+<script>try{var t=localStorage.getItem("iem-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
-<a class="skip" href="#list-view-link">דילוג לתצוגת רשימה נגישה</a>
-<div class="app">
-  <header class="top">
-    <div class="brand">
-      <p class="eyebrow">מפת בעלות, הון ושלטון · גרסה 2</p>
-      <h1>מפת המשק הישראלי</h1>
-      <p class="lede" id="lede">מי מחזיק במה, מי קשור למי, ומאיפה כל נתון.</p>
-    </div>
-    <nav class="toplinks" aria-label="קישורים">
-      <button type="button" class="ghost" id="aboutBtn">איך בנינו את המפה</button>
-    </nav>
-  </header>
+<a class="skip" href="#app">דילוג למפה</a>
 
-  <section class="stories" aria-label="סיפורים מוכנים">
-    <span class="flabel">סיפורים</span>
-    <div class="storychips" id="storyChips"></div>
+<nav class="topnav" aria-label="ניווט ראשי">
+  <a class="mark" href="#top" aria-label="מפת המשק הישראלי, לראש העמוד">
+    <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="4.2"/><circle cx="6" cy="8" r="2.2"/><circle cx="26" cy="7" r="1.8"/><circle cx="25" cy="24" r="2.4"/><circle cx="8" cy="25" r="1.6"/><path d="M16 16L6 8M16 16L26 7M16 16L25 24M16 16L8 25"/></svg>
+    <span>מפת המשק הישראלי</span>
+  </a>
+  <div class="navlinks">
+    <a href="#app">המפה</a>
+    <button type="button" data-nav-view="partners">שותפויות</button>
+    <button type="button" data-nav-view="finance">כספים</button>
+    <button type="button" id="aboutBtn">איך בנינו</button>
+  </div>
+  <div class="navtools">
+    <button type="button" class="iconbtn" id="themeBtn" aria-label="החלפה בין מצב כהה למצב בהיר"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+    <button type="button" class="primary small" data-feedback="missing">שאלה או תיקון</button>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <canvas id="heroArt" aria-hidden="true"></canvas>
+  <div class="hero-in">
+    <div class="copy">
+      <p class="eyebrow"><span class="dot" aria-hidden="true"></span>מפת בעלות, הון ושלטון · עודכן ב-26.10.2026</p>
+      <h1><span class="ln">מי באמת מחזיק</span><span class="ln">במשק <em>הישראלי</em>?</span></h1>
+      <p class="lede">בעלי הון, חברות, בנקים, גופים מוסדיים ומפלגות, וכל הקשרים ביניהם: מי שולט במה, מי שותף של מי, ומי מממן את מי. לכל קשר במפה יש מקור.</p>
+      <div class="ctas">
+        <a class="primary big" href="#app">כניסה למפה <span aria-hidden="true">←</span></a>
+        <button type="button" class="ghost big" data-hero-story="funding">מי מממן את המפלגות ב-2026</button>
+        <button type="button" class="ghost big" data-hero-story="partners">רשת השותפויות</button>
+      </div>
+    </div>
+    <ul class="kpis" aria-label="המפה במספרים">
+      <li class="kpi wide"><span class="kl">שווי השוק המצטבר של החברות הציבוריות במפה</span><b id="kCap">0</b><span class="ku">מיליארד ₪</span><span class="kn" id="kCapNote"></span></li>
+      <li class="kpi"><b id="kOwners">0</b><span class="kl">בעלי הון ומשפחות</span></li>
+      <li class="kpi"><b id="kEdges">0</b><span class="kl">קשרי בעלות ומימון</span></li>
+      <li class="kpi"><b id="kPairs">0</b><span class="kl">שותפויות בחברות משותפות</span></li>
+      <li class="kpi"><b id="kParties">0</b><span class="kl">מפלגות בבחירות 2026</span></li>
+      <li class="kpi"><b id="kSources">0</b><span class="kl">מקורות מתועדים</span></li>
+    </ul>
+  </div>
+  <a class="scrollcue" href="#app"><span>גללו למפה</span><i aria-hidden="true"></i></a>
+</header>
+
+<div class="app" id="app">
+  <section class="apphead reveal">
+    <div>
+      <p class="eyebrow">המפה</p>
+      <h2>חפשו גוף, בחרו סיפור או החליפו תצוגה</h2>
+    </div>
+    <p class="sub" id="dataStampTop"></p>
   </section>
 
-  <section class="toolbar" aria-label="בקרת תצוגה">
+  <section class="stories reveal" aria-label="סיפורים מוכנים" id="stories">
+    <span class="flabel">סיפורים</span>
+    <div class="storychips scrollx" id="storyChips"></div>
+  </section>
+
+  <section class="toolbar glass reveal" aria-label="בקרת תצוגה">
     <div class="row">
       <div class="search" role="search">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
@@ -39,42 +81,44 @@
         <input id="q" type="search" placeholder="חיפוש אדם, חברה, מותג או מפלגה…" autocomplete="off" role="combobox" aria-controls="qres" aria-expanded="false" aria-autocomplete="list">
         <ul id="qres" role="listbox" hidden></ul>
       </div>
-      <div class="fgroup"><span class="flabel" id="viewLbl">תצוגה</span>
-        <div class="seg" id="viewSeg" role="group" aria-labelledby="viewLbl">
+      <div class="fgroup viewgroup"><span class="flabel" id="viewLbl">תצוגה</span>
+        <div class="seg scrollx" id="viewSeg" role="group" aria-labelledby="viewLbl">
           <button type="button" data-v="cols">לפי תחומים</button>
           <button type="button" data-v="free">מרחב חופשי</button>
           <button type="button" data-v="radial">מעגלי השפעה</button>
           <button type="button" data-v="tree">עץ שליטה</button>
+          <button type="button" data-v="partners">שותפויות</button>
           <button type="button" data-v="matrix">מטריצה</button>
           <button type="button" data-v="list" id="list-view-link">רשימה</button>
+          <button type="button" data-v="finance">כספים</button>
         </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="fgroup"><span class="flabel" id="geoLbl">מיקום</span>
-        <div class="seg small" id="geoSeg" role="group" aria-labelledby="geoLbl">
-          <button type="button" data-g="all">הכול</button>
-          <button type="button" data-g="il">ישראל</button>
-          <button type="button" data-g="world">עולם</button>
-        </div>
-      </div>
-      <div class="fgroup slider"><label for="minShare" class="flabel">אחזקה מינימלית</label>
-        <input type="range" id="minShare" min="0" max="50" step="5" value="0" aria-describedby="minShareVal"><output id="minShareVal" for="minShare">הכול</output>
-      </div>
-      <div class="fgroup slider"><label for="minAmount" class="flabel">סכום מימון מינימלי</label>
-        <input type="range" id="minAmount" min="0" max="4" step="1" value="0" aria-describedby="minAmountVal"><output id="minAmountVal" for="minAmount">הכול</output>
-      </div>
-      <div class="fgroup" id="clusterCtl"><span class="flabel">קבוצות</span>
-        <button type="button" class="textbtn" id="expandAll">פתיחת כל הקבוצות</button>
-        <button type="button" class="textbtn" id="collapseAll">קיבוץ הכול</button>
-      </div>
-      <div class="fgroup forcectl" id="forceCtl" hidden>
-        <label for="repel" class="flabel">דחייה</label><input type="range" id="repel" min="1000" max="20000" step="1000" value="6000">
-        <label for="elen" class="flabel">אורך קשר</label><input type="range" id="elen" min="30" max="200" step="10" value="70">
       </div>
     </div>
     <details class="more" id="moreFilters">
-      <summary>סינון לפי סוג וענף <span id="filterState" class="state"></span></summary>
+      <summary>סינון: מיקום, אחזקה, מימון, סוג וענף <span id="filterState" class="state"></span></summary>
+      <div class="row">
+        <div class="fgroup"><span class="flabel" id="geoLbl">מיקום</span>
+          <div class="seg small" id="geoSeg" role="group" aria-labelledby="geoLbl">
+            <button type="button" data-g="all">הכול</button>
+            <button type="button" data-g="il">ישראל</button>
+            <button type="button" data-g="world">עולם</button>
+          </div>
+        </div>
+        <div class="fgroup slider"><label for="minShare" class="flabel">אחזקה מינימלית</label>
+          <input type="range" id="minShare" min="0" max="50" step="5" value="0" aria-describedby="minShareVal"><output id="minShareVal" for="minShare">הכול</output>
+        </div>
+        <div class="fgroup slider"><label for="minAmount" class="flabel">סכום מימון מינימלי</label>
+          <input type="range" id="minAmount" min="0" max="4" step="1" value="0" aria-describedby="minAmountVal"><output id="minAmountVal" for="minAmount">הכול</output>
+        </div>
+        <div class="fgroup" id="clusterCtl"><span class="flabel">קבוצות</span>
+          <button type="button" class="textbtn" id="expandAll">פתיחת כל הקבוצות</button>
+          <button type="button" class="textbtn" id="collapseAll">קיבוץ הכול</button>
+        </div>
+        <div class="fgroup forcectl" id="forceCtl" hidden>
+          <label for="repel" class="flabel">דחייה</label><input type="range" id="repel" min="1000" max="20000" step="1000" value="6000">
+          <label for="elen" class="flabel">אורך קשר</label><input type="range" id="elen" min="30" max="200" step="10" value="70">
+        </div>
+      </div>
       <div class="row">
         <div class="fgroup"><span class="flabel">סוגים</span><div class="tags" id="typeTags" role="group" aria-label="סינון לפי סוג"></div></div>
       </div>
@@ -85,7 +129,7 @@
     </details>
   </section>
 
-  <main class="stage">
+  <main class="stage reveal">
     <div class="canvaswrap" id="canvasWrap">
       <div id="cy" role="img" aria-label="מפת קשרי בעלות והון-שלטון. לתצוגה נגישה, בחרו בתצוגת רשימה."></div>
       <div class="tableview" id="tableView" hidden></div>
@@ -97,12 +141,27 @@
     <aside class="panel" id="panel" aria-live="polite" tabindex="-1"></aside>
   </main>
 
+  <section class="askband glass reveal">
+    <div>
+      <h2>לא מצאתם את מה שחיפשתם?</h2>
+      <p>חסרה חברה, אחוז לא מעודכן או שיש לכם שאלה? כתבו לנו, ונבדוק ונוסיף למאגר.</p>
+    </div>
+    <div class="ctas"><button type="button" class="primary big" data-feedback="missing">כתבו לנו מה חסר</button><button type="button" class="ghost big" data-feedback="correction">דיווח על טעות</button></div>
+  </section>
+
   <footer class="foot">
-    <p>הנתונים נאספו ממקורות פומביים ומתעדכנים. קשר במפה אינו טענה לעבירה. המפה אינה ייעוץ השקעות. כל קשר מסומן ברמת ודאות: <b>רשמי</b> (דיווח לרשות, לבורסה או למדינה), <b>עיתונות</b>, או <b>הערכה</b>.</p>
+    <p>הנתונים נאספו ממקורות פומביים ומתעדכנים. קשר במפה אינו טענה לעבירה, והמפה אינה ייעוץ השקעות. כל קשר מסומן ברמת ודאות: <b>רשמי</b> (דיווח לרשות, לבורסה או למדינה), <b>עיתונות</b>, או <b>הערכה</b>.</p>
     <p id="dataStamp"></p>
   </footer>
 </div>
-<dialog id="aboutDlg" aria-labelledby="aboutTitle">
+
+<button type="button" class="fab" data-feedback="missing" aria-label="שאלה, תיקון או הצעה">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z"/><path d="M8 9h8M8 12h5"/></svg><span>לא מצאתם? כתבו לנו</span>
+</button>
+
+<dialog id="fbDlg" class="glassdlg" aria-labelledby="fbTitle"></dialog>
+
+<dialog id="aboutDlg" class="glassdlg" aria-labelledby="aboutTitle">
   <form method="dialog"><button class="close" aria-label="סגירה">×</button></form>
   <h2 id="aboutTitle">איך בנינו את המפה</h2>
   <p>כל צומת במפה הוא אדם, משפחה, חברה, גוף מוסדי, מותג, מפלגה או גורם ממשלתי. כל קשר מציין מי מחזיק במי או מי קשור למי, ולכל קשר יש לפחות מקור אחד.</p>
@@ -114,8 +173,14 @@
   </ul>
   <h3>מה נכנס למפה</h3>
   <p>גוף נכנס רק אם יש לו קשר מתועד אחד לפחות לגוף שכבר במפה. קשרים פוליטיים כוללים רק עובדות מתועדות: תרומה, ערבות, מימון ממלכתי, כהונה, שדלנות רשומה או הסדר ניגוד עניינים.</p>
+  <h3>הידעת?</h3>
+  <p>מדי פעם צצה מעל המפה עובדה קצרה עם המקור שלה. אפשר לעבור לגוף שהיא מתארת, לבקש עובדה נוספת או להסתיר את העובדות עד סוף הביקור.</p>
+  <h3>שותפויות</h3>
+  <p>השותפויות מחושבות מקשרי הבעלות שבמפה ולא מוזנות ידנית. שני מחזיקים הם שותפים כשהם מחזיקים באותה חברה, ישירות או דרך שרשרת, או כשכל אחד מהם מחזיק בנפרד בחברות בשני ענפים משותפים לפחות. החזקה משותפת אינה בהכרח הסכם בין הצדדים: גופים מוסדיים מחזיקים בחברות בנפרד, בשביל החוסכים.</p>
   <h3>מקורות שעוד חסר להם קישור ישיר</h3>
   <p>חלק מהקשרים עברו מהגרסה הראשונה של המפה עם שם המקור ומועדו אבל בלי קישור ישיר. בפאנל הצד הם מסומנים "חסר קישור ישיר", ואנחנו משלימים אותם בהדרגה.</p>
+  <h3>נתונים כספיים</h3>
+  <p>מצבת בעלי העניין בכל חברה ציבורית לקוחה מביזפורטל, לפי הדיווחים לבורסה. אחזקה של גוף מוסדי היא הסכום של קופות הגמל, הקרנות והנוסטרו של אותה קבוצה. לחברות שאין להן במפה נתוני דוח שנתי מוצגים 12 החודשים האחרונים, מחושבים משווי השוק ומהמכפילים. לחברות הנסחרות בבורסה בתל אביב: שווי שוק, הכנסות, רווח נקי, הון עצמי וסך מאזן מהדוח השנתי של 2025 ומהרבעון השני של 2026, כפי שמוצגים בביזפורטל על פי הדוחות הכספיים. חברות שמדווחות בדולרים מוצגות בהמרה לשקלים. למפלגות: מקדמות מימון, ערבויות, תרומות, הלוואות וחובות לכנסת לפי דיווחים בעיתונות על נתוני הכנסת ומבקר המדינה. לבעלי הון: ההון המוערך מדירוג עשירי ישראל, ושווי האחזקות בחברות ציבוריות שמחושב משווי השוק ומשיעור ההחזקה.</p>
   <h3>עדכון הנתונים</h3>
   <p>הנתונים יושבים בקבצי JSON בתיקייה data. אפשר לעדכן אותם ישירות או לייבא מגיליון CSV, ובדיקה אוטומטית מוודאת שלכל קשר יש מקור.</p>
 </dialog>

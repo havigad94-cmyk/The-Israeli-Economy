@@ -1,7 +1,7 @@
 // Single app state, mirrored into the page address so any view can be shared as a link.
 
-export type View = "cols" | "free" | "radial" | "tree" | "matrix" | "list";
-export const VIEWS: View[] = ["cols", "free", "radial", "tree", "matrix", "list"];
+export type View = "cols" | "free" | "radial" | "tree" | "partners" | "matrix" | "list" | "finance";
+export const VIEWS: View[] = ["cols", "free", "radial", "tree", "partners", "matrix", "list", "finance"];
 export const TYPE_GROUPS: { key: string; label: string; types: string[]; color: string }[] = [
   { key: "owners", label: "משפחות ואנשים", types: ["person", "family"], color: "var(--family)" },
   { key: "company", label: "חברות ומותגים", types: ["company", "brand"], color: "var(--accent)" },
@@ -17,11 +17,12 @@ export interface State {
   view: View; geo: "all" | "il" | "world"; minShare: number; minAmount: number;
   typesOff: Set<string>; sectorsOff: Set<string>; expanded: Set<string>;
   selected: string | null; story: string | null; step: number; repel: number; elen: number;
+  only: Set<string> | null;
 }
 
 export const state: State = {
   view: "cols", geo: "all", minShare: 0, minAmount: 0, typesOff: new Set(), sectorsOff: new Set(), expanded: new Set(),
-  selected: null, story: null, step: 0, repel: 6000, elen: 70,
+  selected: null, story: null, step: 0, repel: 6000, elen: 70, only: null,
 };
 
 type L = (why: string) => void;

@@ -28,6 +28,14 @@ for (const e of edges) {
   if (e.share != null && (e.share < 0 || e.share > 100)) errs.push(`edge ${e.id}: share out of range`);
   if ((e.sources || []).every((s) => sources.find((x) => x.id === s)?.needsLink)) warn.push(e.id);
 }
+let fins = {};
+try { fins = read("financials.json"); } catch { /* optional */ }
+for (const [id, f] of Object.entries(fins)) {
+  if (!ids.has(id)) errs.push(`financials: unknown entity ${id}`);
+  if (!f.sources?.length) errs.push(`financials ${id}: no source`);
+  for (const s of f.sources || []) if (!srcIds.has(s)) errs.push(`financials ${id}: unknown source ${s}`);
+}
+console.log(`${Object.keys(fins).length} financial records`);
 console.log(`${nodes.length} nodes, ${edges.length} edges, ${sources.length} sources`);
 console.log(`${warn.length} edges still cite only sources without a direct link`);
 if (errs.length) { console.error(errs.join("\n")); process.exit(1); }

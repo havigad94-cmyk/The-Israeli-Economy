@@ -162,6 +162,7 @@ const outNodes = upsert(nodes, newNodes);
 const harlap = outNodes.find((n) => n.id === "harlap");
 if (harlap) { harlap.role = "ערב; ממשפחת חרל\"פ, בעלי כלמוביל"; harlap.summary = "יו\"ר כלמוביל. לפי ויקיפדיה כיהן עד פטירתו באוגוסט 2026. נתן ערבות של 986 אלף ₪ לישר!."; }
 
+if (stories.some((s) => s.id === "imports")) stories.splice(stories.findIndex((s) => s.id === "imports"), 1);
 stories.splice(stories.findIndex((s) => s.id === "ofer"), 0,
   {
     id: "imports", title: "יבוא ורכב", summary: "מי מחזיק בזיכיונות היבוא של מותגי הרכב ומוצרי הצריכה.",

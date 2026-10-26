@@ -598,5 +598,1635 @@
   "published": null,
   "accessed": "2026-10-25",
   "needsLink": false
+ },
+ {
+  "id": "bizportal-elal-holders",
+  "type": "official",
+  "title": "אל על: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי החברה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1087824",
+  "published": "2025-03-16",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "wiki-eli-rozenberg",
+  "type": "press",
+  "title": "אלי רוזנברג (איש עסקים)",
+  "publisher": "ויקיפדיה",
+  "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99_%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%A8%D7%92_(%D7%90%D7%99%D7%A9_%D7%A2%D7%A1%D7%A7%D7%99%D7%9D)",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-rozenberg-permit",
+  "type": "press",
+  "title": "קני רוזנברג קיבל היתר שליטה באל על ביחד עם בנו",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/local_news/article/S1Kw5wfFd",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "globes-israir-holders",
+  "type": "official",
+  "title": "ישראייר גרופ: בעלי עניין",
+  "publisher": "גלובס (על פי דיווחי החברה)",
+  "url": "https://www.globes.co.il/portal/instrument.aspx?instrumentid=402098&mode=company",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2023-11-30-israir-arkia",
+  "type": "press",
+  "title": "מגעים בין רמי לוי לאחים נקש למיזוג ישראייר וארקיע",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/local_news/article/bknz6x8rt",
+  "published": "2023-11-30",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "israir-about",
+  "type": "official",
+  "title": "אודות ישראייר: נרכשה ב-2021 בידי רמי לוי ושלום חיים",
+  "publisher": "ישראייר",
+  "url": "https://www.israir.co.il/en-US/Passengers_Info/About_Israir",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "maariv-2026-08-18-dates",
+  "type": "press",
+  "title": "בחירות 2026: כל התאריכים החשובים בדרך לבחירות לכנסת ה-26",
+  "publisher": "מעריב",
+  "url": "https://www.maariv.co.il/news/politics/article-1357269",
+  "published": "2026-08-18",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "davar-2026-09-08-lists",
+  "type": "press",
+  "title": "38 מפלגות יתמודדו: הסתיימה הגשת הרשימות לכנסת ה-26",
+  "publisher": "דבר",
+  "url": "https://www.davar1.co.il/696375/",
+  "published": "2026-09-08",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "idi-2026-lists",
+  "type": "press",
+  "title": "בחירות 2026: הרשימות המתמודדות",
+  "publisher": "המכון הישראלי לדמוקרטיה",
+  "url": "https://www.idi.org.il/policy/parties-and-elections/elections/2026-1/",
+  "published": null,
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "n12-2026-09-22-poll",
+  "type": "press",
+  "title": "סקר המנדטים של חדשות 12 (מדגם, 22.9.2026)",
+  "publisher": "חדשות 12",
+  "url": "https://www.mako.co.il/news-israel-elections/2026/Article-fad59e819c9c0a1027.htm",
+  "published": "2026-09-22",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2026-08-29-funding",
+  "type": "press",
+  "title": "המפלגות יקבלו כ-210 מיליון ₪ מקדמות: ערבויות, תרומות והלוואות",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/article/bymoptxoze",
+  "published": "2026-08-29",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2026-08-29-funding",
+  "type": "press",
+  "title": "מקדמות המימון לבחירות 2026 וערבויות המפלגות החדשות",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/local-news/news/article/1127614",
+  "published": "2026-08-29",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-delek-holders",
+  "type": "official",
+  "title": "קבוצת דלק: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי החברה)",
+  "url": "https://www.bizportal.co.il/gazandoil/quote/stakeholders/1084128",
+  "published": "2026-07-19",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2026-04-26-advances",
+  "type": "press",
+  "title": "המפלגות יקבלו מקדמות של 137 מיליון שקל לבחירות, והחובות רק ימשיכו להיערם",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/local_news/article/rkhomb96zx",
+  "published": "2026-04-26",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-hapoalim",
+  "type": "official",
+  "title": "פועלים: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/662577",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-leumi",
+  "type": "official",
+  "title": "לאומי: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/604611",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-discount",
+  "type": "official",
+  "title": "דיסקונט: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/691212",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-mizrahi",
+  "type": "official",
+  "title": "מזרחי טפחות: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/695437",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-fibi",
+  "type": "official",
+  "title": "בינלאומי: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/593038",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-phoenix",
+  "type": "official",
+  "title": "הפניקס: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/767012",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-harel",
+  "type": "official",
+  "title": "הראל השקעות: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/585018",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-migdal",
+  "type": "official",
+  "title": "מגדל ביטוח: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1081165",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-clal",
+  "type": "official",
+  "title": "כלל עסקי ביטוח: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/224014",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-menora",
+  "type": "official",
+  "title": "מנורה מב החז: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/566018",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-delek",
+  "type": "official",
+  "title": "דלק קבוצה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1084128",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-newmed",
+  "type": "official",
+  "title": "ניו-מד אנרג יהש: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/475020",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-isracard",
+  "type": "official",
+  "title": "ישראכרט: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1157403",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-icl",
+  "type": "official",
+  "title": "איי.סי.אל: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/281014",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-israelcorp",
+  "type": "official",
+  "title": "חברה לישראל: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/576017",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-elbit",
+  "type": "official",
+  "title": "אלביט מערכות: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1081124",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-azrieligroup",
+  "type": "official",
+  "title": "עזריאלי קבוצה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1119478",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-melisron",
+  "type": "official",
+  "title": "מליסרון: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/323014",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-straussgroup",
+  "type": "official",
+  "title": "שטראוס: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/746016",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-shufersal",
+  "type": "official",
+  "title": "שופרסל: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/777037",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-shikma",
+  "type": "official",
+  "title": "רמי לוי: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1104249",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-elco",
+  "type": "official",
+  "title": "אלקו: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/694034",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-electra",
+  "type": "official",
+  "title": "אלקטרה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/739037",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-electracons",
+  "type": "official",
+  "title": "אלקטרה צריכה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/5010129",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-fattalh",
+  "type": "official",
+  "title": "פתאל החזקות: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1143429",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-isramco",
+  "type": "official",
+  "title": "ישראמקו יהש: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/232017",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-delekauto",
+  "type": "official",
+  "title": "דלק רכב: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/829010",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-carasso",
+  "type": "official",
+  "title": "קרסו מוטורס: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1123850",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-diplomat",
+  "type": "official",
+  "title": "דיפלומט אחזקות: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1173491",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-israir",
+  "type": "official",
+  "title": "ישראייר גרופ: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1187194",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-opc",
+  "type": "official",
+  "title": "או פי סי אנרגיה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1141571",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-alrov",
+  "type": "official",
+  "title": "אלרוב נדלן: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/387019",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-ashtrom",
+  "type": "official",
+  "title": "אשטרום קבוצה: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1132315",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-isrotel",
+  "type": "official",
+  "title": "ישרוטל: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1080985",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-tamarpet",
+  "type": "official",
+  "title": "תמר פטרוליום: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1141357",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-ratio",
+  "type": "official",
+  "title": "רציו יהש: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/394015",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-fin-elal",
+  "type": "official",
+  "title": "אל על: מבט כללי ונתונים כספיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/generalview/1087824",
+  "published": "2026-10-25",
+  "accessed": "2026-10-25",
+  "needsLink": false
+ },
+ {
+  "id": "kan-2026-09-08-lists",
+  "type": "press",
+  "title": "בחירות 2026: כל המפלגות הגישו את רשימותיהן. הרשימות המלאות",
+  "publisher": "כאן חדשות",
+  "url": "https://www.kan.org.il/content/kan-news/politic/1097401/",
+  "published": "2026-09-08",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "idi-2026-miluim-kalkalit",
+  "type": "press",
+  "title": "המילואימניקים והכלכלית: רשימת המועמדים לכנסת ה-26",
+  "publisher": "המכון הישראלי לדמוקרטיה",
+  "url": "https://www.idi.org.il/media/32315/%D7%94%D7%9E%D7%99%D7%9C%D7%95%D7%90%D7%99%D7%9E%D7%A0%D7%99%D7%A7%D7%99%D7%9D-%D7%95%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99%D7%AA.pdf",
+  "published": "2026-09-07",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "inn-2026-09-06-hendel-zelekha",
+  "type": "press",
+  "title": "יועז הנדל וירון זליכה יתמודדו ברשימה משותפת",
+  "publisher": "ערוץ 7",
+  "url": "https://www.inn.co.il/news/705730",
+  "published": "2026-09-06",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2026-09-23-guarantees",
+  "type": "press",
+  "title": "לקראת הבחירות: וינטר גייס עוד ערבויות ב-3 מיליון שקל, בנט ב-1.5 מיליון",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/local_news/article/hj6roybczx",
+  "published": "2026-09-23",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "davar-2026-10-21-zelekha",
+  "type": "press",
+  "title": "\"מי מפחד מירון זליכה\": המפלגה הכלכלית מציעה ימין כלכלי עם כוכבית",
+  "publisher": "דבר",
+  "url": "https://www.davar1.co.il/702810/",
+  "published": "2026-10-21",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "globes-2021-03-16-zelekha",
+  "type": "press",
+  "title": "דילמה יקרה: כמה יעלה לירון זליכה לפרוש מהמרוץ לכנסת?",
+  "publisher": "גלובס",
+  "url": "https://www.globes.co.il/news/article.aspx?did=1001364239",
+  "published": "2021-03-16",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "walla-2021-03-26-zelekha",
+  "type": "press",
+  "title": "זליכה התעקש להתמודד בבחירות למרות הסקרים, ולא יזכה למימון מטעם המדינה",
+  "publisher": "וואלה",
+  "url": "https://elections.walla.co.il/item/3425859",
+  "published": "2021-03-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2026-08-24-fox",
+  "type": "press",
+  "title": "טרמינל X ופוקס-ויזל: תוצאות הרבעון השני ורכישת מותגים",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/finance/news/article/1126809",
+  "published": "2026-08-24",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2025-02-24-metro",
+  "type": "press",
+  "title": "הרגולטור אישר: קבוצת קרסו תרכוש את יבואנית האופנועים מטרו",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/local_news/car/article/sjdi00ycc1e",
+  "published": "2025-02-24",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2025-02-25-metro",
+  "type": "press",
+  "title": "מהפך בתחום הרכב: היבואנית הוותיקה נכנסת לתחום הדו-גלגלי",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/auto/news/article/1052860",
+  "published": "2025-02-25",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "moto-2026-01-25-sales",
+  "type": "press",
+  "title": "מכירות אופנועים וקטנועים: סיכום שנת 2025",
+  "publisher": "מוטו",
+  "url": "https://motomagazine.co.il/news/%D7%9E%D7%9B%D7%99%D7%A8%D7%95%D7%AA-%D7%90%D7%95%D7%A4%D7%A0%D7%95%D7%A2%D7%99%D7%9D-%D7%95%D7%A7%D7%98%D7%A0%D7%95%D7%A2%D7%99%D7%9D-%D7%A1%D7%99%D7%9B%D7%95%D7%9D-%D7%A9%D7%A0%D7%AA-2025/",
+  "published": "2026-01-25",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "range-moto-importers",
+  "type": "press",
+  "title": "יבואני אופנועים בישראל: מי מייבא איזה מותג",
+  "publisher": "Range",
+  "url": "https://www.range.co.il/%D7%99%D7%91%D7%95%D7%90%D7%A0%D7%99-%D7%90%D7%95%D7%A4%D7%A0%D7%95%D7%A2%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/",
+  "published": null,
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "delekmotors-bmw-motorrad",
+  "type": "official",
+  "title": "BMW Motorrad: הזיכיון בישראל מאז 2011",
+  "publisher": "דלק מוטורס",
+  "url": "https://www.delek-motors.co.il/?p=743",
+  "published": null,
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2022-10-30-meir",
+  "type": "press",
+  "title": "כלל במגעים לרכישת 8%–10% מקבוצת מאיר; הפניקס רכשה 14%",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/market/article/rjq86j5vo",
+  "published": "2022-10-30",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2026-06-04-honda",
+  "type": "press",
+  "title": "מאיר, יבואנית הונדה: דגמי האופנועים החדשים",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/auto/news/article/1115656",
+  "published": "2026-06-04",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "walla-2023-02-08-haifaport",
+  "type": "press",
+  "title": "המעבר להודו: כך הופרט נמל חיפה",
+  "publisher": "וואלה כסף",
+  "url": "https://finance.walla.co.il/item/3557270",
+  "published": "2023-02-08",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "globes-2023-01-10-haifaport",
+  "type": "press",
+  "title": "נמל חיפה עבר ידיים: הושלמה העברת הבעלות לקבוצת אדאני-גדות",
+  "publisher": "גלובס",
+  "url": "https://www.globes.co.il/news/article.aspx?did=1001435035",
+  "published": "2023-01-10",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "globes-2012-11-06-eilatport",
+  "type": "press",
+  "title": "Papo Maritime acquires Eilat Port for NIS 120m",
+  "publisher": "Globes",
+  "url": "https://en.globes.co.il/en/article-1000796104",
+  "published": "2012-11-06",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "maccabi-assuta",
+  "type": "official",
+  "title": "אסותא מרכזים רפואיים: חברה בבעלות קבוצת מכבי שירותי בריאות",
+  "publisher": "מכבי שירותי בריאות",
+  "url": "https://www.maccabi4u.co.il/en/46562/main_english/our-healthcare-system/hospitals/",
+  "published": null,
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2023-03-27-max",
+  "type": "press",
+  "title": "אחרי שמונה חודשים מהחתימה: מקס עברה לבעלות קבוצת כלל",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/investing/article/hyckffyw3",
+  "published": "2023-03-27",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2025-05-18-cal",
+  "type": "press",
+  "title": "מכירת כאל: מי בתמונה, ומה מעמדו של הבינלאומי",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/finance/news/article/1065206",
+  "published": "2025-05-18",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "gca-2025-report",
+  "type": "official",
+  "title": "רשות החברות הממשלתיות: הדוח השנתי 2025",
+  "publisher": "רשות החברות הממשלתיות, משרד האוצר",
+  "url": "https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca-annual-report-2025/he/gca_reports_gca-annual-report-2025-accessible-version.pdf",
+  "published": "2026-01-01",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "calcalist-2024-03-10-deadsea",
+  "type": "press",
+  "title": "זיכיון ים המלח: המכרז, זכות הסירוב של כי\"ל וסוף הזיכיון ב-2030",
+  "publisher": "כלכליסט",
+  "url": "https://www.calcalist.co.il/market/article/sj11vrx9pt",
+  "published": "2024-03-10",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "ice-2023-08-20-fuel",
+  "type": "press",
+  "title": "פז, דלק או סונול? רשתות תחנות הדלק בישראל",
+  "publisher": "ice",
+  "url": "https://www.ice.co.il/top-5/news/article/969035",
+  "published": "2023-08-20",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-fox",
+  "type": "official",
+  "title": "פוקס: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1087022",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-fox",
+  "type": "official",
+  "title": "פוקס: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1087022",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-bazan",
+  "type": "official",
+  "title": "בזן: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/2590248",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-bazan",
+  "type": "official",
+  "title": "בזן: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/2590248",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-alonyhetz",
+  "type": "official",
+  "title": "אלוני חץ: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/390013",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-alonyhetz",
+  "type": "official",
+  "title": "אלוני חץ: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/390013",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-amot",
+  "type": "official",
+  "title": "אמות: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1097278",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-amot",
+  "type": "official",
+  "title": "אמות: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1097278",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-big",
+  "type": "official",
+  "title": "ביג: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1097260",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-big",
+  "type": "official",
+  "title": "ביג: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1097260",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-gavyam",
+  "type": "official",
+  "title": "גב ים: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/759019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-gavyam",
+  "type": "official",
+  "title": "גב ים: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/759019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-reit1",
+  "type": "official",
+  "title": "ריט 1: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1098920",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-reit1",
+  "type": "official",
+  "title": "ריט 1: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1098920",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-mivne",
+  "type": "official",
+  "title": "מבנה: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/226019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-mivne",
+  "type": "official",
+  "title": "מבנה: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/226019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-airportcity",
+  "type": "official",
+  "title": "ארפורט סיטי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1095835",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-airportcity",
+  "type": "official",
+  "title": "ארפורט סיטי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1095835",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-shikunbinui",
+  "type": "official",
+  "title": "שיכון ובינוי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1081942",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-shikunbinui",
+  "type": "official",
+  "title": "שיכון ובינוי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1081942",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-israelcanada",
+  "type": "official",
+  "title": "ישראל קנדה: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/434019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-israelcanada",
+  "type": "official",
+  "title": "ישראל קנדה: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/434019",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-africaprop",
+  "type": "official",
+  "title": "אפי נכסים: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1091354",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-africaprop",
+  "type": "official",
+  "title": "אפי נכסים: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1091354",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-sella",
+  "type": "official",
+  "title": "סלע נדלן: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1109644",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-sella",
+  "type": "official",
+  "title": "סלע נדלן: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1109644",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-prashkovsky",
+  "type": "official",
+  "title": "פרשקובסקי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1102128",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-prashkovsky",
+  "type": "official",
+  "title": "פרשקובסקי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1102128",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-isras",
+  "type": "official",
+  "title": "ישרס: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/613034",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-isras",
+  "type": "official",
+  "title": "ישרס: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/613034",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-summit",
+  "type": "official",
+  "title": "סאמיט: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/1081686",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-summit",
+  "type": "official",
+  "title": "סאמיט: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1081686",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-paz",
+  "type": "official",
+  "title": "פז אנרגיה: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1100007",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-paz",
+  "type": "official",
+  "title": "פז אנרגיה: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1100007",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-gcity",
+  "type": "official",
+  "title": "ג'י סיטי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/126011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-gcity",
+  "type": "official",
+  "title": "ג'י סיטי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/126011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-azorim",
+  "type": "official",
+  "title": "אזורים: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/realestates/quote/stakeholders/715011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-azorim",
+  "type": "official",
+  "title": "אזורים: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/715011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-castro",
+  "type": "official",
+  "title": "קסטרו: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/280016",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-castro",
+  "type": "official",
+  "title": "קסטרו: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/280016",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-delta",
+  "type": "official",
+  "title": "דלתא גליל: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/627034",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-delta",
+  "type": "official",
+  "title": "דלתא גליל: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/627034",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-golf",
+  "type": "official",
+  "title": "גולף: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1096148",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-golf",
+  "type": "official",
+  "title": "גולף: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1096148",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-megaor",
+  "type": "official",
+  "title": "מגה אור: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1104488",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-megaor",
+  "type": "official",
+  "title": "מגה אור: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/realestates/quote/reports/1104488",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-teva",
+  "type": "official",
+  "title": "טבע: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/biomed/quote/stakeholders/629014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-teva",
+  "type": "official",
+  "title": "טבע: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/biomed/quote/reports/629014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-kamada",
+  "type": "official",
+  "title": "קמהדע: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/biomed/quote/stakeholders/1094119",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-kamada",
+  "type": "official",
+  "title": "קמהדע: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/biomed/quote/reports/1094119",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-enlight",
+  "type": "official",
+  "title": "אנלייט אנרגיה: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/720011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-enlight",
+  "type": "official",
+  "title": "אנלייט אנרגיה: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/720011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-energix",
+  "type": "official",
+  "title": "אנרג'יקס: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1123355",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-energix",
+  "type": "official",
+  "title": "אנרג'יקס: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1123355",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-ormat",
+  "type": "official",
+  "title": "אורמת טכנו: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1134402",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-ormat",
+  "type": "official",
+  "title": "אורמת טכנו: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1134402",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-ayalon",
+  "type": "official",
+  "title": "איילון: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/209015",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-ayalon",
+  "type": "official",
+  "title": "איילון: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/209015",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-meitav",
+  "type": "official",
+  "title": "מיטב השקעות: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1081843",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-meitav",
+  "type": "official",
+  "title": "מיטב השקעות: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1081843",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-bezeq",
+  "type": "official",
+  "title": "בזק: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/230011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-bezeq",
+  "type": "official",
+  "title": "בזק: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/230011",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-cellcom",
+  "type": "official",
+  "title": "סלקום: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1101534",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-cellcom",
+  "type": "official",
+  "title": "סלקום: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1101534",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-partner",
+  "type": "official",
+  "title": "פרטנר: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1083484",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-partner",
+  "type": "official",
+  "title": "פרטנר: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1083484",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-hapoalim",
+  "type": "official",
+  "title": "פועלים: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/662577",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-hapoalim",
+  "type": "official",
+  "title": "פועלים: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/662577",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-leumi",
+  "type": "official",
+  "title": "לאומי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/604611",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-leumi",
+  "type": "official",
+  "title": "לאומי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/604611",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-discount",
+  "type": "official",
+  "title": "דיסקונט: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/691212",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-discount",
+  "type": "official",
+  "title": "דיסקונט: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/691212",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-mizrahi",
+  "type": "official",
+  "title": "מזרחי טפחות: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/695437",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-mizrahi",
+  "type": "official",
+  "title": "מזרחי טפחות: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/695437",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-fibi",
+  "type": "official",
+  "title": "בינלאומי: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/593038",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-fibi",
+  "type": "official",
+  "title": "בינלאומי: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/593038",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-phoenix",
+  "type": "official",
+  "title": "הפניקס: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/767012",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-phoenix",
+  "type": "official",
+  "title": "הפניקס: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/767012",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-harel",
+  "type": "official",
+  "title": "הראל השקעות: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/585018",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-harel",
+  "type": "official",
+  "title": "הראל השקעות: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/585018",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-migdal",
+  "type": "official",
+  "title": "מגדל ביטוח: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/1081165",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-migdal",
+  "type": "official",
+  "title": "מגדל ביטוח: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/1081165",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-clal",
+  "type": "official",
+  "title": "כלל עסקי ביטוח: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/224014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-clal",
+  "type": "official",
+  "title": "כלל עסקי ביטוח: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/224014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-menora",
+  "type": "official",
+  "title": "מנורה מב החז: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/566018",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-menora",
+  "type": "official",
+  "title": "מנורה מב החז: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/566018",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-holders-icl",
+  "type": "official",
+  "title": "איי.סי.אל: מצבת החזקות בעלי עניין",
+  "publisher": "ביזפורטל (על פי דיווחי בעלי עניין לבורסה)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/stakeholders/281014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
+ },
+ {
+  "id": "bizportal-ratios-icl",
+  "type": "official",
+  "title": "איי.סי.אל: דוחות ויחסים פיננסיים",
+  "publisher": "ביזפורטל (על פי הדוחות הכספיים)",
+  "url": "https://www.bizportal.co.il/capitalmarket/quote/reports/281014",
+  "published": "2026-10-26",
+  "accessed": "2026-10-26",
+  "needsLink": false
  }
 ]

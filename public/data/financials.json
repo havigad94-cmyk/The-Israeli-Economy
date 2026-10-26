@@ -1,0 +1,2079 @@
+{
+ "hapoalim": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "662577",
+  "marketCap": 99550338,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 18103000,
+   "revenueLabel": "רווח מפעולות מימון",
+   "netProfit": 9802000,
+   "equity": 64677000,
+   "assets": 766665000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 4796000,
+    "netProfit": 2542000
+   },
+   "2026": {
+    "revenue": 4825000,
+    "netProfit": 2488000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-hapoalim",
+   "bizportal-ratios-hapoalim"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.54,
+   "pb": 1.48,
+   "ps": 5.5,
+   "roe": 14.07,
+   "roa": 1.17,
+   "margin": 0.52,
+   "equityRatio": 8.29,
+   "netProfit": 9445004,
+   "equity": 67263742,
+   "revenue": 18100061
+  }
+ },
+ "leumi": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "604611",
+  "marketCap": 109439073,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 16852000,
+   "revenueLabel": "רווח מפעולות מימון",
+   "netProfit": 10262000,
+   "equity": 68130000,
+   "assets": 872971000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 4540000,
+    "netProfit": 2610000
+   },
+   "2026": {
+    "revenue": 4572000,
+    "netProfit": 2832000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-leumi",
+   "bizportal-ratios-leumi"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.5,
+   "pb": 1.55,
+   "ps": 6.52,
+   "roe": 14.78,
+   "roa": 1.1,
+   "margin": 0.62,
+   "equityRatio": 7.45,
+   "netProfit": 10422769,
+   "equity": 70605854,
+   "revenue": 16785134
+  }
+ },
+ "discount": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "691212",
+  "marketCap": 42461648,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 10001000,
+   "revenueLabel": "רווח מפעולות מימון",
+   "netProfit": 4140000,
+   "equity": 33809000,
+   "assets": 478146000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 2658000,
+    "netProfit": 1115000
+   },
+   "2026": {
+    "revenue": 2543000,
+    "netProfit": 1203000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-discount",
+   "bizportal-ratios-discount"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.3,
+   "pb": 1.22,
+   "ps": 4.34,
+   "roe": 11.85,
+   "roa": 0.85,
+   "margin": 0.42,
+   "equityRatio": 7.2,
+   "netProfit": 4122490,
+   "equity": 34804630,
+   "revenue": 9783790
+  }
+ },
+ "mizrahi": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "695437",
+  "marketCap": 60431476,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 11727000,
+   "revenueLabel": "רווח מפעולות מימון",
+   "netProfit": 5630000,
+   "equity": 34765000,
+   "assets": 551173000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 3093000,
+    "netProfit": 1453000
+   },
+   "2026": {
+    "revenue": 3012000,
+    "netProfit": 1428000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-mizrahi",
+   "bizportal-ratios-mizrahi"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.88,
+   "pb": 1.67,
+   "ps": 5.24,
+   "roe": 15.38,
+   "roa": 0.96,
+   "margin": 0.48,
+   "equityRatio": 6.22,
+   "netProfit": 5554364,
+   "equity": 36186513,
+   "revenue": 11532724
+  }
+ },
+ "fibi": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "593038",
+  "marketCap": 23369253,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 4822000,
+   "revenueLabel": "רווח מפעולות מימון",
+   "netProfit": 2260000,
+   "equity": 14614000,
+   "assets": 277833000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 1290000,
+    "netProfit": 637000
+   },
+   "2026": {
+    "revenue": 1192000,
+    "netProfit": 583000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-fibi",
+   "bizportal-ratios-fibi"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.84,
+   "pb": 1.57,
+   "ps": 5.01,
+   "roe": 14.47,
+   "roa": 0.73,
+   "margin": 0.46,
+   "equityRatio": 5.07,
+   "netProfit": 2155835,
+   "equity": 14884875,
+   "revenue": 4664522
+  }
+ },
+ "phoenix": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "767012",
+  "marketCap": 46712471,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": null,
+   "revenueLabel": null,
+   "netProfit": 3222714,
+   "equity": 12496434,
+   "assets": 197940010
+  },
+  "q2": {
+   "2025": {
+    "revenue": null,
+    "netProfit": 956987
+   },
+   "2026": {
+    "revenue": null,
+    "netProfit": 904143
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-phoenix",
+   "bizportal-ratios-phoenix"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 14.05,
+   "pb": 3.56,
+   "ps": 4.72,
+   "roe": 25.33,
+   "roa": 1.58,
+   "margin": null,
+   "equityRatio": 6.25,
+   "netProfit": 3324731,
+   "equity": 13121481,
+   "revenue": 9896710
+  }
+ },
+ "harel": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "585018",
+  "marketCap": 40122840,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": null,
+   "revenueLabel": null,
+   "netProfit": 2990000,
+   "equity": 12168000,
+   "assets": 163631000
+  },
+  "q2": {
+   "2025": {
+    "revenue": null,
+    "netProfit": 834000
+   },
+   "2026": {
+    "revenue": null,
+    "netProfit": 1068000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-harel",
+   "bizportal-ratios-harel"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 12.24,
+   "pb": 3.18,
+   "ps": 2.8,
+   "roe": 25.95,
+   "roa": 1.88,
+   "margin": null,
+   "equityRatio": 7.25,
+   "netProfit": 3278010,
+   "equity": 12617245,
+   "revenue": 14329586
+  }
+ },
+ "migdal": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1081165",
+  "marketCap": 21196542,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": null,
+   "revenueLabel": null,
+   "netProfit": 1832000,
+   "equity": 9950000,
+   "assets": 246301000
+  },
+  "q2": {
+   "2025": {
+    "revenue": null,
+    "netProfit": 571000
+   },
+   "2026": {
+    "revenue": null,
+    "netProfit": 574000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-migdal",
+   "bizportal-ratios-migdal"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 11.14,
+   "pb": 1.95,
+   "ps": 2.45,
+   "roe": 17.54,
+   "roa": 0.74,
+   "margin": null,
+   "equityRatio": 4.23,
+   "netProfit": 1902742,
+   "equity": 10870022,
+   "revenue": 8651650
+  }
+ },
+ "clal": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "224014",
+  "marketCap": 24137560,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": null,
+   "revenueLabel": null,
+   "netProfit": 2278000,
+   "equity": 10828000,
+   "assets": 188358000
+  },
+  "q2": {
+   "2025": {
+    "revenue": null,
+    "netProfit": 539000
+   },
+   "2026": {
+    "revenue": null,
+    "netProfit": 617000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-clal",
+   "bizportal-ratios-clal"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.12,
+   "pb": 2.09,
+   "ps": 2.7,
+   "roe": 20.67,
+   "roa": 1.22,
+   "margin": null,
+   "equityRatio": 5.89,
+   "netProfit": 2385134,
+   "equity": 11549072,
+   "revenue": 8939837
+  }
+ },
+ "menora": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "566018",
+  "marketCap": 33978346,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": null,
+   "revenueLabel": null,
+   "netProfit": 2350981,
+   "equity": 9186726,
+   "assets": 81506055
+  },
+  "q2": {
+   "2025": {
+    "revenue": null,
+    "netProfit": 735663
+   },
+   "2026": {
+    "revenue": null,
+    "netProfit": 789509
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-menora",
+   "bizportal-ratios-menora"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 13.67,
+   "pb": 3.51,
+   "ps": 3.88,
+   "roe": 25.68,
+   "roa": 2.95,
+   "margin": null,
+   "equityRatio": 11.5,
+   "netProfit": 2485614,
+   "equity": 9680440,
+   "revenue": 8757306
+  }
+ },
+ "delek": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1084128",
+  "marketCap": 15528462,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 4148000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 3256000,
+   "equity": 10083000,
+   "assets": 56536000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 834000,
+    "netProfit": 176000
+   },
+   "2026": {
+    "revenue": 1036000,
+    "netProfit": 314000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-delek"
+  ]
+ },
+ "newmed": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "475020",
+  "marketCap": 19086227,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 2764454.05,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1094170.02,
+   "equity": 6033566.11,
+   "assets": 12650902.23
+  },
+  "q2": {
+   "2025": {
+    "revenue": 553008,
+    "netProfit": 273806.4
+   },
+   "2026": {
+    "revenue": 744797.78,
+    "netProfit": 350808.39
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-newmed"
+  ]
+ },
+ "isracard": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1157403",
+  "marketCap": 3813959,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 3523000,
+   "revenueLabel": "הכנסות",
+   "netProfit": -40000,
+   "equity": 3202000,
+   "assets": 27883000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 856000,
+    "netProfit": -150000
+   },
+   "2026": {
+    "revenue": 954000,
+    "netProfit": 80000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-isracard"
+  ]
+ },
+ "icl": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "281014",
+  "marketCap": 19102632,
+  "marketCapAsOf": "2026-10-23",
+  "fy2025": {
+   "revenue": 22818070.41,
+   "revenueLabel": "הכנסות",
+   "netProfit": 720940.01,
+   "equity": 19085770.34,
+   "assets": 39597470.71
+  },
+  "q2": {
+   "2025": {
+    "revenue": 6177503.96,
+    "netProfit": 313596
+   },
+   "2026": {
+    "revenue": 6358029.84,
+    "netProfit": 407985.99
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-icl",
+   "bizportal-ratios-icl"
+  ],
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 20.02,
+   "pb": 1.04,
+   "ps": 0.79,
+   "roe": 5.21,
+   "roa": 2.43,
+   "margin": 3.92,
+   "equityRatio": 46.6,
+   "netProfit": 954177,
+   "equity": 18367915,
+   "revenue": 24180547
+  }
+ },
+ "israelcorp": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "576017",
+  "marketCap": 5553181,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 22818070.41,
+   "revenueLabel": "הכנסות",
+   "netProfit": 277530,
+   "equity": 9608280.17,
+   "assets": 43352100.78
+  },
+  "q2": {
+   "2025": {
+    "revenue": 6177503.96,
+    "netProfit": 144996
+   },
+   "2026": {
+    "revenue": 6358029.84,
+    "netProfit": 157834
+   }
+  },
+  "note": "הכנסות מאוחדות, כולל ICL. החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-israelcorp"
+  ]
+ },
+ "elbit": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1081124",
+  "marketCap": 106307708,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 25324220.58,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1704541.44,
+   "equity": 13173417.86,
+   "assets": 40390243.14
+  },
+  "q2": {
+   "2025": {
+    "revenue": 6651806.11,
+    "netProfit": 423857.03
+   },
+   "2026": {
+    "revenue": 6810858.55,
+    "netProfit": 517079.06
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-elbit"
+  ]
+ },
+ "azrieligroup": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1119478",
+  "marketCap": 46220650,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 3905000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1889000,
+   "equity": 25295000,
+   "assets": 63572000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 949000,
+    "netProfit": 320000
+   },
+   "2026": {
+    "revenue": 1138000,
+    "netProfit": 155000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-azrieligroup"
+  ]
+ },
+ "melisron": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "323014",
+  "marketCap": 19390524,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 2267000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1857000,
+   "equity": 13212000,
+   "assets": 34836000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 548000,
+    "netProfit": 437000
+   },
+   "2026": {
+    "revenue": 588000,
+    "netProfit": 289000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-melisron"
+  ]
+ },
+ "straussgroup": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "746016",
+  "marketCap": 14300247,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 7823000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 404000,
+   "equity": 3272000,
+   "assets": 8816000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 1875000,
+    "netProfit": 64000
+   },
+   "2026": {
+    "revenue": 1843000,
+    "netProfit": 213000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-straussgroup"
+  ]
+ },
+ "shufersal": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "777037",
+  "marketCap": 9524890,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 14489000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 711000,
+   "equity": 4106000,
+   "assets": 14625000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 3690000,
+    "netProfit": 191000
+   },
+   "2026": {
+    "revenue": 3412000,
+    "netProfit": 125000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-shufersal"
+  ]
+ },
+ "shikma": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1104249",
+  "marketCap": 4649259,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 7840184,
+   "revenueLabel": "הכנסות",
+   "netProfit": 208135,
+   "equity": 529417,
+   "assets": 4614946
+  },
+  "q2": {
+   "2025": {
+    "revenue": 2006270,
+    "netProfit": 58791
+   },
+   "2026": {
+    "revenue": 2065496,
+    "netProfit": 52817
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-shikma"
+  ]
+ },
+ "elco": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "694034",
+  "marketCap": 3089676,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 22376000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 19000,
+   "equity": 2093000,
+   "assets": 27104000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 5410000,
+    "netProfit": 30000
+   },
+   "2026": {
+    "revenue": 6076000,
+    "netProfit": 10000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-elco"
+  ]
+ },
+ "electra": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "739037",
+  "marketCap": 8517904,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 13953000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 168000,
+   "equity": 1826000,
+   "assets": 13477000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 3411000,
+    "netProfit": 55000
+   },
+   "2026": {
+    "revenue": 3995000,
+    "netProfit": 93000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-electra"
+  ]
+ },
+ "electracons": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "5010129",
+  "marketCap": 1345472,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 7477000,
+   "revenueLabel": "הכנסות",
+   "netProfit": 100000,
+   "equity": 656000,
+   "assets": 7783000
+  },
+  "q2": {
+   "2025": {
+    "revenue": 1793000,
+    "netProfit": 30000
+   },
+   "2026": {
+    "revenue": 1823000,
+    "netProfit": 27000
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-electracons"
+  ]
+ },
+ "fattalh": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1143429",
+  "marketCap": 11411555,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 7649687,
+   "revenueLabel": "הכנסות",
+   "netProfit": 53303,
+   "equity": 4591581,
+   "assets": 29682106
+  },
+  "q2": {
+   "2025": {
+    "revenue": 2078011,
+    "netProfit": 120320
+   },
+   "2026": {
+    "revenue": 1899783,
+    "netProfit": 140984
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-fattalh"
+  ]
+ },
+ "isramco": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "232017",
+  "marketCap": 5375532,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 1315782.51,
+   "revenueLabel": "הכנסות",
+   "netProfit": 369108.53,
+   "equity": 1938658.73,
+   "assets": 4508522.78
+  },
+  "q2": {
+   "2025": {
+    "revenue": 362122.45,
+    "netProfit": 84758.59
+   },
+   "2026": {
+    "revenue": 354730.42,
+    "netProfit": 89545.48
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-isramco"
+  ]
+ },
+ "delekauto": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "829010",
+  "marketCap": 1758174,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 6202746,
+   "revenueLabel": "הכנסות",
+   "netProfit": -109733,
+   "equity": 1257460,
+   "assets": 10243896
+  },
+  "q2": {
+   "2025": {
+    "revenue": 1323077,
+    "netProfit": 40955
+   },
+   "2026": {
+    "revenue": 1544560,
+    "netProfit": -122275
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-delekauto"
+  ]
+ },
+ "carasso": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1123850",
+  "marketCap": 2501597,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 8360833,
+   "revenueLabel": "הכנסות",
+   "netProfit": 327139,
+   "equity": 2283952,
+   "assets": 12346573
+  },
+  "q2": {
+   "2025": {
+    "revenue": 2197725,
+    "netProfit": 113729
+   },
+   "2026": {
+    "revenue": 2127325,
+    "netProfit": 41986
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-carasso"
+  ]
+ },
+ "diplomat": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1173491",
+  "marketCap": 1317975,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 3753771,
+   "revenueLabel": "הכנסות",
+   "netProfit": 109512,
+   "equity": 990279,
+   "assets": 2023495
+  },
+  "q2": {
+   "2025": {
+    "revenue": 958250,
+    "netProfit": 53865
+   },
+   "2026": {
+    "revenue": 865370,
+    "netProfit": 21448
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-diplomat"
+  ]
+ },
+ "israir": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1187194",
+  "marketCap": 473481,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 2201173.41,
+   "revenueLabel": "הכנסות",
+   "netProfit": 43642.39,
+   "equity": 353011.79,
+   "assets": 1540377.66
+  },
+  "q2": {
+   "2025": {
+    "revenue": 462510.26,
+    "netProfit": -34849.62
+   },
+   "2026": {
+    "revenue": 418900.36,
+    "netProfit": -53877.97
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-israir"
+  ]
+ },
+ "opc": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1141571",
+  "marketCap": 28388470,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 2772110.05,
+   "revenueLabel": "הכנסות",
+   "netProfit": 319000.01,
+   "equity": 6469320.12,
+   "assets": 14986620.27
+  },
+  "q2": {
+   "2025": {
+    "revenue": 657540,
+    "netProfit": 6744
+   },
+   "2026": {
+    "revenue": 1128661.97,
+    "netProfit": 35736
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-opc"
+  ]
+ },
+ "alrov": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "387019",
+  "marketCap": 6556036,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 1276325,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1300318,
+   "equity": 7342413,
+   "assets": 19691612
+  },
+  "q2": {
+   "2025": {
+    "revenue": 343737,
+    "netProfit": 552492
+   },
+   "2026": {
+    "revenue": 296572,
+    "netProfit": 119906
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-alrov"
+  ]
+ },
+ "ashtrom": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1132315",
+  "marketCap": 6553431,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 4652436,
+   "revenueLabel": "הכנסות",
+   "netProfit": 270655,
+   "equity": 5545780,
+   "assets": 23138918
+  },
+  "q2": {
+   "2025": {
+    "revenue": 1109198,
+    "netProfit": 93018
+   },
+   "2026": {
+    "revenue": 1251856,
+    "netProfit": -77830
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-ashtrom"
+  ]
+ },
+ "isrotel": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1080985",
+  "marketCap": 8233538,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 2176346,
+   "revenueLabel": "הכנסות",
+   "netProfit": 254547,
+   "equity": 2711601,
+   "assets": 5265149
+  },
+  "q2": {
+   "2025": {
+    "revenue": 542112,
+    "netProfit": 54248
+   },
+   "2026": {
+    "revenue": 602523,
+    "netProfit": 81726
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-isrotel"
+  ]
+ },
+ "tamarpet": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1141357",
+  "marketCap": 2441786,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 806814.81,
+   "revenueLabel": "הכנסות",
+   "netProfit": 158661.03,
+   "equity": 1429091.32,
+   "assets": 3831397.42
+  },
+  "q2": {
+   "2025": {
+    "revenue": 221968.64,
+    "netProfit": 37237
+   },
+   "2026": {
+    "revenue": 218072.98,
+    "netProfit": 46316.83
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-tamarpet"
+  ]
+ },
+ "ratio": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "394015",
+  "marketCap": 5455537,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 882807,
+   "revenueLabel": "הכנסות",
+   "netProfit": 399662.35,
+   "equity": 1592821.26,
+   "assets": 3809616.1
+  },
+  "q2": {
+   "2025": {
+    "revenue": 176669.19,
+    "netProfit": 78206.8
+   },
+   "2026": {
+    "revenue": 237733.73,
+    "netProfit": 131142.18
+   }
+  },
+  "note": "החברה מדווחת בדולרים; הנתונים בהמרה לשקלים כפי שמוצגים בביזפורטל.",
+  "sources": [
+   "bizportal-fin-ratio"
+  ]
+ },
+ "elal": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1087824",
+  "marketCap": 11312918,
+  "marketCapAsOf": "2026-10-25",
+  "fy2025": {
+   "revenue": 11088440.2,
+   "revenueLabel": "הכנסות",
+   "netProfit": 1286527.02,
+   "equity": 3356199.06,
+   "assets": 15949362.29
+  },
+  "q2": {
+   "2025": {
+    "revenue": 2618695.18,
+    "netProfit": 208726.8
+   },
+   "2026": {
+    "revenue": 2936307.93,
+    "netProfit": 374930.19
+   }
+  },
+  "note": "",
+  "sources": [
+   "bizportal-fin-elal"
+  ]
+ },
+ "likud": {
+  "kind": "party",
+  "unit": "₪",
+  "advance": 46800000,
+  "debtApr2026": 16800000,
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "yeshatid": {
+  "kind": "party",
+  "unit": "₪",
+  "advance": 35200000,
+  "debtApr2026": 5380000,
+  "note": "אם תקבל פחות מנדטים מהיום תצטרך הלוואה מהכנסת",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "beyachad": {
+  "kind": "party",
+  "unit": "₪",
+  "guarantees": 33000000,
+  "guaranteesUsed": 10000000,
+  "note": "ערבויות שגייסה בנט 2026 לפני האיחוד עם יש עתיד",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ]
+ },
+ "yashar": {
+  "kind": "party",
+  "unit": "₪",
+  "advanceEligible": 18300000,
+  "guarantees": 16600000,
+  "donations": 2000000,
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ]
+ },
+ "bluewhite": {
+  "kind": "party",
+  "unit": "₪",
+  "advance": 11700000,
+  "debtApr2026": 3300000,
+  "note": "גנץ הודיע ב-19.10.2026 על פרישה מהמרוץ",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "rz": {
+  "kind": "party",
+  "unit": "₪",
+  "advance": 10200000,
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ]
+ },
+ "shas": {
+  "kind": "party",
+  "unit": "₪",
+  "advanceEstApr": 12600000,
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "yisraelbeytenu": {
+  "kind": "party",
+  "unit": "₪",
+  "advanceEstApr": 6800000,
+  "debtApr2026": 2900000,
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "otzma": {
+  "kind": "party",
+  "unit": "₪",
+  "advanceEstApr": 5730000,
+  "debtApr2026": 738000,
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "raam": {
+  "kind": "party",
+  "unit": "₪",
+  "debtApr2026": 3000000,
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "democrats": {
+  "kind": "party",
+  "unit": "₪",
+  "debtApr2026": 2600000,
+  "note": "החוב הוא של מפלגת העבודה, החברה בדמוקרטים",
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "utj": {
+  "kind": "party",
+  "unit": "₪",
+  "debtApr2026": 4500000,
+  "note": "דגל התורה 2.4 מיליון ₪ ואגודת ישראל 2.1 מיליון ₪",
+  "sources": [
+   "calcalist-2026-04-26-advances"
+  ]
+ },
+ "amcha": {
+  "kind": "party",
+  "unit": "₪",
+  "guarantees": 3225000,
+  "loans": 214000,
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ]
+ },
+ "miluimnikim": {
+  "kind": "party",
+  "unit": "₪",
+  "guarantees": 2000000,
+  "note": "11 ערבויות עד 23.9.2026. המפלגה הכלכלית גייסה בנפרד, והסכומים שלה לא פורסמו.",
+  "sources": [
+   "calcalist-2026-09-23-guarantees",
+   "calcalist-2026-08-29-funding"
+  ]
+ },
+ "kalkalit": {
+  "kind": "party",
+  "unit": "₪",
+  "note": "לא פורסמו נתוני גיוס לבחירות 2026. בבחירות 2021: ערבויות של 3 מיליון ₪ (1.6 מיליון מזליכה עצמו, 1.1 מיליון ממודי רוזן) ותרומות של כ-240 אלף ₪; המפלגה קיבלה 0.79% מהקולות, מתחת לרף של 1% למימון ממלכתי.",
+  "sources": [
+   "globes-2021-03-16-zelekha",
+   "walla-2021-03-26-zelekha",
+   "calcalist-2026-09-23-guarantees"
+  ]
+ },
+ "fox": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1087022",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-fox"
+  ],
+  "marketCap": 4388171,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 18.78,
+   "pb": 2.44,
+   "ps": 0.6,
+   "roe": 13.01,
+   "roa": 2.17,
+   "margin": 3.17,
+   "equityRatio": 16.67,
+   "netProfit": 233662,
+   "equity": 1798431,
+   "revenue": 7313618
+  }
+ },
+ "bazan": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "2590248",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-bazan"
+  ],
+  "marketCap": 6301845,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 5.58,
+   "pb": 1.06,
+   "ps": 0.27,
+   "roe": 19.07,
+   "roa": 7.08,
+   "margin": 4.85,
+   "equityRatio": 37.11,
+   "netProfit": 1129363,
+   "equity": 5945137,
+   "revenue": 23340167
+  }
+ },
+ "alonyhetz": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "390013",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-alonyhetz"
+  ],
+  "marketCap": 6803824,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": -22.98,
+   "pb": 1.33,
+   "ps": 2.16,
+   "roe": -5.81,
+   "roa": -0.63,
+   "margin": -9.41,
+   "equityRatio": 10.84,
+   "netProfit": -296076,
+   "equity": 5115657,
+   "revenue": 3149919
+  }
+ },
+ "amot": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1097278",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-amot"
+  ],
+  "marketCap": 9679745,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 11.86,
+   "pb": 0.97,
+   "ps": 7.95,
+   "roe": 8.19,
+   "roa": 3.57,
+   "margin": 67.07,
+   "equityRatio": 43.58,
+   "netProfit": 816167,
+   "equity": 9979119,
+   "revenue": 1217578
+  }
+ },
+ "big": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1097260",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-big"
+  ],
+  "marketCap": 18283310,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 11.15,
+   "pb": 1.37,
+   "ps": 5.95,
+   "roe": 12.24,
+   "roa": 3.63,
+   "margin": 53.32,
+   "equityRatio": 29.64,
+   "netProfit": 1639759,
+   "equity": 13345482,
+   "revenue": 3072825
+  }
+ },
+ "gavyam": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "759019",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-gavyam"
+  ],
+  "marketCap": 8581261,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 13.14,
+   "pb": 1.66,
+   "ps": 8.88,
+   "roe": 12.6,
+   "roa": 3.23,
+   "margin": 67.61,
+   "equityRatio": 25.64,
+   "netProfit": 653064,
+   "equity": 5169434,
+   "revenue": 966358
+  }
+ },
+ "reit1": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1098920",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-reit1"
+  ],
+  "marketCap": 4292733,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.1,
+   "pb": 0.9,
+   "ps": 8.32,
+   "roe": 8.93,
+   "roa": 4.27,
+   "margin": 82.36,
+   "equityRatio": 47.84,
+   "netProfit": 425023,
+   "equity": 4769703,
+   "revenue": 515953
+  }
+ },
+ "mivne": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "226019",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-mivne"
+  ],
+  "marketCap": 9765333,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 17.99,
+   "pb": 1.1,
+   "ps": 7.36,
+   "roe": 6.14,
+   "roa": 2.58,
+   "margin": 40.91,
+   "equityRatio": 42.08,
+   "netProfit": 542820,
+   "equity": 8877575,
+   "revenue": 1326812
+  }
+ },
+ "airportcity": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1095835",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-airportcity"
+  ],
+  "marketCap": 5868323,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 7.97,
+   "pb": 0.58,
+   "ps": 5.14,
+   "roe": 7.22,
+   "roa": 3.7,
+   "margin": 64.49,
+   "equityRatio": 51.29,
+   "netProfit": 736302,
+   "equity": 10117798,
+   "revenue": 1141697
+  }
+ },
+ "shikunbinui": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1081942",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-shikunbinui"
+  ],
+  "marketCap": 11004994,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": -39.87,
+   "pb": 1.84,
+   "ps": 1.22,
+   "roe": -4.62,
+   "roa": -1.03,
+   "margin": -3.06,
+   "equityRatio": 22.25,
+   "netProfit": -276022,
+   "equity": 5980975,
+   "revenue": 9020487
+  }
+ },
+ "israelcanada": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "434019",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-israelcanada"
+  ],
+  "marketCap": 4727608,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 197.9,
+   "pb": 1.66,
+   "ps": 5.02,
+   "roe": 0.84,
+   "roa": 0.18,
+   "margin": 2.54,
+   "equityRatio": 21.15,
+   "netProfit": 23889,
+   "equity": 2847957,
+   "revenue": 941755
+  }
+ },
+ "africaprop": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1091354",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-africaprop"
+  ],
+  "marketCap": 7647509,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 7.16,
+   "pb": 0.97,
+   "ps": 4.74,
+   "roe": 13.59,
+   "roa": 4.51,
+   "margin": 66.24,
+   "equityRatio": 33.2,
+   "netProfit": 1068088,
+   "equity": 7884030,
+   "revenue": 1613399
+  }
+ },
+ "sella": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1109644",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-sella"
+  ],
+  "marketCap": 2057614,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 8.79,
+   "pb": 0.7,
+   "ps": 5.06,
+   "roe": 7.97,
+   "roa": 3.49,
+   "margin": 57.49,
+   "equityRatio": 43.73,
+   "netProfit": 234086,
+   "equity": 2939449,
+   "revenue": 406643
+  }
+ },
+ "prashkovsky": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1102128",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-prashkovsky"
+  ],
+  "marketCap": 2524402,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 11.81,
+   "pb": 1.14,
+   "ps": 2.94,
+   "roe": 9.69,
+   "roa": 3.02,
+   "margin": 24.89,
+   "equityRatio": 31.17,
+   "netProfit": 213751,
+   "equity": 2214388,
+   "revenue": 858640
+  }
+ },
+ "isras": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "613034",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-isras"
+  ],
+  "marketCap": 3788178,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 9.05,
+   "pb": 0.81,
+   "ps": 6.22,
+   "roe": 8.98,
+   "roa": 3.85,
+   "margin": 68.71,
+   "equityRatio": 42.91,
+   "netProfit": 418583,
+   "equity": 4676763,
+   "revenue": 609032
+  }
+ },
+ "summit": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1081686",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-summit"
+  ],
+  "marketCap": 3107761,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 6.05,
+   "pb": 0.67,
+   "ps": 3.3,
+   "roe": 11.07,
+   "roa": 4.56,
+   "margin": 54.49,
+   "equityRatio": 41.18,
+   "netProfit": 513680,
+   "equity": 4638449,
+   "revenue": 941746
+  }
+ },
+ "paz": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1100007",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-paz"
+  ],
+  "marketCap": 9042416,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 14.97,
+   "pb": 2.65,
+   "ps": 0.79,
+   "roe": 17.73,
+   "roa": 5.72,
+   "margin": 5.31,
+   "equityRatio": 32.25,
+   "netProfit": 604036,
+   "equity": 3412232,
+   "revenue": 11446096
+  }
+ },
+ "gcity": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "126011",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-gcity"
+  ],
+  "marketCap": 1864582,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 10.88,
+   "pb": 0.45,
+   "ps": 0.78,
+   "roe": 4.17,
+   "roa": 0.57,
+   "margin": 7.17,
+   "equityRatio": 13.57,
+   "netProfit": 171377,
+   "equity": 4143516,
+   "revenue": 2390490
+  }
+ },
+ "azorim": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "715011",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-azorim"
+  ],
+  "marketCap": 3719505,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 16.41,
+   "pb": 1.46,
+   "ps": 2.22,
+   "roe": 8.88,
+   "roa": 2.45,
+   "margin": 13.52,
+   "equityRatio": 27.57,
+   "netProfit": 226661,
+   "equity": 2547606,
+   "revenue": 1675453
+  }
+ },
+ "castro": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "280016",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-castro"
+  ],
+  "marketCap": 1222673,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 29.25,
+   "pb": 1.64,
+   "ps": 0.57,
+   "roe": 5.61,
+   "roa": 1.51,
+   "margin": 1.94,
+   "equityRatio": 26.94,
+   "netProfit": 41801,
+   "equity": 745532,
+   "revenue": 2145040
+  }
+ },
+ "delta": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "627034",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-delta"
+  ],
+  "marketCap": 4750100,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 15.17,
+   "pb": 1.76,
+   "ps": 0.65,
+   "roe": 11.62,
+   "roa": 4.87,
+   "margin": 4.31,
+   "equityRatio": 41.89,
+   "netProfit": 313125,
+   "equity": 2698920,
+   "revenue": 7307846
+  }
+ },
+ "golf": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1096148",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-golf"
+  ],
+  "marketCap": 401176,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 7.35,
+   "pb": 1.83,
+   "ps": 0.44,
+   "roe": 24.96,
+   "roa": 5.03,
+   "margin": 5.96,
+   "equityRatio": 20.14,
+   "netProfit": 54582,
+   "equity": 219222,
+   "revenue": 911764
+  }
+ },
+ "megaor": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1104488",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-megaor"
+  ],
+  "marketCap": 18110180,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 14.14,
+   "pb": 3.38,
+   "ps": 48.07,
+   "roe": 23.94,
+   "roa": 9.89,
+   "margin": 340.03,
+   "equityRatio": 41.32,
+   "netProfit": 1280777,
+   "equity": 5358041,
+   "revenue": 376746
+  }
+ },
+ "teva": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "629014",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-teva"
+  ],
+  "marketCap": 143564478,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 59.29,
+   "pb": 6.22,
+   "ps": 2.62,
+   "roe": 10.49,
+   "roa": 2.04,
+   "margin": 4.42,
+   "equityRatio": 19.45,
+   "netProfit": 2421394,
+   "equity": 23081106,
+   "revenue": 54795602
+  }
+ },
+ "kamada": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1094119",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-kamada"
+  ],
+  "marketCap": 1382624,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 19.88,
+   "pb": 1.72,
+   "ps": 2.29,
+   "roe": 8.66,
+   "roa": 6.09,
+   "margin": 11.5,
+   "equityRatio": 70.35,
+   "netProfit": 69548,
+   "equity": 803851,
+   "revenue": 603766
+  }
+ },
+ "enlight": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "720011",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-enlight"
+  ],
+  "marketCap": 29680418,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 105.26,
+   "pb": 4.6,
+   "ps": 12.97,
+   "roe": 4.37,
+   "roa": 0.91,
+   "margin": 12.32,
+   "equityRatio": 20.7,
+   "netProfit": 281972,
+   "equity": 6452265,
+   "revenue": 2288390
+  }
+ },
+ "energix": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1123355",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-energix"
+  ],
+  "marketCap": 11480536,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 84.81,
+   "pb": 5,
+   "ps": 9.26,
+   "roe": 5.9,
+   "roa": 1.02,
+   "margin": 10.92,
+   "equityRatio": 17.34,
+   "netProfit": 135368,
+   "equity": 2296107,
+   "revenue": 1239799
+  }
+ },
+ "ormat": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1134402",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-ormat"
+  ],
+  "marketCap": 15299369,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 38.25,
+   "pb": 1.98,
+   "ps": 4.07,
+   "roe": 5.17,
+   "roa": 1.98,
+   "margin": 10.65,
+   "equityRatio": 38.27,
+   "netProfit": 399984,
+   "equity": 7726954,
+   "revenue": 3759059
+  }
+ },
+ "ayalon": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "209015",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-ayalon"
+  ],
+  "marketCap": 5390714,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 12.18,
+   "pb": 3.01,
+   "ps": 1.1,
+   "roe": 24.73,
+   "roa": 1.82,
+   "margin": null,
+   "equityRatio": 7.38,
+   "netProfit": 442587,
+   "equity": 1790935,
+   "revenue": 4900649
+  }
+ },
+ "meitavinv": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "1081843",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-meitav"
+  ],
+  "marketCap": 10676370,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 11.46,
+   "pb": 4.82,
+   "ps": 4.27,
+   "roe": 42.1,
+   "roa": 13.01,
+   "margin": 37.31,
+   "equityRatio": 30.92,
+   "netProfit": 931620,
+   "equity": 2215015,
+   "revenue": 2500321
+  }
+ },
+ "bezeq": {
+  "kind": "listed",
+  "unit": "אלפי ₪",
+  "security": "230011",
+  "note": "",
+  "sources": [
+   "bizportal-ratios-bezeq"
+  ],
+  "marketCap": 19510070,
+  "marketCapAsOf": "2026-10-23",
+  "ttm": {
+   "period": "Q2/2026",
+   "pe": 16.16,
+   "pb": 7.03,
+   "ps": 2.25,
+   "roe": 43.48,
+   "roa": 7.97,
+   "margin": 13.93,
+   "equityRatio": 18.33,
+   "netProfit": 1207306,
+   "equity": 2775259,
+   "revenue": 8671142
+  }
+ }
+}

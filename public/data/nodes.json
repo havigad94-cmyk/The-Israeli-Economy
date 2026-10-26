@@ -309,7 +309,7 @@
   "sector": null,
   "geo": null,
   "wealth": null,
-  "summary": "בעל המניות השני בגודלו בתמר פטרוליום, כ-21%. ל-SOCAR האזרית אופציה לקנות חלק מהמניות שרכש.",
+  "summary": "בעל המניות השני בגודלו בתמר פטרוליום, כ-21%. ל-SOCAR האזרית אופציה לקנות חלק מהמניות שרכש. בעל המניות הגדול באלוני חץ (18.15%).",
   "minor": true,
   "political_note": null,
   "sources": []
@@ -515,10 +515,12 @@
   "sector": "ind",
   "geo": "ישראל",
   "abroad": false,
-  "summary": "",
+  "summary": " הזיכיון של כי\"ל לניצול ים המלח מסתיים בסוף מרץ 2030, והמדינה מכינה מכרז.",
   "key": false,
   "political_note": null,
-  "sources": []
+  "sources": [
+   "calcalist-2024-03-10-deadsea"
+  ]
  },
  {
   "id": "rotem",
@@ -2173,7 +2175,7 @@
   "sector": null,
   "geo": "ישראל",
   "role": "מפלגה",
-  "summary": "מפלגת השלטון בראשות בנימין נתניהו.",
+  "summary": "מפלגת השלטון בראשות בנימין נתניהו. סקר חדשות 12 (22.9.2026): 20 מנדטים.",
   "sources": []
  },
  {
@@ -2263,7 +2265,7 @@
   "sector": null,
   "geo": "ישראל",
   "role": "מפלגה בראשות גדי איזנקוט",
-  "summary": "נכון לאוגוסט 2026: 27 ערבויות בסך כ-16.6 מיליון ₪ ו-242 תרומות בסך כ-1.7 מיליון ₪. לא דווחו הלוואות. כמפלגה חדשה היא זכאית למקדמה ממלכתית של עד כ-18.3 מיליון ₪ כנגד ערבות בנקאית.",
+  "summary": "נכון לאוגוסט 2026: 27 ערבויות בסך כ-16.6 מיליון ₪ ו-242 תרומות בסך כ-1.7 מיליון ₪. לא דווחו הלוואות. כמפלגה חדשה היא זכאית למקדמה ממלכתית של עד כ-18.3 מיליון ₪ כנגד ערבות בנקאית. סקר חדשות 12 (22.9.2026): 23 מנדטים.",
   "sources": []
  },
  {
@@ -2273,7 +2275,7 @@
   "sector": null,
   "geo": "ישראל",
   "role": "רשימה משותפת, הוקמה 26.4.2026",
-  "summary": "איחוד של בנט 2026 ויש עתיד בראשות נפתלי בנט. לפי כלכליסט (אוגוסט 2026), בנט 2026 גייסה לפני האיחוד ערבויות לאשראי בסך 33 מיליון ₪ וניצלה מהן 10 מיליון. יש עתיד, כסיעה מכהנת, זכאית למקדמה של כ-35.2 מיליון ₪.",
+  "summary": "איחוד של בנט 2026 ויש עתיד בראשות נפתלי בנט. לפי כלכליסט (אוגוסט 2026), בנט 2026 גייסה לפני האיחוד ערבויות לאשראי בסך 33 מיליון ₪ וניצלה מהן 10 מיליון. יש עתיד, כסיעה מכהנת, זכאית למקדמה של כ-35.2 מיליון ₪. סקר חדשות 12 (22.9.2026): 13 מנדטים.",
   "sources": []
  },
  {
@@ -2293,7 +2295,7 @@
   "sector": null,
   "geo": "ישראל",
   "role": "מפלגה בראשות יאיר לפיד",
-  "summary": "רכיב ברשימת ביחד. זכאית למקדמת מימון בחירות של כ-35.2 מיליון ₪. אם תקטן בבחירות, תצטרך הלוואה מהכנסת שתוחזר ממחצית המימון השוטף בקדנציה הבאה.",
+  "summary": "רכיב ברשימת ביחד. זכאית למקדמת מימון בחירות של כ-35.2 מיליון ₪. אם תקטן בבחירות, תצטרך הלוואה מהכנסת שתוחזר ממחצית המימון השוטף בקדנציה הבאה. סקר חדשות 12 (22.9.2026): במסגרת ביחד.",
   "sources": []
  },
  {
@@ -2303,7 +2305,7 @@
   "sector": null,
   "geo": "ישראל",
   "role": "מפלגה בראשות בני גנץ",
-  "summary": "גנץ הודיע ב-19.10.2026 שהמפלגה פורשת מהמרוץ. לפי כלכליסט, המפלגה לקחה מקדמת מימון בחירות של 9.7 מיליון ₪ בלי ערבות בנקאית, וחובה לכנסת עומד על כ-11.7 מיליון ₪. לא ברור איך יוחזר. תלויה נגדה תביעת שכר של עובדת לשעבר בסך 1.12 מיליון ₪.",
+  "summary": "גנץ הודיע ב-19.10.2026 שהמפלגה פורשת מהמרוץ. לפי כלכליסט, המפלגה לקחה מקדמת מימון בחירות של 9.7 מיליון ₪ בלי ערבות בנקאית, וחובה לכנסת עומד על כ-11.7 מיליון ₪. לא ברור איך יוחזר. תלויה נגדה תביעת שכר של עובדת לשעבר בסך 1.12 מיליון ₪. בסקר חדשות 12 (22.9.2026) הייתה מתחת לאחוז החסימה (0.7%).",
   "sources": []
  },
  {
@@ -3255,6 +3257,1515 @@
   "summary": "",
   "sources": [
    "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "elal",
+  "type": "company",
+  "name": "אל על",
+  "sector": "aviation",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת התעופה הלאומית, ציבורית. בשליטת משפחת רוזנברג דרך כנפי נשרים תעופה.",
+  "sources": [
+   "bizportal-elal-holders",
+   "wiki-eli-rozenberg"
+  ],
+  "key": true
+ },
+ {
+  "id": "kanfei",
+  "type": "company",
+  "name": "כנפי נשרים תעופה",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת האחזקות שהקים אלי רוזנברג ביולי 2020, ושדרכה נרכשה השליטה באל על.",
+  "sources": [
+   "wiki-eli-rozenberg"
+  ]
+ },
+ {
+  "id": "rozenbergfam",
+  "type": "family",
+  "name": "משפחת רוזנברג (קני ואלי)",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קני רוזנברג ובנו אלי, בעלי היתר השליטה באל על.",
+  "sources": [
+   "calcalist-rozenberg-permit",
+   "wiki-eli-rozenberg"
+  ]
+ },
+ {
+  "id": "israir",
+  "type": "company",
+  "name": "ישראייר גרופ",
+  "sector": "aviation",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת תעופה ותיירות ציבורית, נרכשה ב-2021 בידי רמי לוי ושלום חיים.",
+  "sources": [
+   "israir-about",
+   "globes-israir-holders"
+  ],
+  "key": true
+ },
+ {
+  "id": "shaiodem",
+  "type": "company",
+  "name": "שי אודם",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת האחזקות של רמי לוי ושלום חיים בישראייר.",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia",
+   "globes-israir-holders"
+  ]
+ },
+ {
+  "id": "shalomhaim",
+  "type": "person",
+  "name": "שלום חיים",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "שותף של רמי לוי בשליטה בישראייר.",
+  "sources": [
+   "israir-about",
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "arkia",
+  "type": "company",
+  "name": "ארקיע",
+  "sector": "aviation",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת תעופה פרטית. ב-2023 דווח על מגעים למיזוג עם ישראייר, בכפוף לרשות התחרות.",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "nakash",
+  "type": "family",
+  "name": "האחים נקש",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלי השליטה בארקיע (70%, 2023).",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "arkiaworkers",
+  "type": "company",
+  "name": "תו\"ת תעופה ותיירות (עובדי ארקיע)",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "החברה שבה מאוגדים עובדי ארקיע המחזיקים ביתרת המניות.",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "democrats",
+  "type": "party",
+  "name": "הדמוקרטים",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות יאיר גולן (העבודה ומרצ). סקר חדשות 12 (22.9.2026): 9 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "yisraelbeytenu",
+  "type": "party",
+  "name": "ישראל ביתנו",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות אביגדור ליברמן. סקר חדשות 12 (22.9.2026): 9 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "shas",
+  "type": "party",
+  "name": "ש\"ס",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות אריה דרעי. סקר חדשות 12 (22.9.2026): 7 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "davar-2026-09-08-lists"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "utj",
+  "type": "party",
+  "name": "יהדות התורה",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "דגל התורה, אגודת ישראל וחומת תורת ישראל. סקר חדשות 12 (22.9.2026): 8 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "davar-2026-09-08-lists"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "otzma",
+  "type": "party",
+  "name": "עוצמה יהודית",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות איתמר בן גביר. סקר חדשות 12 (22.9.2026): 6 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "rz",
+  "type": "party",
+  "name": "הציונות הדתית וזהות",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות בצלאל סמוטריץ', בריצה משותפת עם זהות של משה פייגלין. סקר חדשות 12 (22.9.2026): 5 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "davar-2026-09-08-lists"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "jointlist",
+  "type": "party",
+  "name": "הרשימה המשותפת",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חד\"ש, תע\"ל ובל\"ד, בראשות יוסף ג'בארין. סקר חדשות 12 (22.9.2026): 7 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "davar-2026-09-08-lists"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "raam",
+  "type": "party",
+  "name": "רע\"מ",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות מנסור עבאס. סקר חדשות 12 (22.9.2026): 5 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "amcha",
+  "type": "party",
+  "name": "עמך ישראל",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות האלוף במיל' עופר וינטר (ברשם המפלגות: \"עמי חי לעולם\"). סקר חדשות 12 (22.9.2026): 4 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "calcalist-2026-08-29-funding"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "miluimnikim",
+  "type": "party",
+  "name": "המילואימניקים",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות יועז הנדל. מתמודדת ברשימה משותפת עם המפלגה הכלכלית של ירון זליכה (\"המילואימניקים והכלכלית\"), עם עינת וילף במקום 3. סקר חדשות 12 (22.9.2026): 4 מנדטים.",
+  "sources": [
+   "idi-2026-lists",
+   "n12-2026-09-22-poll",
+   "davar-2026-09-08-lists",
+   "kan-2026-09-08-lists"
+  ],
+  "role": "מתמודדת בבחירות 2026"
+ },
+ {
+  "id": "foreman",
+  "type": "donor",
+  "name": "ג'יי פורמן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מנכ\"ל ונשיא Basic Fun. ערב לעמך ישראל ב-2.95 מיליון ₪.",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ],
+  "role": "ערב"
+ },
+ {
+  "id": "rachamim",
+  "type": "donor",
+  "name": "אברהם רחמים",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלי לוטוס ירושלים. ערב לעמך ישראל ב-125 אלף ₪.",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ],
+  "role": "ערב"
+ },
+ {
+  "id": "greenwald",
+  "type": "donor",
+  "name": "יונתן גרינוולד",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "איש עסקים ממיאמי. הלווה לעמך ישראל 14 אלף ₪; בעבר נתן ערבויות של 4.1 מיליון ₪ לימינה ולתקווה חדשה.",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ],
+  "role": "מלווה"
+ },
+ {
+  "id": "halef",
+  "type": "donor",
+  "name": "יונתן חלף",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מקרן הגידור ION. בין הערבים למילואימניקים (סך הערבויות למפלגה: 1.6 מיליון ₪).",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ],
+  "role": "ערב"
+ },
+ {
+  "id": "kalkalit",
+  "type": "party",
+  "name": "המפלגה הכלכלית",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בראשות פרופ' ירון זליכה, החשב הכללי לשעבר. ב-2026 מתמודדת ברשימה משותפת עם המילואימניקים של יועז הנדל (זליכה במקום 2). בבחירות 2021 קיבלה 0.79% מהקולות ולא עברה את אחוז החסימה.",
+  "sources": [
+   "kan-2026-09-08-lists",
+   "idi-2026-miluim-kalkalit",
+   "walla-2021-03-26-zelekha"
+  ],
+  "role": "מתמודדת בבחירות 2026 (ברשימה משותפת)",
+  "political_note": "זליכה מציג את עצמו כמתנגד לטייקונים ולמונופולים, וטוען שבניגוד ליריביו לא קיבל ערבויות מבעלי הון (דבר, 21.10.2026). לא פורסמו סכומים לגיוס של המפלגה ב-2026."
+ },
+ {
+  "id": "zelekha",
+  "type": "politician",
+  "name": "ירון זליכה",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "החשב הכללי במשרד האוצר בשנים 2003–2007, יו\"ר המפלגה הכלכלית. מקום 2 ברשימת המילואימניקים והכלכלית.",
+  "sources": [
+   "davar-2026-10-21-zelekha",
+   "kan-2026-09-08-lists"
+  ],
+  "role": "יו\"ר המפלגה הכלכלית"
+ },
+ {
+  "id": "hendel",
+  "type": "politician",
+  "name": "יועז הנדל",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יו\"ר המילואימניקים ומקום 1 ברשימה המשותפת עם המפלגה הכלכלית. שר התקשורת לשעבר.",
+  "sources": [
+   "kan-2026-09-08-lists",
+   "inn-2026-09-06-hendel-zelekha"
+  ],
+  "role": "יו\"ר המילואימניקים"
+ },
+ {
+  "id": "modirosen",
+  "type": "donor",
+  "name": "מודי רוזן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "איש הייטק והון סיכון. ערב למפלגה הכלכלית ב-1.1 מיליון ₪ בבחירות 2021.",
+  "sources": [
+   "globes-2021-03-16-zelekha"
+  ],
+  "role": "ערב (2021)"
+ },
+ {
+  "id": "fox",
+  "type": "company",
+  "name": "פוקס-ויזל",
+  "sector": "fashion",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קבוצת האופנה והקמעונאות הגדולה בישראל, ציבורית. גרעין השליטה: אברהם פוקס והאחים ויזל. שולטת בטרמינל X מאז 2017.",
+  "sources": [
+   "bizportal-holders-fox",
+   "ice-2026-08-24-fox"
+  ],
+  "key": true
+ },
+ {
+  "id": "avfox",
+  "type": "person",
+  "name": "אברהם פוקס",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מייסד פוקס ובעל המניות הגדול בחברה (22.14%).",
+  "sources": [
+   "bizportal-holders-fox"
+  ]
+ },
+ {
+  "id": "wiesel",
+  "type": "family",
+  "name": "האחים ויזל (הראל, אסף ויפתח)",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "שותפים בגרעין השליטה בפוקס-ויזל. הראל ויזל הוא יו\"ר החברה.",
+  "sources": [
+   "bizportal-holders-fox",
+   "ice-2026-08-24-fox"
+  ]
+ },
+ {
+  "id": "terminalx",
+  "type": "company",
+  "name": "טרמינל X",
+  "sector": "fashion",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חנות האופנה המקוונת הגדולה בישראל, בשליטת פוקס-ויזל מאז 2017.",
+  "sources": [
+   "ice-2026-08-24-fox"
+  ]
+ },
+ {
+  "id": "castro",
+  "type": "company",
+  "name": "קסטרו",
+  "sector": "fashion",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "רשת אופנה ציבורית. בעלי המניות הגדולים: משפחת רוטר, אלי גבאי ויוסף שאול גביזון.",
+  "sources": [
+   "bizportal-holders-castro"
+  ]
+ },
+ {
+  "id": "rotterfam",
+  "type": "family",
+  "name": "משפחת רוטר (אסתר וגבריאל)",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלי מניות בקסטרו (18.04% יחד).",
+  "sources": [
+   "bizportal-holders-castro"
+  ]
+ },
+ {
+  "id": "eligabbay",
+  "type": "person",
+  "name": "אלי גבאי",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בקסטרו (9.45%).",
+  "sources": [
+   "bizportal-holders-castro"
+  ]
+ },
+ {
+  "id": "gabizon",
+  "type": "person",
+  "name": "יוסף שאול גביזון",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בקסטרו (8.78%).",
+  "sources": [
+   "bizportal-holders-castro"
+  ]
+ },
+ {
+  "id": "delta",
+  "type": "company",
+  "name": "דלתא גליל",
+  "sector": "fashion",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יצרנית ומשווקת הלבשה תחתונה וביגוד, פעילה בעיקר בחו\"ל. בשליטת אייזק דבח.",
+  "sources": [
+   "bizportal-holders-delta"
+  ]
+ },
+ {
+  "id": "dabah",
+  "type": "person",
+  "name": "אייזק דבח",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל השליטה בדלתא גליל (44.26%, ועוד 5.24% דרך חברה משפחתית).",
+  "sources": [
+   "bizportal-holders-delta"
+  ]
+ },
+ {
+  "id": "lautman",
+  "type": "person",
+  "name": "נועם לאוטמן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בתו של מייסד דלתא, דב לאוטמן; מחזיקה 9.91% מהחברה.",
+  "sources": [
+   "bizportal-holders-delta"
+  ]
+ },
+ {
+  "id": "golf",
+  "type": "company",
+  "name": "גולף",
+  "sector": "fashion",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "רשת אופנה ובית. בעלת המניות הגדולה: כלל תעשיות (52.65%).",
+  "sources": [
+   "bizportal-holders-golf"
+  ]
+ },
+ {
+  "id": "clalind",
+  "type": "company",
+  "name": "כלל תעשיות",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בגולף.",
+  "sources": [
+   "bizportal-holders-golf"
+  ]
+ },
+ {
+  "id": "steimatzky",
+  "type": "company",
+  "name": "סטימצקי",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מחזיקה 15.51% מגולף.",
+  "sources": [
+   "bizportal-holders-golf"
+  ]
+ },
+ {
+  "id": "big",
+  "type": "company",
+  "name": "ביג מרכזי קניות",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מהגדולות בבעלי מרכזי הקניות בישראל, ציבורית. בעלי המניות הגדולים: יהודה ורוני נפתלי. מחזיקה 79.9% מאפי נכסים.",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "key": true
+ },
+ {
+  "id": "naftalifam",
+  "type": "family",
+  "name": "משפחת נפתלי (יהודה ורוני)",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלי המניות הגדולים בביג (35.76% יחד).",
+  "sources": [
+   "bizportal-holders-big"
+  ]
+ },
+ {
+  "id": "megaor",
+  "type": "company",
+  "name": "מגה אור",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב ומרכזי מסחר, ציבורית. מחזיקה 4.96% מביג.",
+  "sources": [
+   "bizportal-holders-big",
+   "bizportal-ratios-megaor"
+  ]
+ },
+ {
+  "id": "gcity",
+  "type": "company",
+  "name": "ג'י סיטי (גזית גלוב)",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת מרכזים מסחריים בישראל ובעולם, בשליטת נורסטאר (50.01%).",
+  "sources": [
+   "bizportal-holders-gcity"
+  ]
+ },
+ {
+  "id": "norstar",
+  "type": "company",
+  "name": "נורסטאר",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בג'י סיטי.",
+  "sources": [
+   "bizportal-holders-gcity"
+  ]
+ },
+ {
+  "id": "africaprop",
+  "type": "company",
+  "name": "אפי נכסים",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב (לשעבר אפריקה ישראל נכסים), בשליטת ביג (79.9%).",
+  "sources": [
+   "bizportal-holders-africaprop"
+  ]
+ },
+ {
+  "id": "alonyhetz",
+  "type": "company",
+  "name": "אלוני חץ",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת השקעות בנדל\"ן ובאנרגיה מתחדשת. שולטת באמות ובאנרג'יקס. בעל המניות הגדול: אהרון פרנקל.",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "key": true
+ },
+ {
+  "id": "nathanhetz",
+  "type": "person",
+  "name": "נתן חץ",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מייסד אלוני חץ ובעל מניות בה (12.24%).",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ]
+ },
+ {
+  "id": "amot",
+  "type": "company",
+  "name": "אמות השקעות",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מהגדולות בחברות הנדל\"ן המניב בישראל, בשליטת אלוני חץ (51.17%).",
+  "sources": [
+   "bizportal-holders-amot"
+  ]
+ },
+ {
+  "id": "gavyam",
+  "type": "company",
+  "name": "גב-ים",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת פארקי הייטק ומשרדים, בשליטת נכסים ובנין (64.04%).",
+  "sources": [
+   "bizportal-holders-gavyam"
+  ]
+ },
+ {
+  "id": "propbuild",
+  "type": "company",
+  "name": "נכסים ובנין",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בגב-ים.",
+  "sources": [
+   "bizportal-holders-gavyam"
+  ]
+ },
+ {
+  "id": "reit1",
+  "type": "company",
+  "name": "ריט 1",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קרן ריט בלי בעל שליטה; המחזיקים הגדולים הם גופים מוסדיים.",
+  "sources": [
+   "bizportal-holders-reit1"
+  ]
+ },
+ {
+  "id": "mivne",
+  "type": "company",
+  "name": "מבנה",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב. בעל המניות הגדול: דוד פורר (23.77%).",
+  "sources": [
+   "bizportal-holders-mivne"
+  ]
+ },
+ {
+  "id": "forer",
+  "type": "person",
+  "name": "דוד פורר",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל המניות הגדול במבנה.",
+  "sources": [
+   "bizportal-holders-mivne"
+  ]
+ },
+ {
+  "id": "airportcity",
+  "type": "company",
+  "name": "איירפורט סיטי",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב, בשליטת אקויטל (47.69%).",
+  "sources": [
+   "bizportal-holders-airportcity"
+  ]
+ },
+ {
+  "id": "equital",
+  "type": "company",
+  "name": "אקויטל",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה באיירפורט סיטי.",
+  "sources": [
+   "bizportal-holders-airportcity"
+  ]
+ },
+ {
+  "id": "shikunbinui",
+  "type": "company",
+  "name": "שיכון ובינוי",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מחברות הבנייה והתשתיות הגדולות. בעלת המניות הגדולה: או.אס ישראל (30.78%).",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ]
+ },
+ {
+  "id": "osisrael",
+  "type": "company",
+  "name": "או.אס ישראל",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת המניות הגדולה בשיכון ובינוי, לפי מצבת בעלי העניין.",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ]
+ },
+ {
+  "id": "israelcanada",
+  "type": "company",
+  "name": "ישראל קנדה",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת ייזום ונדל\"ן. בעלי המניות הגדולים: ברק רוזן ואסף טוכמאייר.",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ]
+ },
+ {
+  "id": "barakrosen",
+  "type": "person",
+  "name": "ברק רוזן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בישראל קנדה (16.32%).",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ]
+ },
+ {
+  "id": "touchmair",
+  "type": "person",
+  "name": "אסף טוכמאייר",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בישראל קנדה (15.9%).",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ]
+ },
+ {
+  "id": "sella",
+  "type": "company",
+  "name": "סלע נדל\"ן",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קרן ריט בלי בעל שליטה; המחזיקים הגדולים הם גופים מוסדיים.",
+  "sources": [
+   "bizportal-holders-sella"
+  ]
+ },
+ {
+  "id": "prashkovsky",
+  "type": "company",
+  "name": "פרשקובסקי",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת ייזום ובנייה משפחתית ציבורית.",
+  "sources": [
+   "bizportal-holders-prashkovsky"
+  ]
+ },
+ {
+  "id": "prashfam",
+  "type": "family",
+  "name": "משפחת פרשקובסקי",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בפרשקובסקי (64.82% יחד: ארנון, יוסי, שרון ומאיה קרדי).",
+  "sources": [
+   "bizportal-holders-prashkovsky"
+  ]
+ },
+ {
+  "id": "isras",
+  "type": "company",
+  "name": "ישרס",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב, בשליטת ישרס אחזקות (68.3%).",
+  "sources": [
+   "bizportal-holders-isras"
+  ]
+ },
+ {
+  "id": "isrhold",
+  "type": "company",
+  "name": "ישרס אחזקות",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה בישרס.",
+  "sources": [
+   "bizportal-holders-isras"
+  ]
+ },
+ {
+  "id": "eisenberg",
+  "type": "person",
+  "name": "שלמה איזנברג",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בישרס (10.54%).",
+  "sources": [
+   "bizportal-holders-isras"
+  ]
+ },
+ {
+  "id": "summit",
+  "type": "company",
+  "name": "סאמיט",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת נדל\"ן מניב בישראל ובגרמניה, בשליטת זוהר לוי (47.99%).",
+  "sources": [
+   "bizportal-holders-summit"
+  ]
+ },
+ {
+  "id": "zoharlevy",
+  "type": "person",
+  "name": "זוהר לוי",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל השליטה בסאמיט.",
+  "sources": [
+   "bizportal-holders-summit"
+  ]
+ },
+ {
+  "id": "azorim",
+  "type": "company",
+  "name": "אזורים",
+  "sector": "re",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת ייזום ובנייה למגורים.",
+  "sources": [
+   "bizportal-holders-azorim"
+  ]
+ },
+ {
+  "id": "hfriedman",
+  "type": "person",
+  "name": "חיים פרידמן",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל השליטה באזורים (64.11%), לפי מצבת בעלי העניין.",
+  "sources": [
+   "bizportal-holders-azorim"
+  ]
+ },
+ {
+  "id": "bazan",
+  "type": "company",
+  "name": "בזן (בתי זיקוק חיפה)",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בית הזיקוק הגדול בישראל, במפרץ חיפה. בעלת המניות הגדולה: מפעלים פטרוכימיים (24.76%).",
+  "sources": [
+   "bizportal-holders-bazan"
+  ],
+  "key": true
+ },
+ {
+  "id": "petrochem",
+  "type": "company",
+  "name": "מפעלים פטרוכימיים בישראל",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת המניות הגדולה בבזן.",
+  "sources": [
+   "bizportal-holders-bazan"
+  ]
+ },
+ {
+  "id": "jblank",
+  "type": "person",
+  "name": "ג'רמי בלנק",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בבזן (5.27%).",
+  "sources": [
+   "bizportal-holders-bazan"
+  ]
+ },
+ {
+  "id": "paz",
+  "type": "company",
+  "name": "פז אנרגיה",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת הדלק הגדולה (268 תחנות לפי משרד האנרגיה, 2021), בלי בעל שליטה. המחזיקים הגדולים הם גופים מוסדיים.",
+  "sources": [
+   "bizportal-holders-paz",
+   "ice-2023-08-20-fuel"
+  ],
+  "key": true
+ },
+ {
+  "id": "enlight",
+  "type": "company",
+  "name": "אנלייט אנרגיה",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יזמית אנרגיה מתחדשת בישראל, באירופה ובארה\"ב, בלי בעל שליטה.",
+  "sources": [
+   "bizportal-holders-enlight"
+  ]
+ },
+ {
+  "id": "energix",
+  "type": "company",
+  "name": "אנרג'יקס",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יזמית אנרגיה מתחדשת, בשליטת אלוני חץ (50.05%).",
+  "sources": [
+   "bizportal-holders-energix"
+  ]
+ },
+ {
+  "id": "ormat",
+  "type": "company",
+  "name": "אורמת טכנולוגיות",
+  "sector": "energy",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יצרנית חשמל גאותרמי, נסחרת בתל אביב ובניו יורק, בלי בעל שליטה.",
+  "sources": [
+   "bizportal-holders-ormat"
+  ]
+ },
+ {
+  "id": "teva",
+  "type": "company",
+  "name": "טבע",
+  "sector": "health",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יצרנית התרופות הגנריות מהגדולות בעולם, בלי בעל שליטה. בין המחזיקים הגדולים: הראל, מגדל, מנורה והפניקס.",
+  "sources": [
+   "bizportal-holders-teva"
+  ],
+  "key": true
+ },
+ {
+  "id": "kamada",
+  "type": "company",
+  "name": "קמהדע",
+  "sector": "health",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יצרנית תרופות ביולוגיות מפלזמה, בשליטת קרנות פימי (43.11%).",
+  "sources": [
+   "bizportal-holders-kamada"
+  ]
+ },
+ {
+  "id": "fimi",
+  "type": "institution",
+  "name": "קרנות פימי",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קרן השקעות פרטיות ישראלית. מחזיקה 43.11% מקמהדע (פימי 6 ופימי 7).",
+  "sources": [
+   "bizportal-holders-kamada"
+  ]
+ },
+ {
+  "id": "recanati",
+  "type": "person",
+  "name": "ליאון רקנאטי",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעל מניות בקמהדע (5.95%).",
+  "sources": [
+   "bizportal-holders-kamada"
+  ]
+ },
+ {
+  "id": "maccabi",
+  "type": "company",
+  "name": "מכבי שירותי בריאות",
+  "sector": "health",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קופת החולים השנייה בגודלה בישראל, תאגיד ללא כוונת רווח. בעלת אסותא מרכזים רפואיים.",
+  "sources": [
+   "maccabi-assuta"
+  ],
+  "key": true
+ },
+ {
+  "id": "assuta",
+  "type": "company",
+  "name": "אסותא מרכזים רפואיים",
+  "sector": "health",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "רשת בתי החולים הפרטית הגדולה בישראל, בבעלות קבוצת מכבי.",
+  "sources": [
+   "maccabi-assuta"
+  ]
+ },
+ {
+  "id": "max",
+  "type": "company",
+  "name": "מקס",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת כרטיסי האשראי (לשעבר לאומי קארד), בבעלות קבוצת כלל מאז מרץ 2023, לפי שווי של 2.47 מיליארד ₪.",
+  "sources": [
+   "calcalist-2023-03-27-max"
+  ]
+ },
+ {
+  "id": "cal",
+  "type": "company",
+  "name": "כאל",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת כרטיסי האשראי של דיסקונט (72%) והבינלאומי (28%). דיסקונט נדרשת למכור את השליטה בה.",
+  "sources": [
+   "ice-2025-05-18-cal"
+  ]
+ },
+ {
+  "id": "ayalon",
+  "type": "company",
+  "name": "איילון אחזקות",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קבוצת ביטוח, בשליטת ווישור (61.58%).",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ]
+ },
+ {
+  "id": "wishor",
+  "type": "company",
+  "name": "ווישור",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלת השליטה באיילון.",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ]
+ },
+ {
+  "id": "meitavinv",
+  "type": "company",
+  "name": "מיטב בית השקעות",
+  "sector": "fin",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בית השקעות ציבורי, האם של קופות הגמל והקרנות של מיטב. גרעין השליטה: ברמ פיננסים ומאיה החזקות.",
+  "sources": [
+   "bizportal-holders-meitav"
+  ]
+ },
+ {
+  "id": "bram",
+  "type": "company",
+  "name": "ברמ פיננסים",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "שותפה בגרעין השליטה במיטב (25.88%).",
+  "sources": [
+   "bizportal-holders-meitav"
+  ]
+ },
+ {
+  "id": "mayahold",
+  "type": "company",
+  "name": "מאיה החזקות",
+  "sector": "hold",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "שותפה בגרעין השליטה במיטב (25.43%).",
+  "sources": [
+   "bizportal-holders-meitav"
+  ]
+ },
+ {
+  "id": "bezeq",
+  "type": "company",
+  "name": "בזק",
+  "sector": "media",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת התקשורת הגדולה בישראל, בלי בעל שליטה; המחזיקים הגדולים הם גופים מוסדיים.",
+  "sources": [
+   "bizportal-holders-bezeq"
+  ],
+  "key": true
+ },
+ {
+  "id": "metro",
+  "type": "company",
+  "name": "מטרו מוטור",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית האופנועים הגדולה: ימאהה, קוואסאקי ו-SYM. 41.8% מהמסירות ב-2025. בבעלות מלאה של קרסו מאז 2025.",
+  "sources": [
+   "calcalist-2025-02-24-metro",
+   "ice-2025-02-25-metro",
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "meir",
+  "type": "company",
+  "name": "קבוצת מאיר",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית הונדה (רכב ואופנועים), וולוו ולינק אנד קו. 20.5% ממסירות הדו-גלגלי ב-2025.",
+  "sources": [
+   "calcalist-2022-10-30-meir",
+   "ice-2026-06-04-honda",
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "shaharkatz",
+  "type": "family",
+  "name": "משפחות שחר וכץ",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "בעלות השליטה בקבוצת מאיר (כ-86% יחד, 2022): משפחת יעקב שחר ומשפחת כץ.",
+  "sources": [
+   "calcalist-2022-10-30-meir"
+  ]
+ },
+ {
+  "id": "oferavnir",
+  "type": "company",
+  "name": "עופר אבניר",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית קימקו, פיאג'ו, וספה, אפריליה, סוזוקי ו-CFMOTO. 17% ממסירות הדו-גלגלי ב-2025.",
+  "sources": [
+   "range-moto-importers",
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "dlb",
+  "type": "company",
+  "name": "DLB מוטוספורט",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "יבואנית KTM, רויאל אנפילד ופיג'ו (דו-גלגלי). 3.6% מהמסירות ב-2025.",
+  "sources": [
+   "range-moto-importers",
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "haifaport",
+  "type": "company",
+  "name": "נמל חיפה",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "הופרט בינואר 2023 תמורת 4.1 מיליארד ₪ לאדאני ההודית (70%) ולגדות (30%).",
+  "sources": [
+   "walla-2023-02-08-haifaport",
+   "globes-2023-01-10-haifaport"
+  ],
+  "key": true
+ },
+ {
+  "id": "adani",
+  "type": "company",
+  "name": "Adani Ports",
+  "sector": "infra",
+  "geo": "הודו",
+  "abroad": true,
+  "summary": "קבוצת הנמלים ההודית של גאוטם אדאני; מחזיקה 70% מנמל חיפה.",
+  "sources": [
+   "walla-2023-02-08-haifaport"
+  ]
+ },
+ {
+  "id": "gadot",
+  "type": "company",
+  "name": "קבוצת גדות",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "קבוצת לוגיסטיקה וכימיקלים ישראלית; מחזיקה 30% מנמל חיפה.",
+  "sources": [
+   "walla-2023-02-08-haifaport"
+  ]
+ },
+ {
+  "id": "eilatport",
+  "type": "company",
+  "name": "נמל אילת",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "הופרט ב-2012 תמורת 120 מיליון ₪ לפאפו ימית של האחים נקש.",
+  "sources": [
+   "globes-2012-11-06-eilatport"
+  ]
+ },
+ {
+  "id": "gca",
+  "type": "ministry",
+  "name": "המדינה (רשות החברות הממשלתיות)",
+  "sector": null,
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מפקחת על החברות הממשלתיות. ב-2025 היו להן הכנסות של כ-113 מיליארד ₪, נכסים של כ-307 מיליארד ₪ וכ-58 אלף עובדים.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "iec",
+  "type": "company",
+  "name": "חברת החשמל",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ממשלתית; ספקית החשמל ומפעילת רשת ההולכה.",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "key": true
+ },
+ {
+  "id": "mekorot",
+  "type": "company",
+  "name": "מקורות",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברת המים הלאומית, חברה ממשלתית.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "rafael",
+  "type": "company",
+  "name": "רפאל",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "מערכות לחימה, חברה ממשלתית.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "iai",
+  "type": "company",
+  "name": "התעשייה האווירית",
+  "sector": "ind",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ממשלתית, יצרנית מטוסים, טילים ולוויינים.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "railways",
+  "type": "company",
+  "name": "רכבת ישראל",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ממשלתית.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "ashdodport",
+  "type": "company",
+  "name": "נמל אשדוד",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ממשלתית; הנמל הגדול שעדיין בבעלות המדינה.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "ingl",
+  "type": "company",
+  "name": "נתיבי הגז הטבעי",
+  "sector": "infra",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "חברה ממשלתית; מערכת ההולכה של הגז הטבעי.",
+  "sources": [
+   "gca-2025-report"
+  ]
+ },
+ {
+  "id": "b-yamaha",
+  "type": "brand",
+  "name": "ימאהה (אופנועים)",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "3,851 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-kawasaki",
+  "type": "brand",
+  "name": "קוואסאקי",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "672 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-sym",
+  "type": "brand",
+  "name": "SYM",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "המותג הנמכר ביותר ב-2025: 4,813 מסירות.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-honda-moto",
+  "type": "brand",
+  "name": "הונדה (אופנועים)",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "4,336 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-volvo",
+  "type": "brand",
+  "name": "וולוו",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "",
+  "sources": [
+   "ice-2026-06-04-honda"
+  ]
+ },
+ {
+  "id": "b-kymco",
+  "type": "brand",
+  "name": "קימקו",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "2,198 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-piaggio",
+  "type": "brand",
+  "name": "פיאג'ו ווספה",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "548 מסירות של פיאג'ו ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-cfmoto",
+  "type": "brand",
+  "name": "CFMOTO",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "515 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-ktm",
+  "type": "brand",
+  "name": "KTM",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "462 מסירות ב-2025.",
+  "sources": [
+   "moto-2026-01-25-sales"
+  ]
+ },
+ {
+  "id": "b-bmw-moto",
+  "type": "brand",
+  "name": "BMW Motorrad",
+  "sector": "auto",
+  "geo": "ישראל",
+  "abroad": false,
+  "summary": "559 מסירות ב-2025; בזיכיון דלק מוטורס מאז 2011.",
+  "sources": [
+   "moto-2026-01-25-sales",
+   "delekmotors-bmw-motorrad"
   ]
  }
 ]

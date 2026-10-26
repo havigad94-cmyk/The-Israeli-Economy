@@ -5,6 +5,7 @@ import dagre from "cytoscape-dagre";
 import { DB, POL_TYPES } from "./data";
 import { Model, VNode, buildModel } from "./model";
 import { state, set, State } from "./state";
+import { partnerships, pairId } from "./partners";
 
 cytoscape.use(fcose);
 cytoscape.use(dagre);
@@ -38,20 +39,20 @@ export function styles(): any[] {
   const sec = (k: string) => css("--s-" + k);
   const font = "Heebo, Arial Hebrew, Arial, sans-serif";
   const s: any[] = [
-    { selector: "node", style: { label: "data(label)", "font-family": font, "font-size": 11, "font-weight": 500, color: css("--fg"), "text-valign": "bottom", "text-margin-y": 4, "text-outline-color": css("--surface"), "text-outline-width": 2.5, "text-outline-opacity": 0.95, width: "data(size)", height: "data(size)", "background-color": css("--s-hold"), "min-zoomed-font-size": 7, "transition-property": "opacity", "transition-duration": reduced ? 0 : 250, "overlay-opacity": 0 } },
-    { selector: "node[type='family'], node[type='person']", style: { "background-color": css("--family"), "font-size": 13, "font-weight": 700 } },
-    { selector: "node[type='institution']", style: { shape: "round-rectangle", "background-color": css("--surface"), "border-width": 2.5, "border-color": css("--inst") } },
+    { selector: "node", style: { label: "data(label)", "font-family": font, "font-size": 11, "font-weight": 500, color: css("--fg"), "text-valign": "bottom", "text-margin-y": 4, "text-outline-color": css("--canvas"), "text-outline-width": 2.5, "text-outline-opacity": 0.95, width: "data(size)", height: "data(size)", "background-color": css("--s-hold"), "min-zoomed-font-size": 7, "transition-property": "opacity", "transition-duration": reduced ? 0 : 250, "overlay-opacity": 0 } },
+    { selector: "node[type='family'], node[type='person']", style: { "background-color": css("--family"), "font-size": 13, "font-weight": 700, "underlay-color": css("--gold"), "underlay-opacity": 0.16, "underlay-padding": 5, "underlay-shape": "ellipse" } },
+    { selector: "node[type='institution']", style: { shape: "round-rectangle", "background-color": css("--canvas"), "border-width": 2.5, "border-color": css("--inst") } },
     { selector: "node[type='brand']", style: { shape: "round-rectangle", "font-size": 10 } },
     { selector: "node[type='party'], node[type='politician']", style: { shape: "diamond", "background-color": css("--pol-soft"), "border-width": 2, "border-color": css("--pol"), color: css("--pol"), "font-weight": 600 } },
     { selector: "node[type='state']", style: { shape: "hexagon", "background-color": css("--pol-soft"), "border-width": 2, "border-color": css("--pol"), width: 20, height: 20 } },
-    { selector: "node[type='donor'], node[type='lobbyist']", style: { "background-color": css("--surface"), "border-width": 2, "border-color": css("--warn"), "font-size": 10 } },
-    { selector: "node[type='ministry'], node[type='committee'], node[type='regulator']", style: { shape: "rectangle", "background-color": css("--surface"), "border-width": 2, "border-color": css("--world"), width: 18, height: 18 } },
+    { selector: "node[type='donor'], node[type='lobbyist']", style: { "background-color": css("--canvas"), "border-width": 2, "border-color": css("--warn"), "font-size": 10 } },
+    { selector: "node[type='ministry'], node[type='committee'], node[type='regulator']", style: { shape: "rectangle", "background-color": css("--canvas"), "border-width": 2, "border-color": css("--world"), width: 18, height: 18 } },
     { selector: "node[abroad=1]", style: { "border-width": 2, "border-style": "dashed", "border-color": css("--world") } },
     { selector: "node[closed=1]", style: { "border-width": 3.5, "border-style": "double", "border-color": css("--accent"), "font-weight": 700 } },
     { selector: "node[opened=1]", style: { "border-width": 2, "border-style": "dotted", "border-color": css("--accent") } },
     { selector: "node.zh", style: { shape: "rectangle", width: 1, height: 1, "background-opacity": 0, label: "data(label)", "font-size": 14, "font-weight": 700, color: css("--fg"), "text-valign": "center", "text-outline-width": 0, events: "no", "min-zoomed-font-size": 4 } },
-    { selector: "node:selected", style: { "border-width": 4, "border-color": css("--accent"), "border-style": "solid" } },
-    { selector: "edge", style: { width: "mapData(share, 0, 100, 1, 5)", "line-color": css("--edge"), "curve-style": "bezier", "target-arrow-shape": "triangle", "target-arrow-color": css("--edge"), "arrow-scale": 0.7, opacity: 0.75, label: "data(elabel)", "font-family": font, "font-size": 10, "font-weight": 600, color: css("--accent"), "text-outline-color": css("--surface"), "text-outline-width": 2.5, "text-opacity": 0, "text-rotation": "autorotate", "min-zoomed-font-size": 6, "transition-property": "opacity, line-color", "transition-duration": reduced ? 0 : 250 } },
+    { selector: "node:selected", style: { "border-width": 4, "border-color": css("--gold"), "border-style": "solid", "underlay-color": css("--gold"), "underlay-opacity": 0.32, "underlay-padding": 10, "underlay-shape": "ellipse" } },
+    { selector: "edge", style: { width: "mapData(share, 0, 100, 1, 5)", "line-color": css("--edge"), "curve-style": "bezier", "target-arrow-shape": "triangle", "target-arrow-color": css("--edge"), "arrow-scale": 0.7, opacity: 0.75, label: "data(elabel)", "font-family": font, "font-size": 10, "font-weight": 600, color: css("--accent"), "text-outline-color": css("--canvas"), "text-outline-width": 2.5, "text-opacity": 0, "text-rotation": "autorotate", "min-zoomed-font-size": 6, "transition-property": "opacity, line-color", "transition-duration": reduced ? 0 : 250 } },
     { selector: "edge[!share]", style: { width: 1.4 } },
     { selector: "edge[amt >= 1000000][cat='pol']", style: { width: 2.2 } },
     { selector: "edge[amt >= 10000000][cat='pol']", style: { width: 3.2 } },
@@ -59,9 +60,11 @@ export function styles(): any[] {
     { selector: "edge[cat='pol']", style: { "line-style": "dashed", "line-dash-pattern": [7, 4], "line-color": css("--pol"), "target-arrow-color": css("--pol"), width: 1.4, "arrow-scale": 0.6, color: css("--pol") } },
     { selector: "edge[kind='franchise']", style: { "line-style": "dashed", "line-color": css("--franchise"), "target-arrow-color": css("--franchise"), color: css("--franchise") } },
     { selector: "edge[former=1]", style: { "line-style": "dotted", opacity: 0.35 } },
+    { selector: "edge[kind='partner']", style: { width: "data(w)", "target-arrow-shape": "none", "line-color": css("--accent"), opacity: 0.5, "curve-style": "haystack", color: css("--accent") } },
+    { selector: "edge[cat='parallel']", style: { "line-style": "dashed", "line-dash-pattern": [6, 5], "line-color": css("--warn"), color: css("--warn"), opacity: 0.45 } },
     { selector: ".lbl", style: { "text-opacity": 1 } },
     { selector: ".dim", style: { opacity: 0.07 } },
-    { selector: "edge.hl", style: { opacity: 1, "z-index": 10 } },
+    { selector: "edge.hl", style: { opacity: 1, "z-index": 10, "underlay-color": css("--accent"), "underlay-opacity": 0.12, "underlay-padding": 3 } },
     { selector: ".far", style: { display: "none" } },
     { selector: "node.tw", style: { "text-wrap": "wrap", "text-max-width": "110px", "text-valign": "bottom" } },
   ];
@@ -79,6 +82,9 @@ export function initGraph(container: HTMLElement, data: DB, handlers: { onSelect
   cy.on("mouseover", "edge", (e) => e.target.addClass("lbl"));
   cy.on("mouseout", "edge", (e) => { if (!e.target.hasClass("hl")) e.target.removeClass("lbl"); });
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => cy.style(styles()));
+  // the map card can change size (phone toolbar, fonts, sheet); keep Cytoscape's idea of its size current
+  let lastW = 0, lastH = 0;
+  new ResizeObserver(() => { const w = container.clientWidth, h = container.clientHeight; if (!w || !h || (w === lastW && h === lastH)) return; const first = !lastW, big = Math.abs(h - lastH) > 80 || Math.abs(w - lastW) > 80; lastW = w; lastH = h; cy.resize(); if (!first && big) home(false); }).observe(container);
 }
 
 const zoneOf = (v: VNode) => { const z = ZONES.find((z) => z.test(v)); return z ? z.key : "sec:" + (v.n.sector || "hold"); };
@@ -161,6 +167,7 @@ export function highlight(selected: string | null) {
     const n = cy.getElementById(selected);
     if (!n.length) return;
     if (state.view === "radial") { n.connectedEdges().addClass("hl lbl"); n.select(); return; }
+    if (state.view === "partners") { cy.elements().addClass("dim"); n.closedNeighborhood().removeClass("dim"); n.connectedEdges().addClass("hl lbl"); n.select(); return; }
     const f = focusSet(selected);
     cy.elements().not(".zh").addClass("dim");
     f.removeClass("dim");
@@ -187,7 +194,7 @@ export const fitHome = () => home(true);
 export function focusView(id: string) {
   const n = cy.getElementById(id);
   if (!n.length) return;
-  const f = (state.view === "cols" ? n.closedNeighborhood() : focusSet(id)).filter(":visible");
+  const f = (state.view === "cols" || state.view === "partners" ? n.closedNeighborhood() : focusSet(id)).filter(":visible");
   const bb = f.boundingBox();
   const w = cy.width(), h = cy.height();
   let z = Math.min(1.6, Math.min(w / (bb.w + 80), h / (bb.h + 80)));
@@ -209,7 +216,7 @@ function bfsLevels(center: string, m: Model) {
 }
 
 export function render(s: State, why: string) {
-  const key = JSON.stringify([s.view, s.geo, s.minShare, s.minAmount, [...s.typesOff], [...s.sectorsOff], [...s.expanded], s.view === "radial" || s.view === "tree" ? s.selected : "", s.view === "free" ? [s.repel, s.elen] : ""]);
+  const key = JSON.stringify([s.only ? [...s.only] : null, s.view, s.geo, s.minShare, s.minAmount, [...s.typesOff], [...s.sectorsOff], [...s.expanded], s.view === "radial" || s.view === "tree" ? s.selected : "", s.view === "free" ? [s.repel, s.elen] : ""]);
   const selNode = s.selected && !s.selected.startsWith("e:") ? s.selected : null;
   if (key === lastKey && why !== "force") { highlight(s.selected); return; }
   const prevPos: Record<string, { x: number; y: number }> = {};
@@ -220,6 +227,7 @@ export function render(s: State, why: string) {
   cy.batch(() => { cy.elements().remove(); cy.add(els); });
   cy.style(styles());
   const view = s.view;
+  if (view === "partners") return renderPartners(s);
   const done = () => { highlight(s.selected); if (selNode && cy.getElementById(selNode).length && why !== "filter") focusView(selNode); else home(false); };
 
   if (view === "cols") {
@@ -254,6 +262,23 @@ export function render(s: State, why: string) {
     eles.nodes().addClass("tw");
     eles.layout({ name: "dagre", rankDir: "TB", nodeSep: 70, rankSep: 90, edgeSep: 8, animate: !reduced, animationDuration: 450, fit: false } as any).one("layoutstop", () => { highlight(s.selected); home(true); }).run();
   }
+}
+
+// Partnership network: owners linked by shared companies (solid) or by parallel holdings in the same sectors (dashed).
+function renderPartners(s: State) {
+  const { pairs, hold } = partnerships(db, s);
+  const top = pairs.slice(0, 260);
+  const deg: Record<string, number> = {};
+  top.forEach((p) => { deg[p.a] = (deg[p.a] || 0) + 1; deg[p.b] = (deg[p.b] || 0) + 1; });
+  const els: ElementDefinition[] = Object.keys(deg).map((id) => {
+    const n = db.byId[id];
+    return { group: "nodes", data: { id, label: short(n.name) + `  ·  ${hold.get(id)?.size || 0}`, size: Math.min(14 + Math.sqrt(deg[id]) * 7, 54), type: n.type, sector: n.sector || "", abroad: n.abroad ? 1 : 0, closed: 0, opened: 0 } };
+  });
+  top.forEach((p) => els.push({ group: "edges", data: { id: pairId(p.a, p.b), source: p.a, target: p.b, cat: p.shared.length ? "partner" : "parallel", kind: "partner", w: Math.min(1 + p.shared.length * 1.4 + Object.keys(p.sectors).length * 0.5, 9), elabel: p.shared.length ? `${p.shared.length} משותפות` : `${Object.keys(p.sectors).length} ענפים` } }));
+  cy.batch(() => { cy.elements().remove(); cy.add(els); });
+  cy.style(styles());
+  const sel = s.selected && cy.getElementById(s.selected).length ? s.selected : null;
+  cy.layout({ name: "fcose", quality: "default", randomize: true, animate: false, nodeRepulsion: () => 9000, idealEdgeLength: (e: any) => 140 - Math.min(e.data("w") * 8, 70), edgeElasticity: () => 0.35, gravity: 0.3, numIter: 2500, nodeSeparation: 70, fit: false } as any).one("layoutstop", () => { highlight(s.selected); sel ? focusView(sel) : home(true); }).run();
 }
 
 function pickDefaultCenter() {

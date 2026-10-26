@@ -4,13 +4,14 @@
   "from": "eyal",
   "to": "mizrahi",
   "kind": "ownership",
-  "share": 21,
-  "label": "21%",
+  "share": 20.99,
+  "label": "20.99%",
   "note": "דרך לין אחזקות",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-06-08",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-mizrahi",
    "v1-18",
    "v1-22"
   ]
@@ -215,13 +216,14 @@
   "from": "israelcorp",
   "to": "icl",
   "kind": "ownership",
-  "share": 44,
-  "label": "~44%",
+  "share": 43.95,
+  "label": "43.95%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2024-08-15",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-icl",
    "v1-22"
   ]
  },
@@ -549,13 +551,14 @@
   "from": "tashluz",
   "to": "delek",
   "kind": "ownership",
-  "share": null,
-  "label": "שליטה",
-  "note": "דרך תשלוז השקעות ואחזקות",
+  "share": 50.44,
+  "label": "50.44%",
+  "note": "50.44% בהון ו-50.81% בהצבעה, לפי דיווח בעלי העניין",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-07-19",
   "confidence": "official",
   "sources": [
+   "bizportal-delek-holders",
    "delek-site",
    "ice-2026-03-19-tshuva"
   ]
@@ -929,13 +932,14 @@
   "from": "wertheim",
   "to": "mizrahi",
   "kind": "ownership",
-  "share": 20.5,
-  "label": "20.5%",
+  "share": 20.51,
+  "label": "20.51%",
   "note": "דרך F&W ו-M.W.Z, גרעין שליטה עם אייל עופר",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-10-08",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-mizrahi",
    "v1-18",
    "v1-22"
   ]
@@ -1134,9 +1138,10 @@
   "label": "45.5%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2025-08-24",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-migdal",
    "v1-02"
   ]
  },
@@ -1160,13 +1165,14 @@
   "from": "hamburger",
   "to": "harel",
   "kind": "ownership",
-  "share": 42.5,
-  "label": "42.5%",
+  "share": 42.25,
+  "label": "42.25%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-06-09",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-harel",
    "v1-04",
    "v1-22"
   ]
@@ -1192,13 +1198,14 @@
   "from": "gurovich",
   "to": "menora",
   "kind": "ownership",
-  "share": 62.4,
-  "label": "62.4%",
+  "share": 62.44,
+  "label": "62.44%",
   "note": "שתי חברות פרטיות, 31.2% כל אחת",
   "former": false,
-  "asOf": null,
+  "asOf": "2006-05-10",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-menora",
    "v1-22"
   ]
  },
@@ -1237,13 +1244,14 @@
   "from": "bino",
   "to": "fibi",
   "kind": "ownership",
-  "share": 48.4,
-  "label": "48.4%",
+  "share": 48.34,
+  "label": "48.34%",
   "note": "דרך פיבי",
   "former": false,
-  "asOf": null,
-  "confidence": "press",
+  "asOf": "2013-04-03",
+  "confidence": "official",
   "sources": [
+   "bizportal-holders-fibi",
    "v1-18"
   ]
  },
@@ -1710,13 +1718,14 @@
   "from": "alrov",
   "to": "clal",
   "kind": "ownership",
-  "share": 14.5,
-  "label": "14.5%",
+  "share": 14.51,
+  "label": "14.51%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2024-06-06",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-clal",
    "v1-02",
    "v1-19",
    "v1-21"
@@ -2349,13 +2358,14 @@
   "from": "migdal",
   "to": "menora",
   "kind": "institutional",
-  "share": 5,
-  "label": "5.0%",
+  "share": 5.04,
+  "label": "5.04%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2024-05-02",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-menora",
    "v1-22"
   ]
  },
@@ -2364,13 +2374,14 @@
   "from": "harel",
   "to": "menora",
   "kind": "institutional",
-  "share": 5.3,
-  "label": "5.3%",
+  "share": 5.29,
+  "label": "5.29%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2024-12-31",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-menora",
    "v1-22"
   ]
  },
@@ -2379,13 +2390,14 @@
   "from": "phoenix",
   "to": "menora",
   "kind": "institutional",
-  "share": 4.8,
-  "label": "4.8%",
+  "share": 4.84,
+  "label": "4.84%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2021-06-15",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-menora",
    "v1-22"
   ]
  },
@@ -2442,13 +2454,14 @@
   "from": "phoenix",
   "to": "harel",
   "kind": "institutional",
-  "share": 5.5,
-  "label": "5.5%",
+  "share": 5.54,
+  "label": "5.54%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-harel",
    "v1-04",
    "v1-22"
   ]
@@ -2458,13 +2471,14 @@
   "from": "harel",
   "to": "mizrahi",
   "kind": "institutional",
-  "share": 5.2,
-  "label": "5.2%",
+  "share": 5.23,
+  "label": "5.23%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-mizrahi",
    "v1-18",
    "v1-22"
   ]
@@ -2474,13 +2488,14 @@
   "from": "meitav",
   "to": "mizrahi",
   "kind": "institutional",
-  "share": 5,
-  "label": "5.0%",
+  "share": 4.96,
+  "label": "4.96%",
   "note": "נכון ל-2024",
   "former": false,
-  "asOf": null,
+  "asOf": "2024-03-25",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-mizrahi",
    "v1-18",
    "v1-22"
   ]
@@ -2490,13 +2505,14 @@
   "from": "migdal",
   "to": "icl",
   "kind": "institutional",
-  "share": 6.9,
-  "label": "6.9%",
+  "share": 6.87,
+  "label": "6.87%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2025-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-icl",
    "v1-22"
   ]
  },
@@ -2505,13 +2521,14 @@
   "from": "harel",
   "to": "icl",
   "kind": "institutional",
-  "share": 6.6,
-  "label": "6.6%",
+  "share": 6.66,
+  "label": "6.66%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-06-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-icl",
    "v1-22"
   ]
  },
@@ -2520,13 +2537,14 @@
   "from": "phoenix",
   "to": "migdal",
   "kind": "institutional",
-  "share": 6.8,
-  "label": "6.8%",
+  "share": 6.94,
+  "label": "6.94%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-migdal",
    "v1-02"
   ]
  },
@@ -2535,13 +2553,14 @@
   "from": "harel",
   "to": "migdal",
   "kind": "institutional",
-  "share": 5.3,
-  "label": "5.3%",
+  "share": 6.94,
+  "label": "6.94%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-migdal",
    "v1-02"
   ]
  },
@@ -2610,13 +2629,14 @@
   "from": "phoenix",
   "to": "hapoalim",
   "kind": "institutional",
-  "share": 7.1,
-  "label": "7.1%",
+  "share": 7.41,
+  "label": "7.41%",
   "note": "31.3.2026",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-hapoalim",
    "v1-11",
    "v1-23"
   ]
@@ -2626,13 +2646,14 @@
   "from": "harel",
   "to": "hapoalim",
   "kind": "institutional",
-  "share": 6.9,
-  "label": "6.9%",
+  "share": 7.46,
+  "label": "7.46%",
   "note": "31.3.2026",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-hapoalim",
    "v1-11",
    "v1-23"
   ]
@@ -2642,13 +2663,14 @@
   "from": "phoenix",
   "to": "leumi",
   "kind": "institutional",
-  "share": 7.2,
-  "label": "7.2%",
+  "share": 7.18,
+  "label": "7.18%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-leumi",
    "v1-18",
    "v1-22"
   ]
@@ -2658,13 +2680,14 @@
   "from": "harel",
   "to": "leumi",
   "kind": "institutional",
-  "share": 6.7,
-  "label": "6.7%",
+  "share": 6.74,
+  "label": "6.74%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-leumi",
    "v1-18",
    "v1-22"
   ]
@@ -2674,13 +2697,14 @@
   "from": "menora",
   "to": "leumi",
   "kind": "institutional",
-  "share": 6,
-  "label": "6.0%",
+  "share": 6.03,
+  "label": "6.03%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-leumi",
    "v1-18",
    "v1-22"
   ]
@@ -2690,13 +2714,14 @@
   "from": "meitav",
   "to": "leumi",
   "kind": "institutional",
-  "share": 5.3,
-  "label": "5.3%",
+  "share": 5.29,
+  "label": "5.29%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-leumi",
    "v1-18",
    "v1-22"
   ]
@@ -2706,13 +2731,14 @@
   "from": "phoenix",
   "to": "discount",
   "kind": "institutional",
-  "share": 7,
-  "label": "7.0%",
+  "share": 7.24,
+  "label": "7.24%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2721,13 +2747,14 @@
   "from": "harel",
   "to": "discount",
   "kind": "institutional",
-  "share": 6.7,
-  "label": "6.7%",
+  "share": 6.75,
+  "label": "6.75%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2736,13 +2763,14 @@
   "from": "meitav",
   "to": "discount",
   "kind": "institutional",
-  "share": 6.3,
-  "label": "6.3%",
+  "share": 6.06,
+  "label": "6.06%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2751,13 +2779,14 @@
   "from": "clal",
   "to": "discount",
   "kind": "institutional",
-  "share": 6,
-  "label": "6.0%",
+  "share": 6.13,
+  "label": "6.13%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2766,13 +2795,14 @@
   "from": "menora",
   "to": "discount",
   "kind": "institutional",
-  "share": 5.9,
-  "label": "5.9%",
+  "share": 7.13,
+  "label": "7.13%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2781,13 +2811,14 @@
   "from": "mor",
   "to": "discount",
   "kind": "institutional",
-  "share": 5.7,
-  "label": "5.7%",
+  "share": 5.58,
+  "label": "5.58%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2026-09-30",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -2800,9 +2831,10 @@
   "label": "4.8%",
   "note": "",
   "former": false,
-  "asOf": null,
+  "asOf": "2025-08-11",
   "confidence": "official",
   "sources": [
+   "bizportal-holders-discount",
    "v1-22"
   ]
  },
@@ -4245,6 +4277,2773 @@
   "confidence": "press",
   "sources": [
    "davar-2022-08-03-importers"
+  ]
+ },
+ {
+  "id": "w2-001",
+  "from": "rozenbergfam",
+  "to": "kanfei",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "press",
+  "sources": [
+   "wiki-eli-rozenberg",
+   "calcalist-rozenberg-permit"
+  ]
+ },
+ {
+  "id": "w2-002",
+  "from": "kanfei",
+  "to": "elal",
+  "kind": "ownership",
+  "share": 48.1,
+  "label": "48.1%",
+  "note": "בדיווח בעלי העניין רשום אלי זכריה רוזנברג",
+  "former": false,
+  "asOf": "2025-03-16",
+  "confidence": "official",
+  "sources": [
+   "bizportal-elal-holders",
+   "wiki-eli-rozenberg"
+  ]
+ },
+ {
+  "id": "w2-003",
+  "from": "ramilevy",
+  "to": "shaiodem",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה משותפת",
+  "note": "",
+  "former": false,
+  "asOf": "2023-11-30",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "w2-004",
+  "from": "shalomhaim",
+  "to": "shaiodem",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה משותפת",
+  "note": "",
+  "former": false,
+  "asOf": "2023-11-30",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "w2-005",
+  "from": "shaiodem",
+  "to": "israir",
+  "kind": "ownership",
+  "share": 36.51,
+  "label": "36.51%",
+  "note": "",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "globes-israir-holders",
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "w2-006",
+  "from": "ramilevy",
+  "to": "israir",
+  "kind": "ownership",
+  "share": 20.65,
+  "label": "20.65%",
+  "note": "בנוסף לחלקו דרך שי אודם",
+  "former": false,
+  "asOf": null,
+  "confidence": "official",
+  "sources": [
+   "globes-israir-holders"
+  ]
+ },
+ {
+  "id": "w2-007",
+  "from": "nakash",
+  "to": "arkia",
+  "kind": "ownership",
+  "share": 70,
+  "label": "70%",
+  "note": "",
+  "former": false,
+  "asOf": "2023-11-30",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "w2-008",
+  "from": "arkiaworkers",
+  "to": "arkia",
+  "kind": "ownership",
+  "share": 30,
+  "label": "יתרת המניות",
+  "note": "לפי כלכליסט: עובדי החברה מחזיקים ביתרה דרך תו\"ת; השיעור המדויק לא צוין",
+  "former": false,
+  "asOf": "2023-11-30",
+  "confidence": "estimate",
+  "sources": [
+   "calcalist-2023-11-30-israir-arkia"
+  ]
+ },
+ {
+  "id": "w2-009",
+  "from": "knessetfund",
+  "to": "likud",
+  "kind": "public-funding",
+  "share": null,
+  "label": "מקדמה 46.8M ₪",
+  "note": "לפי 32 מנדטים בכנסת היוצאת",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 46800000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-010",
+  "from": "knessetfund",
+  "to": "rz",
+  "kind": "public-funding",
+  "share": null,
+  "label": "מקדמה 10.2M ₪",
+  "note": "המקדמה המלאה לפי החוק",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 10200000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-011",
+  "from": "foreman",
+  "to": "amcha",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 2.95M ₪",
+  "note": "",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 2950000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-012",
+  "from": "rachamim",
+  "to": "amcha",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות 125K ₪",
+  "note": "",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 125000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-013",
+  "from": "greenwald",
+  "to": "amcha",
+  "kind": "donation",
+  "share": null,
+  "label": "הלוואה 14K ₪",
+  "note": "הלוואה",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 14000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-014",
+  "from": "discount",
+  "to": "amcha",
+  "kind": "political",
+  "share": null,
+  "label": "הלוואה 200K ₪",
+  "note": "הלוואה בנקאית למפלגה",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding",
+   "ice-2026-08-29-funding"
+  ],
+  "amount": 200000,
+  "currency": "ILS"
+ },
+ {
+  "id": "w2-015",
+  "from": "halef",
+  "to": "miluimnikim",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות",
+  "note": "סכום הערבות שלו לא פורסם; עד 23.9.2026 גייסה המפלגה 11 ערבויות בסך 2 מיליון ₪",
+  "former": false,
+  "asOf": "2026-08-29",
+  "confidence": "press",
+  "sources": [
+   "calcalist-2026-08-29-funding"
+  ]
+ },
+ {
+  "id": "w3-001",
+  "from": "kalkalit",
+  "to": "miluimnikim",
+  "kind": "affiliation",
+  "share": null,
+  "label": "רשימה משותפת",
+  "former": false,
+  "confidence": "press",
+  "note": "\"המילואימניקים והכלכלית\": הנדל, זליכה, עינת וילף, חביב ווליבוביץ, יואב שלמה אדומי",
+  "asOf": "2026-09-08",
+  "sources": [
+   "kan-2026-09-08-lists",
+   "idi-2026-miluim-kalkalit"
+  ]
+ },
+ {
+  "id": "w3-002",
+  "from": "zelekha",
+  "to": "kalkalit",
+  "kind": "office",
+  "share": null,
+  "label": "יו\"ר המפלגה",
+  "former": false,
+  "confidence": "press",
+  "asOf": "2026-09-08",
+  "sources": [
+   "kan-2026-09-08-lists",
+   "davar-2026-10-21-zelekha"
+  ]
+ },
+ {
+  "id": "w3-003",
+  "from": "hendel",
+  "to": "miluimnikim",
+  "kind": "office",
+  "share": null,
+  "label": "יו\"ר המפלגה",
+  "former": false,
+  "confidence": "press",
+  "asOf": "2026-09-08",
+  "sources": [
+   "kan-2026-09-08-lists"
+  ]
+ },
+ {
+  "id": "w3-004",
+  "from": "zelekha",
+  "to": "kalkalit",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות עצמית (2021)",
+  "former": true,
+  "confidence": "press",
+  "amount": 1600000,
+  "currency": "ILS",
+  "asOf": "2021-03-16",
+  "note": "בבחירות 2021, בשתי פעימות: 1.1 מיליון ו-500 אלף ₪",
+  "sources": [
+   "globes-2021-03-16-zelekha"
+  ]
+ },
+ {
+  "id": "w3-005",
+  "from": "modirosen",
+  "to": "kalkalit",
+  "kind": "guarantee",
+  "share": null,
+  "label": "ערבות (2021)",
+  "former": true,
+  "confidence": "press",
+  "amount": 1100000,
+  "currency": "ILS",
+  "asOf": "2021-03-16",
+  "sources": [
+   "globes-2021-03-16-zelekha"
+  ]
+ },
+ {
+  "id": "w4-fox-tx",
+  "from": "fox",
+  "to": "terminalx",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "ice-2026-08-24-fox"
+  ],
+  "asOf": "2026-08-24"
+ },
+ {
+  "id": "w4-big-afi",
+  "from": "big",
+  "to": "africaprop",
+  "kind": "ownership",
+  "share": 79.9,
+  "label": "79.9%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-africaprop"
+  ],
+  "asOf": "2026-09-30"
+ },
+ {
+  "id": "w4-carasso-metro",
+  "from": "carasso",
+  "to": "metro",
+  "kind": "ownership",
+  "share": 100,
+  "label": "בעלות מלאה",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "calcalist-2025-02-24-metro",
+   "ice-2025-02-25-metro"
+  ],
+  "asOf": "2025-02-25",
+  "note": "קרסו החזיקה שליש מאז 2011 ורכשה את 67% הנותרים מגדי אבירם וחן למדן תמורת כ-210 מיליון ₪"
+ },
+ {
+  "id": "w4-metro-yam",
+  "from": "metro",
+  "to": "b-yamaha",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers",
+   "calcalist-2025-02-24-metro"
+  ]
+ },
+ {
+  "id": "w4-metro-kaw",
+  "from": "metro",
+  "to": "b-kawasaki",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-metro-sym",
+  "from": "metro",
+  "to": "b-sym",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-sk-meir",
+  "from": "shaharkatz",
+  "to": "meir",
+  "kind": "ownership",
+  "share": 86,
+  "label": "כ-86%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "calcalist-2022-10-30-meir"
+  ],
+  "asOf": "2022-10-30",
+  "note": "שתי המשפחות מחזיקות בחלקים שווים"
+ },
+ {
+  "id": "w4-phx-meir",
+  "from": "phoenix",
+  "to": "meir",
+  "kind": "ownership",
+  "share": 14,
+  "label": "14%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "calcalist-2022-10-30-meir"
+  ],
+  "asOf": "2022-10-30",
+  "note": "נרכשו תמורת 574 מיליון ₪, עם אופציה ל-6% נוספים"
+ },
+ {
+  "id": "w4-meir-honda",
+  "from": "meir",
+  "to": "b-honda-moto",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "ice-2026-06-04-honda",
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-meir-volvo",
+  "from": "meir",
+  "to": "b-volvo",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "ice-2026-06-04-honda"
+  ]
+ },
+ {
+  "id": "w4-oa-kymco",
+  "from": "oferavnir",
+  "to": "b-kymco",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-oa-piaggio",
+  "from": "oferavnir",
+  "to": "b-piaggio",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-oa-cfmoto",
+  "from": "oferavnir",
+  "to": "b-cfmoto",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-dlb-ktm",
+  "from": "dlb",
+  "to": "b-ktm",
+  "kind": "franchise",
+  "share": null,
+  "label": "יבוא",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "range-moto-importers"
+  ]
+ },
+ {
+  "id": "w4-delek-bmwm",
+  "from": "delekauto",
+  "to": "b-bmw-moto",
+  "kind": "franchise",
+  "share": null,
+  "label": "זיכיון מאז 2011",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "delekmotors-bmw-motorrad"
+  ]
+ },
+ {
+  "id": "w4-adani-haifa",
+  "from": "adani",
+  "to": "haifaport",
+  "kind": "ownership",
+  "share": 70,
+  "label": "70%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "walla-2023-02-08-haifaport",
+   "globes-2023-01-10-haifaport"
+  ],
+  "asOf": "2023-01-10"
+ },
+ {
+  "id": "w4-gadot-haifa",
+  "from": "gadot",
+  "to": "haifaport",
+  "kind": "ownership",
+  "share": 30,
+  "label": "30%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "walla-2023-02-08-haifaport",
+   "globes-2023-01-10-haifaport"
+  ],
+  "asOf": "2023-01-10"
+ },
+ {
+  "id": "w4-nakash-eilat",
+  "from": "nakash",
+  "to": "eilatport",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות (דרך פאפו ימית)",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "globes-2012-11-06-eilatport"
+  ],
+  "asOf": "2012-11-06",
+  "note": "120 מיליון ₪: 105 מיליון על החברה ו-15 מיליון אופציה על ההכנסות"
+ },
+ {
+  "id": "w4-maccabi-assuta",
+  "from": "maccabi",
+  "to": "assuta",
+  "kind": "ownership",
+  "share": null,
+  "label": "בעלות",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "maccabi-assuta"
+  ]
+ },
+ {
+  "id": "w4-clal-max",
+  "from": "clal",
+  "to": "max",
+  "kind": "ownership",
+  "share": null,
+  "label": "שליטה",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "calcalist-2023-03-27-max"
+  ],
+  "asOf": "2023-03-27",
+  "note": "75% נרכשו מוורבורג פינקוס; משקיעים שותפים של כלל מחזיקים 10%"
+ },
+ {
+  "id": "w4-disc-cal",
+  "from": "discount",
+  "to": "cal",
+  "kind": "ownership",
+  "share": 72,
+  "label": "72%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "ice-2025-05-18-cal"
+  ],
+  "asOf": "2025-05-18"
+ },
+ {
+  "id": "w4-fibi-cal",
+  "from": "fibi",
+  "to": "cal",
+  "kind": "ownership",
+  "share": 28,
+  "label": "28%",
+  "former": false,
+  "confidence": "press",
+  "sources": [
+   "ice-2025-05-18-cal"
+  ],
+  "asOf": "2025-05-18"
+ },
+ {
+  "id": "w4-gca-iec",
+  "from": "gca",
+  "to": "iec",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "חברת החשמל: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-mekorot",
+  "from": "gca",
+  "to": "mekorot",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "מקורות: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-rafael",
+  "from": "gca",
+  "to": "rafael",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "רפאל: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-iai",
+  "from": "gca",
+  "to": "iai",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "התעשייה האווירית: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-railways",
+  "from": "gca",
+  "to": "railways",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "רכבת ישראל: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-ashdodport",
+  "from": "gca",
+  "to": "ashdodport",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "נמל אשדוד: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-gca-ingl",
+  "from": "gca",
+  "to": "ingl",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברה ממשלתית",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "gca-2025-report"
+  ],
+  "note": "נתיבי הגז הטבעי: המדינה מחזיקה ביותר ממחצית כוח ההצבעה או בזכות למנות את רוב הדירקטורים"
+ },
+ {
+  "id": "w4-h-avfox-fox",
+  "from": "avfox",
+  "to": "fox",
+  "kind": "ownership",
+  "share": 22.14,
+  "label": "22.14%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-10-20",
+  "note": ""
+ },
+ {
+  "id": "w4-h-migdal-fox",
+  "from": "migdal",
+  "to": "fox",
+  "kind": "institutional",
+  "share": 9.02,
+  "label": "9.02%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-fox",
+  "from": "harel",
+  "to": "fox",
+  "kind": "institutional",
+  "share": 9.24,
+  "label": "9.24%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-wiesel-fox",
+  "from": "wiesel",
+  "to": "fox",
+  "kind": "ownership",
+  "share": 19.44,
+  "label": "19.44%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-09-10",
+  "note": ""
+ },
+ {
+  "id": "w4-h-altshuler-fox",
+  "from": "altshuler",
+  "to": "fox",
+  "kind": "institutional",
+  "share": 6.44,
+  "label": "6.44%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-fox",
+  "from": "clal",
+  "to": "fox",
+  "kind": "institutional",
+  "share": 5.16,
+  "label": "5.16%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fox"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-petrochem-bazan",
+  "from": "petrochem",
+  "to": "bazan",
+  "kind": "ownership",
+  "share": 24.76,
+  "label": "24.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bazan"
+  ],
+  "asOf": "2022-09-19",
+  "note": ""
+ },
+ {
+  "id": "w4-h-jblank-bazan",
+  "from": "jblank",
+  "to": "bazan",
+  "kind": "ownership",
+  "share": 5.27,
+  "label": "5.27%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bazan"
+  ],
+  "asOf": "2026-10-12",
+  "note": ""
+ },
+ {
+  "id": "w4-h-frenkel-alonyhetz",
+  "from": "frenkel",
+  "to": "alonyhetz",
+  "kind": "ownership",
+  "share": 18.15,
+  "label": "18.15%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-30",
+  "note": ""
+ },
+ {
+  "id": "w4-h-nathanhetz-alonyhetz",
+  "from": "nathanhetz",
+  "to": "alonyhetz",
+  "kind": "ownership",
+  "share": 12.24,
+  "label": "12.24%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-28",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-alonyhetz",
+  "from": "phoenix",
+  "to": "alonyhetz",
+  "kind": "institutional",
+  "share": 9.83,
+  "label": "9.83%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-alonyhetz",
+  "from": "menora",
+  "to": "alonyhetz",
+  "kind": "institutional",
+  "share": 7.57,
+  "label": "7.57%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-alonyhetz",
+  "from": "migdal",
+  "to": "alonyhetz",
+  "kind": "institutional",
+  "share": 7.76,
+  "label": "7.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-alonyhetz",
+  "from": "harel",
+  "to": "alonyhetz",
+  "kind": "institutional",
+  "share": 6.78,
+  "label": "6.78%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-alonyhetz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-alonyhetz-amot",
+  "from": "alonyhetz",
+  "to": "amot",
+  "kind": "ownership",
+  "share": 51.17,
+  "label": "51.17%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-amot"
+  ],
+  "asOf": "2026-06-26",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-amot",
+  "from": "phoenix",
+  "to": "amot",
+  "kind": "institutional",
+  "share": 9.2,
+  "label": "9.2%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-amot"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-amot",
+  "from": "migdal",
+  "to": "amot",
+  "kind": "institutional",
+  "share": 7.18,
+  "label": "7.18%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-amot"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-amot",
+  "from": "clal",
+  "to": "amot",
+  "kind": "institutional",
+  "share": 5,
+  "label": "5%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-amot"
+  ],
+  "asOf": "2025-07-03",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-naftalifam-big",
+  "from": "naftalifam",
+  "to": "big",
+  "kind": "ownership",
+  "share": 35.76,
+  "label": "35.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "asOf": "2020-07-09",
+  "note": ""
+ },
+ {
+  "id": "w4-h-harel-big",
+  "from": "harel",
+  "to": "big",
+  "kind": "institutional",
+  "share": 10.02,
+  "label": "10.02%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-big",
+  "from": "migdal",
+  "to": "big",
+  "kind": "institutional",
+  "share": 8.73,
+  "label": "8.73%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-megaor-big",
+  "from": "megaor",
+  "to": "big",
+  "kind": "ownership",
+  "share": 4.96,
+  "label": "4.96%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "asOf": "2023-11-08",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-big",
+  "from": "phoenix",
+  "to": "big",
+  "kind": "institutional",
+  "share": 5.08,
+  "label": "5.08%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-big"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-propbuild-gavyam",
+  "from": "propbuild",
+  "to": "gavyam",
+  "kind": "ownership",
+  "share": 64.04,
+  "label": "64.04%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-gavyam"
+  ],
+  "asOf": "2025-11-06",
+  "note": ""
+ },
+ {
+  "id": "w4-h-clal-gavyam",
+  "from": "clal",
+  "to": "gavyam",
+  "kind": "institutional",
+  "share": 6.72,
+  "label": "6.72%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-gavyam"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-gavyam",
+  "from": "phoenix",
+  "to": "gavyam",
+  "kind": "institutional",
+  "share": 5.77,
+  "label": "5.77%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-gavyam"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-reit1",
+  "from": "phoenix",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 13.01,
+  "label": "13.01%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-reit1",
+  "from": "migdal",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 10.61,
+  "label": "10.61%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-reit1",
+  "from": "harel",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 9.99,
+  "label": "9.99%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-altshuler-reit1",
+  "from": "altshuler",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 6.76,
+  "label": "6.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-reit1",
+  "from": "meitav",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 8.09,
+  "label": "8.09%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-mor-reit1",
+  "from": "mor",
+  "to": "reit1",
+  "kind": "institutional",
+  "share": 5.16,
+  "label": "5.16%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-reit1"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-forer-mivne",
+  "from": "forer",
+  "to": "mivne",
+  "kind": "ownership",
+  "share": 23.77,
+  "label": "23.77%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-07-01",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-mivne",
+  "from": "phoenix",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 13.85,
+  "label": "13.85%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-mivne",
+  "from": "menora",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 11.13,
+  "label": "11.13%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-mivne",
+  "from": "migdal",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 11.44,
+  "label": "11.44%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-mivne",
+  "from": "meitav",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 8.76,
+  "label": "8.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-mivne",
+  "from": "clal",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 4.94,
+  "label": "4.94%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2024-02-13",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-mivne",
+  "from": "harel",
+  "to": "mivne",
+  "kind": "institutional",
+  "share": 6.68,
+  "label": "6.68%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-mivne"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-equital-airportcity",
+  "from": "equital",
+  "to": "airportcity",
+  "kind": "ownership",
+  "share": 47.69,
+  "label": "47.69%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-airportcity"
+  ],
+  "asOf": "2019-02-28",
+  "note": ""
+ },
+ {
+  "id": "w4-h-clal-airportcity",
+  "from": "clal",
+  "to": "airportcity",
+  "kind": "institutional",
+  "share": 7.25,
+  "label": "7.25%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-airportcity"
+  ],
+  "asOf": "2026-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-osisrael-shikunbinui",
+  "from": "osisrael",
+  "to": "shikunbinui",
+  "kind": "ownership",
+  "share": 30.78,
+  "label": "30.78%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-03",
+  "note": ""
+ },
+ {
+  "id": "w4-h-harel-shikunbinui",
+  "from": "harel",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 10.82,
+  "label": "10.82%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-shikunbinui",
+  "from": "phoenix",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 10.39,
+  "label": "10.39%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-shikunbinui",
+  "from": "migdal",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 9.33,
+  "label": "9.33%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-shikunbinui",
+  "from": "clal",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 6.36,
+  "label": "6.36%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-shikunbinui",
+  "from": "menora",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 5.11,
+  "label": "5.11%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-shikunbinui",
+  "from": "meitav",
+  "to": "shikunbinui",
+  "kind": "institutional",
+  "share": 5.13,
+  "label": "5.13%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-shikunbinui"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-barakrosen-israelcanada",
+  "from": "barakrosen",
+  "to": "israelcanada",
+  "kind": "ownership",
+  "share": 16.32,
+  "label": "16.32%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2025-01-15",
+  "note": ""
+ },
+ {
+  "id": "w4-h-touchmair-israelcanada",
+  "from": "touchmair",
+  "to": "israelcanada",
+  "kind": "ownership",
+  "share": 15.9,
+  "label": "15.9%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2025-01-15",
+  "note": ""
+ },
+ {
+  "id": "w4-h-harel-israelcanada",
+  "from": "harel",
+  "to": "israelcanada",
+  "kind": "institutional",
+  "share": 11.92,
+  "label": "11.92%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-israelcanada",
+  "from": "menora",
+  "to": "israelcanada",
+  "kind": "institutional",
+  "share": 6.94,
+  "label": "6.94%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-israelcanada",
+  "from": "migdal",
+  "to": "israelcanada",
+  "kind": "institutional",
+  "share": 7.78,
+  "label": "7.78%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-israelcanada",
+  "from": "meitav",
+  "to": "israelcanada",
+  "kind": "institutional",
+  "share": 5.25,
+  "label": "5.25%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-israelcanada"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-africaprop",
+  "from": "phoenix",
+  "to": "africaprop",
+  "kind": "institutional",
+  "share": 6.22,
+  "label": "6.22%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-africaprop"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-sella",
+  "from": "meitav",
+  "to": "sella",
+  "kind": "institutional",
+  "share": 15.86,
+  "label": "15.86%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-sella"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-yelin-sella",
+  "from": "yelin",
+  "to": "sella",
+  "kind": "institutional",
+  "share": 5.96,
+  "label": "5.96%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-sella"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-prashfam-prashkovsky",
+  "from": "prashfam",
+  "to": "prashkovsky",
+  "kind": "ownership",
+  "share": 64.82,
+  "label": "64.82%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-prashkovsky"
+  ],
+  "asOf": "2025-09-29",
+  "note": ""
+ },
+ {
+  "id": "w4-h-menora-prashkovsky",
+  "from": "menora",
+  "to": "prashkovsky",
+  "kind": "institutional",
+  "share": 6.3,
+  "label": "6.3%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-prashkovsky"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-prashkovsky",
+  "from": "phoenix",
+  "to": "prashkovsky",
+  "kind": "institutional",
+  "share": 1.8,
+  "label": "1.8%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-prashkovsky"
+  ],
+  "asOf": "2023-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-isrhold-isras",
+  "from": "isrhold",
+  "to": "isras",
+  "kind": "ownership",
+  "share": 68.3,
+  "label": "68.3%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-isras"
+  ],
+  "asOf": "2026-09-28",
+  "note": ""
+ },
+ {
+  "id": "w4-h-eisenberg-isras",
+  "from": "eisenberg",
+  "to": "isras",
+  "kind": "ownership",
+  "share": 10.54,
+  "label": "10.54%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-isras"
+  ],
+  "asOf": "2007-03-29",
+  "note": ""
+ },
+ {
+  "id": "w4-h-menora-isras",
+  "from": "menora",
+  "to": "isras",
+  "kind": "institutional",
+  "share": 5.39,
+  "label": "5.39%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-isras"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-zoharlevy-summit",
+  "from": "zoharlevy",
+  "to": "summit",
+  "kind": "ownership",
+  "share": 47.99,
+  "label": "47.99%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-summit"
+  ],
+  "asOf": "2024-07-31",
+  "note": ""
+ },
+ {
+  "id": "w4-h-menora-summit",
+  "from": "menora",
+  "to": "summit",
+  "kind": "institutional",
+  "share": 9.24,
+  "label": "9.24%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-summit"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-summit",
+  "from": "phoenix",
+  "to": "summit",
+  "kind": "institutional",
+  "share": 8.34,
+  "label": "8.34%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-summit"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-paz",
+  "from": "migdal",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 12.13,
+  "label": "12.13%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-paz",
+  "from": "clal",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 9.25,
+  "label": "9.25%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-paz",
+  "from": "harel",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 12.84,
+  "label": "12.84%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-mor-paz",
+  "from": "mor",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 9.09,
+  "label": "9.09%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-paz",
+  "from": "menora",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 7.76,
+  "label": "7.76%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-paz",
+  "from": "meitav",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 7.89,
+  "label": "7.89%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-paz",
+  "from": "phoenix",
+  "to": "paz",
+  "kind": "institutional",
+  "share": 4.05,
+  "label": "4.05%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-paz"
+  ],
+  "asOf": "2025-06-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-norstar-gcity",
+  "from": "norstar",
+  "to": "gcity",
+  "kind": "ownership",
+  "share": 50.01,
+  "label": "50.01%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-gcity"
+  ],
+  "asOf": "2026-01-05",
+  "note": ""
+ },
+ {
+  "id": "w4-h-hfriedman-azorim",
+  "from": "hfriedman",
+  "to": "azorim",
+  "kind": "ownership",
+  "share": 64.11,
+  "label": "64.11%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-azorim"
+  ],
+  "asOf": "2026-07-09",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-azorim",
+  "from": "phoenix",
+  "to": "azorim",
+  "kind": "institutional",
+  "share": 10.81,
+  "label": "10.81%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-azorim"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-azorim",
+  "from": "migdal",
+  "to": "azorim",
+  "kind": "institutional",
+  "share": 11.84,
+  "label": "11.84%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-azorim"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-castro",
+  "from": "phoenix",
+  "to": "castro",
+  "kind": "institutional",
+  "share": 11.07,
+  "label": "11.07%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-castro"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-eligabbay-castro",
+  "from": "eligabbay",
+  "to": "castro",
+  "kind": "ownership",
+  "share": 9.45,
+  "label": "9.45%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-castro"
+  ],
+  "asOf": "2023-07-09",
+  "note": ""
+ },
+ {
+  "id": "w4-h-rotterfam-castro",
+  "from": "rotterfam",
+  "to": "castro",
+  "kind": "ownership",
+  "share": 18.04,
+  "label": "18.04%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-castro"
+  ],
+  "asOf": "2026-01-07",
+  "note": ""
+ },
+ {
+  "id": "w4-h-menora-castro",
+  "from": "menora",
+  "to": "castro",
+  "kind": "institutional",
+  "share": 10.48,
+  "label": "10.48%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-castro"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-gabizon-castro",
+  "from": "gabizon",
+  "to": "castro",
+  "kind": "ownership",
+  "share": 8.78,
+  "label": "8.78%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-castro"
+  ],
+  "asOf": "2021-10-27",
+  "note": ""
+ },
+ {
+  "id": "w4-h-dabah-delta",
+  "from": "dabah",
+  "to": "delta",
+  "kind": "ownership",
+  "share": 44.26,
+  "label": "44.26%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-delta"
+  ],
+  "asOf": "2026-04-06",
+  "note": ""
+ },
+ {
+  "id": "w4-h-lautman-delta",
+  "from": "lautman",
+  "to": "delta",
+  "kind": "ownership",
+  "share": 9.91,
+  "label": "9.91%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-delta"
+  ],
+  "asOf": "2014-07-30",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-delta",
+  "from": "phoenix",
+  "to": "delta",
+  "kind": "institutional",
+  "share": 8.21,
+  "label": "8.21%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-delta"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-delta",
+  "from": "menora",
+  "to": "delta",
+  "kind": "institutional",
+  "share": 6.45,
+  "label": "6.45%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-delta"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-delta",
+  "from": "clal",
+  "to": "delta",
+  "kind": "institutional",
+  "share": 5.36,
+  "label": "5.36%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-delta"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clalind-golf",
+  "from": "clalind",
+  "to": "golf",
+  "kind": "ownership",
+  "share": 52.65,
+  "label": "52.65%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-golf"
+  ],
+  "asOf": "2023-06-29",
+  "note": ""
+ },
+ {
+  "id": "w4-h-steimatzky-golf",
+  "from": "steimatzky",
+  "to": "golf",
+  "kind": "ownership",
+  "share": 15.51,
+  "label": "15.51%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-golf"
+  ],
+  "asOf": "2021-12-14",
+  "note": ""
+ },
+ {
+  "id": "w4-h-clal-golf",
+  "from": "clal",
+  "to": "golf",
+  "kind": "institutional",
+  "share": 10.47,
+  "label": "10.47%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-golf"
+  ],
+  "asOf": "2025-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-teva",
+  "from": "harel",
+  "to": "teva",
+  "kind": "institutional",
+  "share": 6.09,
+  "label": "6.09%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-teva"
+  ],
+  "asOf": "2025-12-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-teva",
+  "from": "migdal",
+  "to": "teva",
+  "kind": "institutional",
+  "share": 5.36,
+  "label": "5.36%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-teva"
+  ],
+  "asOf": "2025-12-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-teva",
+  "from": "menora",
+  "to": "teva",
+  "kind": "institutional",
+  "share": 5,
+  "label": "5%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-teva"
+  ],
+  "asOf": "2025-07-16",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-teva",
+  "from": "phoenix",
+  "to": "teva",
+  "kind": "institutional",
+  "share": 4.79,
+  "label": "4.79%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-teva"
+  ],
+  "asOf": "2025-07-14",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-fimi-kamada",
+  "from": "fimi",
+  "to": "kamada",
+  "kind": "institutional",
+  "share": 43.11,
+  "label": "43.11%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-kamada"
+  ],
+  "asOf": "2023-09-07",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-kamada",
+  "from": "phoenix",
+  "to": "kamada",
+  "kind": "institutional",
+  "share": 6.95,
+  "label": "6.95%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-kamada"
+  ],
+  "asOf": "2025-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-recanati-kamada",
+  "from": "recanati",
+  "to": "kamada",
+  "kind": "ownership",
+  "share": 5.95,
+  "label": "5.95%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-kamada"
+  ],
+  "asOf": "2025-12-31",
+  "note": ""
+ },
+ {
+  "id": "w4-h-migdal-enlight",
+  "from": "migdal",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 9.9,
+  "label": "9.9%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2026-06-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-enlight",
+  "from": "harel",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 16.59,
+  "label": "16.59%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2026-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-enlight",
+  "from": "clal",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 8.22,
+  "label": "8.22%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2026-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-enlight",
+  "from": "menora",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 7.57,
+  "label": "7.57%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2026-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-enlight",
+  "from": "meitav",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 8.53,
+  "label": "8.53%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2025-09-25",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-enlight",
+  "from": "phoenix",
+  "to": "enlight",
+  "kind": "institutional",
+  "share": 6.4,
+  "label": "6.4%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-enlight"
+  ],
+  "asOf": "2026-03-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-alonyhetz-energix",
+  "from": "alonyhetz",
+  "to": "energix",
+  "kind": "ownership",
+  "share": 50.05,
+  "label": "50.05%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-energix"
+  ],
+  "asOf": "2026-09-23",
+  "note": ""
+ },
+ {
+  "id": "w4-h-phoenix-energix",
+  "from": "phoenix",
+  "to": "energix",
+  "kind": "institutional",
+  "share": 7.79,
+  "label": "7.79%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-energix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-energix",
+  "from": "harel",
+  "to": "energix",
+  "kind": "institutional",
+  "share": 6.94,
+  "label": "6.94%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-energix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-energix",
+  "from": "migdal",
+  "to": "energix",
+  "kind": "institutional",
+  "share": 7.08,
+  "label": "7.08%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-energix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-energix",
+  "from": "menora",
+  "to": "energix",
+  "kind": "institutional",
+  "share": 5.4,
+  "label": "5.4%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-energix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-ormat",
+  "from": "harel",
+  "to": "ormat",
+  "kind": "institutional",
+  "share": 7.72,
+  "label": "7.72%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ormat"
+  ],
+  "asOf": "2026-06-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-ormat",
+  "from": "migdal",
+  "to": "ormat",
+  "kind": "institutional",
+  "share": 6.51,
+  "label": "6.51%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ormat"
+  ],
+  "asOf": "2026-06-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-ormat",
+  "from": "phoenix",
+  "to": "ormat",
+  "kind": "institutional",
+  "share": 5.77,
+  "label": "5.77%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ormat"
+  ],
+  "asOf": "2026-09-10",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-ormat",
+  "from": "menora",
+  "to": "ormat",
+  "kind": "institutional",
+  "share": 3.02,
+  "label": "3.02%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ormat"
+  ],
+  "asOf": "2021-12-31",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-wishor-ayalon",
+  "from": "wishor",
+  "to": "ayalon",
+  "kind": "ownership",
+  "share": 61.58,
+  "label": "61.58%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ],
+  "asOf": "2026-01-28",
+  "note": ""
+ },
+ {
+  "id": "w4-h-clal-ayalon",
+  "from": "clal",
+  "to": "ayalon",
+  "kind": "institutional",
+  "share": 7.16,
+  "label": "7.16%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-mor-ayalon",
+  "from": "mor",
+  "to": "ayalon",
+  "kind": "institutional",
+  "share": 3.29,
+  "label": "3.29%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ],
+  "asOf": "2026-01-28",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-ayalon",
+  "from": "phoenix",
+  "to": "ayalon",
+  "kind": "institutional",
+  "share": 3.09,
+  "label": "3.09%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-ayalon"
+  ],
+  "asOf": "2026-07-13",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-bram-meitavinv",
+  "from": "bram",
+  "to": "meitavinv",
+  "kind": "ownership",
+  "share": 25.88,
+  "label": "25.88%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-meitav"
+  ],
+  "asOf": "2025-07-13",
+  "note": ""
+ },
+ {
+  "id": "w4-h-mayahold-meitavinv",
+  "from": "mayahold",
+  "to": "meitavinv",
+  "kind": "ownership",
+  "share": 25.43,
+  "label": "25.43%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-meitav"
+  ],
+  "asOf": "2026-07-24",
+  "note": ""
+ },
+ {
+  "id": "w4-h-meitav-meitavinv",
+  "from": "meitav",
+  "to": "meitavinv",
+  "kind": "institutional",
+  "share": 1.62,
+  "label": "1.62%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-meitav"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-clal-bezeq",
+  "from": "clal",
+  "to": "bezeq",
+  "kind": "institutional",
+  "share": 5.55,
+  "label": "5.55%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bezeq"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-migdal-bezeq",
+  "from": "migdal",
+  "to": "bezeq",
+  "kind": "institutional",
+  "share": 6.66,
+  "label": "6.66%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bezeq"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-bezeq",
+  "from": "menora",
+  "to": "bezeq",
+  "kind": "institutional",
+  "share": 5.7,
+  "label": "5.7%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bezeq"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-bezeq",
+  "from": "harel",
+  "to": "bezeq",
+  "kind": "institutional",
+  "share": 6.6,
+  "label": "6.6%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-bezeq"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-hapoalim",
+  "from": "menora",
+  "to": "hapoalim",
+  "kind": "institutional",
+  "share": 6.1,
+  "label": "6.1%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-hapoalim"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-hapoalim",
+  "from": "meitav",
+  "to": "hapoalim",
+  "kind": "institutional",
+  "share": 2.93,
+  "label": "2.93%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-hapoalim"
+  ],
+  "asOf": "2026-06-04",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-mor-fibi",
+  "from": "mor",
+  "to": "fibi",
+  "kind": "institutional",
+  "share": 5.29,
+  "label": "5.29%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fibi"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-fibi",
+  "from": "meitav",
+  "to": "fibi",
+  "kind": "institutional",
+  "share": 4.99,
+  "label": "4.99%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-fibi"
+  ],
+  "asOf": "2025-02-06",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-phoenix",
+  "from": "menora",
+  "to": "phoenix",
+  "kind": "institutional",
+  "share": 6.51,
+  "label": "6.51%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-phoenix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-phoenix",
+  "from": "harel",
+  "to": "phoenix",
+  "kind": "institutional",
+  "share": 6.21,
+  "label": "6.21%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-phoenix"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-clal",
+  "from": "menora",
+  "to": "clal",
+  "kind": "institutional",
+  "share": 6.15,
+  "label": "6.15%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-clal"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-harel-clal",
+  "from": "harel",
+  "to": "clal",
+  "kind": "institutional",
+  "share": 6.37,
+  "label": "6.37%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-clal"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-phoenix-clal",
+  "from": "phoenix",
+  "to": "clal",
+  "kind": "institutional",
+  "share": 6.95,
+  "label": "6.95%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-clal"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-meitav-clal",
+  "from": "meitav",
+  "to": "clal",
+  "kind": "institutional",
+  "share": 6.2,
+  "label": "6.2%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-clal"
+  ],
+  "asOf": "2026-09-30",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-altshuler-icl",
+  "from": "altshuler",
+  "to": "icl",
+  "kind": "institutional",
+  "share": 5.02,
+  "label": "5.02%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-icl"
+  ],
+  "asOf": "2023-01-05",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-h-menora-icl",
+  "from": "menora",
+  "to": "icl",
+  "kind": "institutional",
+  "share": 5.06,
+  "label": "5.06%",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-icl"
+  ],
+  "asOf": "2025-11-06",
+  "note": "סך ההחזקה של קופות הגמל, הקרנות והנוסטרו של הקבוצה"
+ },
+ {
+  "id": "w4-meitavinv-funds",
+  "from": "meitavinv",
+  "to": "meitav",
+  "kind": "ownership",
+  "share": null,
+  "label": "חברת האם של הקופות והקרנות",
+  "former": false,
+  "confidence": "official",
+  "sources": [
+   "bizportal-holders-meitav"
   ]
  }
 ]
