@@ -11,6 +11,15 @@ import { typeGroup } from "./model";
 import { initHero } from "./hero";
 import { initFeedback, openFeedback } from "./feedback";
 import { initFacts } from "./facts";
+import { inject as injectAnalytics } from "@vercel/analytics";
+import { injectSpeedInsights } from "@vercel/speed-insights";
+
+// Visitor counts and page speed, reported to the Vercel dashboard (Analytics and Speed Insights tabs).
+// Runs only on the site hosted by Vercel, not in local previews or other copies of the page.
+if (/\.vercel\.app$/.test(location.hostname) || location.hostname === "theisraelieconomy.co.il") {
+  injectAnalytics({ mode: "production" });
+  injectSpeedInsights();
+}
 
 const $ = <T extends HTMLElement = HTMLElement>(s: string) => document.querySelector(s) as T;
 let db: DB;
